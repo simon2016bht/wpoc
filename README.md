@@ -1,9 +1,9 @@
 # West Pacific Ocean Cup
 
 ## Carcassonne alpha
-Start date: 2024-02-12
-Players: 7
-Configuration: turn-based multiplayer elimination 3-2-1; 7 days duration
+- Start date: 2024-02-12
+- Players: 7
+- Configuration: turn-based multiplayer elimination 3-2-1; 7 days duration
 Abandoned tables: %
 Time spent per player per game:
 
