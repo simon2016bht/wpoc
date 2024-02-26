@@ -1,4 +1,3 @@
-Western Pacific Ocean Cup Results
 ## Azul alpha
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
