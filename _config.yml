@@ -4,4 +4,6 @@ plugins:
 title: [The title of your site]
 description: [Tournament Results]
 how_downloads: [false]
+github:
+  is_project_page: false
 #google_analytics: [Your Google Analytics tracking ID]
