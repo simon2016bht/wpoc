@@ -6,6 +6,8 @@ plugins:
 #title: Octocat's homepage
 #description: Bookmark this to keep an eye on my project updates!
 
+site.title: tttitle
+
 github:
   is_project_page: true
 
