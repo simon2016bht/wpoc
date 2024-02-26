@@ -1,4 +1,4 @@
-# West Pacific Ocean Cup - Tournament Results
+# Tournament Results
 
 ## Carcassonne alpha
 - Start date: 02/12/2024
