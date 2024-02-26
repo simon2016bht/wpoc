@@ -9,7 +9,7 @@
 - Cancelled(player left) tables: 0%
 - Elo mean(SD): 276 (156) 
 - Top origins of players: Taiwan 29%
-
+.
 ## Yahtzee Lunar New Year 
 - Start date: 2024-02-12
 - Players: 8
