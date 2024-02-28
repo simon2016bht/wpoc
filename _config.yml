@@ -8,6 +8,7 @@ plugins:
 
 title: Western Pacific Ocean Cup Results
 
+description: description
 
 github:
   is_project_page: false
