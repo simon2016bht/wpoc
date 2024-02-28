@@ -1,4 +1,5 @@
-# Azul alpha
+# Azul 
+## alpha
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
 - Top origins of players: France 19%, Hong Kong 19%, Spain 12%
@@ -6,7 +7,8 @@
 - Abandoned[^1] / cencelled tables[^2]: 11% / 0%
 - Date: 02/12/2024 - 
 
-# Carcassonne alpha
+# Carcassonne 
+## alpha
 - Winners: 🥇Anguz , 🥈simtt , 🥉Mrwan1
 - Number of players: 7
 - Top origins of players: Taiwan 29%
@@ -15,7 +17,8 @@
 - Date: 02/12/2024 - 
 
 
-# Yahtzee Lunar New Year 
+# Others 
+## Yahtzee Lunar New Year 
 - Winners: 🥇sockenmann78 , 🥈cindyCracotte , 🥉alphazyh
 - Number of players: 8
 - Top origins of players: France 38%, Taiwan 25%
