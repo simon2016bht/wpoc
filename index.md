@@ -1,4 +1,8 @@
-# Azul 
+---
+title: 123
+---
+
+## Azul 
 ## [alpha](https://boardgamearena.com/tournament?id=272002)
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
