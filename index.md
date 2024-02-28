@@ -7,6 +7,8 @@
 - Abandoned[^1] / cencelled tables[^2]: 11% / 0%
 - Date: 02/12/2024 - 
 
+### test
+
 # Carcassonne 
 ## alpha
 - Winners: 🥇Anguz , 🥈simtt , 🥉Mrwan1
