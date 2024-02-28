@@ -6,7 +6,8 @@ plugins:
 #title: Octocat's homepage
 #description: Bookmark this to keep an eye on my project updates!
 
-site.title: stitle
+title: Western Pacific Ocean Cup Results
+
 
 github:
   is_project_page: false
