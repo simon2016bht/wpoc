@@ -1,9 +1,4 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
-
+# Title?
 ## Azul alpha
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
