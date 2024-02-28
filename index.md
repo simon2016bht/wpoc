@@ -1,5 +1,5 @@
 # Azul 
-## alpha
+## [alpha](https://boardgamearena.com/tournament?id=272002)
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
 - Top origins of players: France 19%, Hong Kong 19%, Spain 12%
