@@ -1,6 +1,5 @@
 ---
-layout: default
-title:
+title: BGA
 ---
 
 # Azul 
