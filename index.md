@@ -1,4 +1,9 @@
-## Azul 
+---
+layout: default
+title:
+---
+
+# Azul 
 ## [alpha](https://boardgamearena.com/tournament?id=272002)
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei
 - Number of players: 16
@@ -7,7 +12,6 @@
 - Abandoned[^1] / cencelled tables[^2]: 11% / 0%
 - Date: 02/12/2024 - 
 
-### test
 
 # Carcassonne 
 ## alpha
