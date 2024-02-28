@@ -7,7 +7,6 @@ plugins:
 #description: Bookmark this to keep an eye on my project updates!
 
 site.title: stitle
-title: 123
 
 github:
   is_project_page: false
