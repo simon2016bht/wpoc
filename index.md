@@ -8,7 +8,8 @@ title: Overview
 - Number of players: 16
 - Top origins of players: France 19%, Hong Kong 19%, Spain 12%
 - Median Elo of players: ___
-- Abandoned[^1] / cencelled tables[^2]: 11% / 0%
+- Abandoned[^1]: 11% 
+- Cancelled tables[^2]: 0%
 - Date: 02/12/2024 - 
 
 
@@ -18,7 +19,8 @@ title: Overview
 - Number of players: 7
 - Top origins of players: Taiwan 29%
 - Median Elo of players: ___
-- Abandoned[^1] / cencelled tables[^2]: 25% / 0%
+- Abandoned[^1]: 25%
+- Cancelled tables[^2]: 0%
 - Date: 02/12/2024 - 
 
 
@@ -28,7 +30,8 @@ title: Overview
 - Number of players: 8
 - Top origins of players: France 38%, Taiwan 25%
 - Median Elo of players: ___
-- Abandoned[^1] / cencelled tables[^2]: 0% / 33%
+- Abandoned[^1]: 0% 
+- Cancelled tables[^2]: 33%
 - Date: 02/12/2024 - 
 
 ---
