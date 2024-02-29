@@ -15,28 +15,6 @@ title: Overview
 - Date: 02/12/2024 - 02/26/2024
 
 
-1. check if multiple players with same rank [[('Nostrike', '1st')], [('fanf69', '2nd')], [('yathei', '3rd')], [('simtt', '3rd')], [('calvin9856', '4th')], [('elg76', '4th')]]
-2. check top orifins: France 19% Hong Kong 19% Spain 12% Andorra 6% Belarus 6% Brazil 6% Czechia 6% Italy 6% Russia 6% Thailand 6% United States of America 6% 
-3. check and convert table time unit ['6 days', '6 days', '6 days', '7 days', '9h14', '2.6 days', '1.5 days', '5 days', '1.3 days']
-4. check last day of tournament and calculate duration
-
-
-
-
-
-## [alpha](https://boardgamearena.com/tournament?id=272002)
-- Winners: 🥇Nostrike 🥈fanf69 🥉yathei
-- Number of players: 16
-- Top origins of players: France 19%, Hong Kong 19%, Spain 12%
-- Median Elo of players: ___
-- Abandoned tables: 11% 
-- Cancelled tables: 0%
-- Date: 02/12/2024 - 
-
-
-
-
-
 
 # Carcassonne 
 
