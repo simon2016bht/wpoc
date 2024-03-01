@@ -46,6 +46,14 @@ title: Overview
  <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301121301.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
 
+try
+
+<div>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301134215.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301130609.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
 
 ---
 > <sub>Abandoned table: The game was abandoned automatically because the players did not manage to finish it before the next round of the tournament. The player with the most remaining thinking time wins the game.</sub>
