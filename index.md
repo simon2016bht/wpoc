@@ -43,10 +43,10 @@ title: Overview
 <img src="/wpoc/assets/_Yahtzee_Duration_20240301121301.png" width="500"/>
 
 
-![](/assets/_Yahtzee_Duration_20240301121301.png)
-![](/assets/image/1.png)
-![](assets/image/1.png)
-![](2.png)
+![](/assets/images/_Yahtzee_Duration_20240301121301.png)
+![](/assets/images/1.png)
+![](/assets/images/2.png)
+![](1.png)
 
 
 ---
