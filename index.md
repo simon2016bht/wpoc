@@ -45,6 +45,9 @@ title: Overview
 
 ![](/assets/_Yahtzee_Duration_20240301121301.png)
 ![](1.png)
+![](/assets/image/1.png)
+![](2.png)
+
 
 ---
 > <sub>Abandoned table: The game was abandoned automatically because the players did not manage to finish it before the next round of the tournament. The player with the most remaining thinking time wins the game.</sub>
