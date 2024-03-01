@@ -41,7 +41,7 @@ title: Overview
 - Date: 02/12/2024 - 02/18/2024
 ![](/assets/1.png)
 
-<img src="/assets/1.png" width="500"/>
+<img src="/wpoc/assets/1.png" width="500"/>
 
 
 ---
