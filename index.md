@@ -39,14 +39,7 @@ title: Overview
 - Abandoned tables: 0%
 - Cancelled tables: 33% 
 - Date: 02/12/2024 - 02/18/2024
-<div>
- <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301121814.png" width="350" style="display: block; margin-left: 30px;"/>
-</div>
-<div>
- <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301121301.png" width="350" style="display: block; margin-left: 30px;"/>
-</div>
 
-try
 
 <div>
  <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301134215.png" width="350" style="display: block; margin-left: 30px;"/>
