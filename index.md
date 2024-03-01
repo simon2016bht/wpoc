@@ -42,10 +42,10 @@ title: Overview
 
 
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301134215.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301144556.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301130609.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301144719.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
 
 ---
