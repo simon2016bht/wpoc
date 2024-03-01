@@ -30,6 +30,12 @@ title: Overview
 
 
 # Others 
+
+
+
+
+
+
 ## [Yahtzee Lunar New Year](https://boardgamearena.com/tournament?id=272011)
 - Winners: 🥇sockenmann78 🥈cindyCracotte 🥉alphazyh
 - Number of players: 8
@@ -42,12 +48,11 @@ title: Overview
 
 
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301144556.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301223403.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301144719.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301223518.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
-
 ---
 > <sub>Abandoned table: The game was abandoned automatically because the players did not manage to finish it before the next round of the tournament. The player with the most remaining thinking time wins the game.</sub>
 
