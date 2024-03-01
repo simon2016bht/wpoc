@@ -40,9 +40,13 @@ title: Overview
 - Cancelled tables: 33% 
 - Date: 02/12/2024 - 02/18/2024
  
-<div><img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301121814.png" width="350"/></div>
+<div>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301121814.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301121301.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
 
-<img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301121301.png" width="350" style="text-align: center"/>
 
 
 ---
