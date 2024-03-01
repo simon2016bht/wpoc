@@ -39,7 +39,7 @@ title: Overview
 - Abandoned tables: 0%
 - Cancelled tables: 33% 
 - Date: 02/12/2024 - 02/18/2024
-
+![](/assets/1.png)
 
 ---
 > <sub>Abandoned table: The game was abandoned automatically because the players did not manage to finish it before the next round of the tournament. The player with the most remaining thinking time wins the game.</sub>
