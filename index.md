@@ -4,7 +4,7 @@ title: Overview
 
 # Azul 
 ## [alpha](https://boardgamearena.com/tournament?id=272002)
-- Winners: 🥇Nostrike 🥈fanf69 🥉yathei
+- Winners: 🥇Nostrike 🥈fanf69 🥉yathei 🥉simtt
 - Number of players: 16
 - Top origins of players: France 19% Hong Kong 19% Spain 12% 
 - Median Elo of players: 212
@@ -13,25 +13,11 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/26/2024
 <div>
- <img src="/wpoc/assets/images/t_Azul_Elo_20240302075616.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Azul_Elo_20240302084516.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Azul_Duration_20240302075650.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Azul_Duration_20240302084524.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
-
-
-
-
-## [alpha](https://boardgamearena.com/tournament?id=272002)
-- Winners: 🥇Nostrike 🥈fanf69 🥉yathei 🥉simtt
-- Number of players: 16
-- Top origins of players: France 19% Hong Kong 19% Spain 12%
-- Median Elo of players: 214
-- Median table duration: 5 days
-- Abandoned tables: 11%
-- Cancelled tables: 0% 
-- Date: 02/12/2024 - 02/26/2024
-
 
 
 # Carcassonne 
@@ -45,17 +31,15 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/21/2024
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240302073322.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240302084827.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240302073658.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240302084918.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
 # Others 
-
-
-## [Yahtzee Lunar New Year](https://boardgamearena.com/tournament?id=272011)
+## [Yahtzee - Lunar New Year](https://boardgamearena.com/tournament?id=272011)
 - Winners: 🥇sockenmann78 🥈cindyCracotte 🥉alphazyh
 - Number of players: 8
 - Top origins of players: France 38% Taiwan 25% 
@@ -64,13 +48,11 @@ title: Overview
 - Abandoned tables: 0%
 - Cancelled tables: 33% 
 - Date: 02/12/2024 - 02/18/2024
-
-
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240301225709.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240302085403.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240301225728.png" width="350" style="display: block; margin-left: 30px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240302085443.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
