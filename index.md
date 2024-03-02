@@ -17,6 +17,23 @@ title: Overview
 
 
 # Carcassonne 
+## [alpha](https://boardgamearena.com/tournament?id=272009)
+- Winners: 🥇Anguz 🥈simtt 🥉Mrwan1
+- Number of players: 7
+- Top origins of players: Taiwan 29% B
+- Median Elo of players: 176
+- Median table duration: 1.2 days
+- Abandoned tables: 25%
+- Cancelled tables: 0% 
+- Date: 02/12/2024 - 02/21/2024
+<div>
+ <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240302073322.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240302073658.png" width="350" style="display: block; margin-left: 30px;"/>
+</div>
+
+
 
 ## [alpha](https://boardgamearena.com/tournament?id=272009)
 - Winners: 🥇Anguz 🥈simtt 🥉Mrwan1
@@ -30,10 +47,6 @@ title: Overview
 
 
 # Others 
-
-
-
-
 
 
 ## [Yahtzee Lunar New Year](https://boardgamearena.com/tournament?id=272011)
