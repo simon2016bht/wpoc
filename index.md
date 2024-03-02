@@ -3,6 +3,24 @@ title: Overview
 ---
 
 # Azul 
+## [alpha](https://boardgamearena.com/tournament?id=272002)
+- Winners: 🥇Nostrike 🥈fanf69 🥉yathei
+- Number of players: 16
+- Top origins of players: France 19% Hong Kong 19% Spain 12% 
+- Median Elo of players: 212
+- Median table duration: 5.0 days
+- Abandoned tables: 11%
+- Cancelled tables: 0% 
+- Date: 02/12/2024 - 02/26/2024
+<div>
+ <img src="/wpoc/assets/images/t_Azul_Elo_20240302075616.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/t_Azul_Duration_20240302075650.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+
+
+
 
 ## [alpha](https://boardgamearena.com/tournament?id=272002)
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei 🥉simtt
@@ -32,18 +50,6 @@ title: Overview
 <div>
  <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240302073658.png" width="350" style="display: block; margin-left: 30px;"/>
 </div>
-
-
-
-## [alpha](https://boardgamearena.com/tournament?id=272009)
-- Winners: 🥇Anguz 🥈simtt 🥉Mrwan1
-- Number of players: 7
-- Top origins of players: Taiwan 29% 
-- Median Elo of players: 171
-- Median table duration: 1.2 days
-- Abandoned tables: 25%
-- Cancelled tables: 0% 
-- Date: 02/12/2024 - 02/21/2024
 
 
 # Others 
