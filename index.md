@@ -13,10 +13,10 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/26/2024
 <div>
- <img src="/wpoc/assets/images/t_Azul_Elo_20240302084516.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Azul_Elo_20240305130032.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Azul_Duration_20240302084524.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Azul_Duration_20240305122416.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
@@ -31,10 +31,10 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/21/2024
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240302084827.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240305192147.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240302084918.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240305192650.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
@@ -49,10 +49,10 @@ title: Overview
 - Cancelled tables: 33% 
 - Date: 02/12/2024 - 02/18/2024
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240302085403.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Elo_20240305130401.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240302085443.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Yahtzee_Duration_20240305130449.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
