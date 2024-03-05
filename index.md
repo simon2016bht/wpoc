@@ -13,10 +13,10 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/26/2024
 <div>
- <img src="/wpoc/assets/images/t_Azul_Elo_20240305130032.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Azul_Elo_20240305130032.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Azul_Duration_20240305122416.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Azul_Duration_20240305122416.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
@@ -31,7 +31,7 @@ title: Overview
 - Cancelled tables: 0% 
 - Date: 02/12/2024 - 02/21/2024
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240305192147.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240305192147.png" width="200" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
  <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240305192650.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
