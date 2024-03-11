@@ -12,10 +12,10 @@ title: Overview
 - Cancelled tables: 20% 
 - Date: 02/19/2024 - 03/10/2024
 <div>
- <img src="/wpoc/assets/images/assets/t_Splendor_Elo_20240310204745.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Splendor_Elo_20240310204745.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/assets/t_Splendor_Duration_20240310204745.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Splendor_Duration_20240310204745.png" width="350" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
