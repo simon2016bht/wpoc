@@ -2,7 +2,7 @@
 title: Overview
 ---
 # Ticket to Ride
-## [alpha](https://boardgamearena.com/tournament?id=272932)
+## [3p - alpha](https://boardgamearena.com/tournament?id=272932)
 - Winners: 🥇KaLLusia 🥈umarth96 🥉MonstrikLisenok 🥉simtt
 - Number of players: 99
 - Top origins of players: USA 13% Spain 10% Germany 8%
@@ -24,7 +24,7 @@ title: Overview
 
 
 # Splendor
-## [alpha](https://boardgamearena.com/tournament?id=272931)
+## [3p - alpha](https://boardgamearena.com/tournament?id=272931)
 - Winners: 🥇Terry5145 🥈FuminTH 🥉ooiwata 🥉xerqaz
 - Number of players: 99
 - Top origins of players: USA 12% France 8% China 6% Taiwan 6% Poland 6% Japan 6%
@@ -43,7 +43,7 @@ title: Overview
 
 
 # Azul 
-## [alpha](https://boardgamearena.com/tournament?id=272002)
+## [3p - alpha](https://boardgamearena.com/tournament?id=272002)
 - Winners: 🥇Nostrike 🥈fanf69 🥉yathei 🥉simtt
 - Number of players: 16
 - Top origins of players: France 19% Hong Kong 19% Spain 12% 
@@ -61,7 +61,7 @@ title: Overview
 
 
 # Carcassonne 
-## [alpha](https://boardgamearena.com/tournament?id=272009)
+## [3p - alpha](https://boardgamearena.com/tournament?id=272009)
 - Winners: 🥇Anguz 🥈simtt 🥉Mrwan1
 - Number of players: 7
 - Top origins of players: Taiwan 29% B
