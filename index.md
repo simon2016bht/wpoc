@@ -1,6 +1,28 @@
 ---
 title: Overview
 ---
+# Ticket to Ride
+## [alpha](https://boardgamearena.com/tournament?id=272932)
+- Winners: 🥇KaLLusia 🥈umarth96 🥉MonstrikLisenok 🥉simtt
+- Number of players: 99
+- Top origins of players: USA 13% Spain 10% Germany 8%
+- Q1/Q2/Q3 of player's Elo rating: 122/176/226
+- Q1/Q2/Q3 of table duration (days): 5.0/7.0/7.0
+- Abandoned tables: 47%
+- Cancelled tables: 22% 
+- Date: 02/19/2024 - 03/14/2024
+<div>
+ <img src="/wpoc/assets/images/t_Ticket to Ride_Elo_20240315081641.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/t_Ticket to Ride_Duration_20240315084605.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+
+
+
+
+
+
 # Splendor
 ## [alpha](https://boardgamearena.com/tournament?id=272931)
 - Winners: 🥇Terry5145 🥈FuminTH 🥉ooiwata 🥉xerqaz
