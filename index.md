@@ -1,6 +1,18 @@
 ---
 title: Overview
 ---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+
 # Ticket to Ride
 ## [3p - alpha](https://boardgamearena.com/tournament?id=272932)
 - Winners: 🥇KaLLusia 🥈umarth96 🥉MonstrikLisenok 🥉simtt
