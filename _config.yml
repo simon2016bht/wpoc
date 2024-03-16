@@ -1,17 +1,19 @@
 remote_theme: pages-themes/leap-day@v0.2.0
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-#title: Western Pacific Ocean Cup Results
-#description: []
-#title: Octocat's homepage
+
 #description: Bookmark this to keep an eye on my project updates!
 
 title: Western Pacific Ocean Cup Results
 
-description: description
+#description: .
 
 github:
   is_project_page: false
 
 #google_analytics: [Your Google Analytics tracking ID]
+
 #how_downloads: [true]
+
+permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
