@@ -5,8 +5,7 @@ title: Overview
 <ul>
   {% for post in site.posts %}
     <li>
-	[//]: # <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-	 <a href="{{ site.baseurl }}/{{ post.url }}"></a>
+	<a href="{{ site.baseurl }}/{{ post.url }}"></a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
