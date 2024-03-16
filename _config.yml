@@ -16,4 +16,6 @@ github:
 
 #how_downloads: [true]
 
-permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
+#permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
+
+basewebsite: /wpoc
