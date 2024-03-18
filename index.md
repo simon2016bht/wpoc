@@ -32,7 +32,7 @@ title: Overview
 
 ---
 
-> <sub>Abandoned table: The game was abandoned automatically because the players did not manage to finish it before the next round of the tournament. The player with the most remaining thinking time wins the game.</sub>
+> <sub>Abandoned table: The players did not manage to finish it before the next round of the tournament. </sub>
 
 
 > <sub>Cancelled table: Someone left this game before the end</sub>
