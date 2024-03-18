@@ -35,3 +35,13 @@ __
 {% endif %}
 
 {% endfor %}
+
+
+
+__
+sample code 3:
+__
+{% for post in site.tags.TTR %}
+<h2>{{ post.title }}</h2>
+<time>{{ post.date }}</time>
+{% endfor %}
