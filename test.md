@@ -22,7 +22,6 @@ title: Overview
 {% endfor %}
 
 
-
 # Special
 {% for post in site.tags.special %}
 {{ post.excerpt }}
