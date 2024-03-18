@@ -11,6 +11,22 @@ title: Overview
 {{ post.excerpt }}
 {% endfor %}
 
+# Azul
+{% for post in site.tags.A %}
+{{ post.excerpt }}
+{% endfor %}
+
+# Carcassonne
+{% for post in site.tags.CCS %}
+{{ post.excerpt }}
+{% endfor %}
+
+
+
+# Special
+{% for post in site.tags.special %}
+{{ post.excerpt }}
+{% endfor %}
 
 __
 sample code 1:
