@@ -12,7 +12,7 @@ title: Overview
 {% for post in site.tags.Sd %}
 {{ post.excerpt }}
 {% endfor %}
-<br><br>
+<br>
 
 # Azul
 {% for post in site.tags.A %}
