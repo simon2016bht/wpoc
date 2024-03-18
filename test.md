@@ -6,6 +6,10 @@ title: Overview
 {{ post.excerpt }}
 {% endfor %}
 
+# Splendor
+{% for post in site.tags.Sd %}
+{{ post.excerpt }}
+{% endfor %}
 
 
 __
