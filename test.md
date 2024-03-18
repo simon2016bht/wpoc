@@ -36,12 +36,33 @@ __
 
 {% endfor %}
 
-
-
 __
 sample code 3:
 __
 {% for post in site.tags.TTR %}
 <h2>{{ post.title }}</h2>
-<time>{{ post.date }}</time>
+
+{{ post.excerpt }}
+
+{{ post.date }}
 {% endfor %}
+
+
+
+__
+sample code: 4
+___
+<ul>
+  {% for post in site.posts %}
+    <li>
+	<a href="{{ site.baseurl }}/{{ post.url }}"></a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+
+
+
