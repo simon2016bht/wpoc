@@ -6,7 +6,7 @@ title: Overview
 {{ post.excerpt }}
 {% endfor %}
 
-<br><br>
+<br>
 
 # Splendor
 {% for post in site.tags.Sd %}
@@ -18,13 +18,13 @@ title: Overview
 {% for post in site.tags.A %}
 {{ post.excerpt }}
 {% endfor %}
-<br><br>
+<br>
 
 # Carcassonne
 {% for post in site.tags.CCS %}
 {{ post.excerpt }}
 {% endfor %}
-<br><br>
+<br>
 
 # Special
 {% for post in site.tags.special %}
