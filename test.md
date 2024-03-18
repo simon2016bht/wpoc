@@ -1,8 +1,8 @@
 # Test Page
 
---------
+__
 sample code 1:
---------
+__
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
@@ -14,9 +14,10 @@ sample code 1:
 {% endfor %}
 
 
---------
+__
 sample code 2:
---------
+__
+
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign vids = tag[1] | sort %}
