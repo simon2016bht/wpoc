@@ -1,6 +1,14 @@
 ---
 title: Overview
 ---
+# 7 Wonders
+{% for post in site.tags.7W %}
+{{ post.excerpt }}
+{% endfor %}
+
+<br>
+
+
 # Ticket to Ride
 {% for post in site.tags.TTR %}
 {{ post.excerpt }}
