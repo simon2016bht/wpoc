@@ -23,7 +23,7 @@ title: Overview
 <br>
 
 # Azul
-{% for post in site.tags.A %}
+{% for post in site.tags.Az %}
 {{ post.excerpt }}
 {% endfor %}
 <br>
