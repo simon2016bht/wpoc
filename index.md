@@ -42,8 +42,10 @@ title: Overview
 
 ---
 
-> <sub>Abandoned table: The players did not manage to finish it before the next round of the tournament. </sub>
+> <sub>Abandoned table: </sub>
+> <sub>The players did not manage to finish it before the next round of the tournament. </sub>
 
 
-> <sub>Cancelled table: Someone left this game before the end</sub>
+> <sub>Cancelled table: </sub>
+> <sub>Someone left this game before the end</sub>
 
