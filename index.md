@@ -9,7 +9,6 @@ title: Overview
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
 {% endfor %}
-
 <br>
 
 <div>
