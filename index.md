@@ -3,13 +3,9 @@ title: Overview
 ---
 
 <div>
- <img src="/wpoc/assets/images/Icon.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/7W.jpg" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 
-{% link assets/images/Icon.png %}
-
-
-![]({% link assets/images/Icon.png %})
 # 7 Wonders
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
