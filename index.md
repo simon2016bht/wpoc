@@ -1,7 +1,13 @@
 ---
 title: Overview
 ---
+
+<div>
+ <img src="/wpoc/assets/images/Icon.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+
 {% link assets/images/Icon.png %}
+
 
 ![]({% link assets/images/Icon.png %})
 # 7 Wonders
