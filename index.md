@@ -1,6 +1,7 @@
 ---
 title: Overview
 ---
+![]({% link assets/images/Icon.png %})
 # 7 Wonders
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
