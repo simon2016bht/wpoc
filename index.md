@@ -4,7 +4,7 @@ title: Overview
 
 <div>
  <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" width="50" style="display: inline-block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
- <img src="/wpoc/assets/images/LowResIcon/7W.jpg" width="50" style="display: inline-block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+ <img src="/wpoc/assets/images/LowResIcon/7W.jpg" width="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
