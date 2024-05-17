@@ -3,10 +3,10 @@ title: Overview
 ---
 
 <div>
- <img src="/wpoc/assets/images/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/LowResIcon/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/LowResIcon/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
@@ -14,7 +14,10 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/TTR.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/TTR.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.TTR %}
 {{ post.excerpt }}
@@ -22,7 +25,10 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/Sp.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/Sp.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/LowResIcon/Sp.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.Sd %}
 {{ post.excerpt }}
@@ -30,7 +36,10 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/Az.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/Az.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/LowResIcon/Az.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.Az %}
 {{ post.excerpt }}
@@ -38,7 +47,10 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/Ccs.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/Ccs.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/LowResIcon/Ccs.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.Ccs %}
 {{ post.excerpt }}
@@ -46,8 +58,12 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
-</div>{% for post in site.tags.special %}
+ <img src="/wpoc/assets/images/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/LowResIcon/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+{% for post in site.tags.special %}
 **Special event**
 {{ post.excerpt }}
 {% endfor %}
