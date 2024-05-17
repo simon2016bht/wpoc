@@ -50,7 +50,7 @@ title: Overview
 
 
 <div>
- <img src="/wpoc/assets/images/LowResIcon/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
+ <img src="/wpoc/assets/images/LowResIcon/Special1.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.special %}
 **Special event**
