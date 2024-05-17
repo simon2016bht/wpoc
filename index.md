@@ -3,9 +3,6 @@ title: Overview
 ---
 
 <div>
- <img src="/wpoc/assets/images/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
-<div>
  <img src="/wpoc/assets/images/LowResIcon/7W.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.7W %}
@@ -13,9 +10,6 @@ title: Overview
 {% endfor %}
 <br>
 
-<div>
- <img src="/wpoc/assets/images/TTR.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
 <div>
  <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
@@ -25,9 +19,6 @@ title: Overview
 <br>
 
 <div>
- <img src="/wpoc/assets/images/Sp.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
-<div>
  <img src="/wpoc/assets/images/LowResIcon/Sp.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 {% for post in site.tags.Sd %}
@@ -35,9 +26,7 @@ title: Overview
 {% endfor %}
 <br>
 
-<div>
- <img src="/wpoc/assets/images/Az.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
+
 <div>
  <img src="/wpoc/assets/images/LowResIcon/Az.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
@@ -46,9 +35,7 @@ title: Overview
 {% endfor %}
 <br>
 
-<div>
- <img src="/wpoc/assets/images/Ccs.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
+
 <div>
  <img src="/wpoc/assets/images/LowResIcon/Ccs.png" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
@@ -57,9 +44,7 @@ title: Overview
 {% endfor %}
 <br>
 
-<div>
- <img src="/wpoc/assets/images/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
-</div>
+
 <div>
  <img src="/wpoc/assets/images/LowResIcon/Special.jpg" width="50" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
