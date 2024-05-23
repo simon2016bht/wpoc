@@ -20,7 +20,6 @@ title: Overview
 <div>
  <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" width="50" style="display: inline-block; margin-left: 30px; margin-bottom: 5px; margin-top:5px"/>
 </div>
-## TTR
 {% for post in site.tags.TTR %}
 {{ post.excerpt }}
 {% endfor %}
