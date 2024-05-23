@@ -10,7 +10,7 @@ title: Overview
  <img src="/wpoc/assets/images/LowResIcon/Ccs.png" width="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
  <img src="/wpoc/assets/images/LowResIcon/Special1.jpg" width="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
-## 7 Wonders
+**7 Wonders**
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
 {% endfor %}
