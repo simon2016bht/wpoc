@@ -3,9 +3,9 @@ title: Overview
 ---
 
 <div>
- <img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
-  <img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
- <img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
+ <img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 30px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
+  <img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 10px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
+ <img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="50" style="display: inline-block; margin-left: 10px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
  <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
  <img src="/wpoc/assets/images/LowResIcon/7W.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
  <img src="/wpoc/assets/images/LowResIcon/Az.png" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
