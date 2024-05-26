@@ -4,12 +4,12 @@ layout: default
 ---
 
 <div>
-	<a target="main_content" href="{{ site.baseurl }}{% link _page/Ccs.md %}">
+	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
 		123
 	</a>
  <img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 10px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
 
-	<a target="main_content" href="{{ site.baseurl }}{% link _page/Sp.md %}">
+	<a href="{{ site.baseurl }}{% link _page/Sp.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="50" style="display: inline-block; margin-left: 10px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
  <img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
@@ -20,10 +20,8 @@ layout: default
 </div>
 
 ---
-## Overall
 
-## Carcassonne
-<img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 30px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
+
 <!---
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
