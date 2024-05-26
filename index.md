@@ -16,7 +16,7 @@ title: Overview
 </div>
 
 ---
-<iframe src="https://simon2016bht.github.io/wpoc/_page/Ccs.html" width="100%" height="2000" frameBorder="0" name="main_content"></iframe>
+<iframe src="https://simon2016bht.github.io/wpoc/_page/Ccs.html" width="100%" height="2000" frameBorder="0" name="main_content" scrolling="no"></iframe>
 
 <!---
 {% for post in site.tags.7W %}
