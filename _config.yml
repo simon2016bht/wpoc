@@ -19,3 +19,7 @@ github:
 #permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
 
 #basewebsite: /wpoc
+
+include: 
+  - _page
+  - article
