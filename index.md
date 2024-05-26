@@ -3,7 +3,7 @@ title: Overview
 ---
 
 <div>
-	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
+	<a target="main_content" href="{{ site.baseurl }}{% link _page/Ccs.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 30px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
  <img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 10px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
@@ -16,7 +16,7 @@ title: Overview
 </div>
 
 ---
-<iframe src="https://simon2016bht.github.io/wpoc/_page/Ccs.html" width="100%" height="100vw" frameBorder="0"></iframe>
+<iframe src="https://simon2016bht.github.io/wpoc/_page/Ccs.html" width="100%" height="100vw" frameBorder="0" name="main_content"></iframe>
 
 
 {% for post in site.tags.7W %}
