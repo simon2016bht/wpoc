@@ -16,11 +16,8 @@ title: Overview
 </div>
 
 ---
-{{ site.baseurl }}{% link _page/Ccs.md %}
-<div>
+<iframe src="https://simon2016bht.github.io/wpoc/_page/Ccs.html" title="description"></iframe>
 
-
-</div>
 
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
