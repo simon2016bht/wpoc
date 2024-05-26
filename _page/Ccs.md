@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 30px; margin-right: 10px; margin-bottom: 5px; margin-top:5px"/>
+# Carcassonne - WPOC results
 
 ## Cumulative performance
 img_player
