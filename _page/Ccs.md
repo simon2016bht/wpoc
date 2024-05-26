@@ -13,9 +13,9 @@ tag: "Ccs"
 - Abandoned tables(reaching duration limit): 12%
 - Cancelled tables(player kicked or leaved): 9% 
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Elo_20240417102947.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/t_Splendor_Elo_20240310204745.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240417111034.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/t_Splendor_Duration_20240310204745.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 ---
