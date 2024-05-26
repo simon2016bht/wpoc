@@ -2,7 +2,7 @@
 layout: post
 tag: "Sd"
 ---
-
+**Splendor**
 - [3p - alpha](https://boardgamearena.com/tournament?id=272931)
 - Winners: 🥇Terry5145 🥈FuminTH 🥉ooiwata 🥉xerqaz
 - Date: 02/19/2024 - 03/10/2024
