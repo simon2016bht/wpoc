@@ -15,9 +15,12 @@ title: Overview
 
 ---
 
-<div>({% link _page/Ccs.md %})</div>
+{% link _page/Ccs.md %}
+<div>
+<a href="{% link _page/Ccs.md %}"> test </a>
 
-**7 Wonders**
+</div>
+
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
 {% endfor %}
