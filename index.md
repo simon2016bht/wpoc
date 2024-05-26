@@ -20,7 +20,7 @@ layout: default
 </div>
 
 ---
-<iframe src="{{ site.baseurl }}{% link _page/all.md %}" width="100%" onload="resizeIframe(this)" frameBorder="0" name="main_content"></iframe>
+<iframe src="{{ site.baseurl }}{% link _page/all.md %}" width="100%" onload="resizeIframe(this);" frameBorder="0" name="main_content"></iframe>
 
 <!---
 {% for post in site.tags.7W %}
