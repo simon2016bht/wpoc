@@ -1,6 +1,5 @@
 ---
-layout: post
-tag: "Sd"
+layout: default
 ---
 **Splendor**
 - [3p - alpha](https://boardgamearena.com/tournament?id=272931)
