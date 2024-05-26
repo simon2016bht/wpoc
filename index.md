@@ -14,10 +14,9 @@ title: Overview
 </div>
 
 ---
-{{ site.baseurl }}
-{% link _page/Ccs.md %}
+{{ site.baseurl }}{% link _page/Ccs.md %}
 <div>
-<a href="{% link _page/Ccs.md %}">
+<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
 12343</a>
 
 </div>
