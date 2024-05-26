@@ -15,7 +15,7 @@ title: Overview
 
 ---
 
-<div>test123</div>
+<div>({% link _page/Ccs.md %})</div>
 
 **7 Wonders**
 {% for post in site.tags.7W %}
