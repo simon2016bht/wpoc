@@ -4,9 +4,8 @@ layout: default
 # Splendor
 
 ## Leaderboard
-img_player
-
-img_region
+carcassonne leaderboard by players
+carcassonne leaderboard by regions
 
 
 ## Details
