@@ -15,7 +15,6 @@ github:
 
 #permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
 
-basewebsite: /wpoc
 
 website: https://simon2016bht.github.io
 basewebsite: /wpoc
