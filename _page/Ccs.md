@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# Carcassonne - WPOC results
+# Carcassonne
 
-## Cumulative performance
+## Leaderboard
 img_player
 
 img_region

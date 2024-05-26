@@ -3,7 +3,7 @@ layout: default
 ---
 # Splendor
 
-## Cumulative performance
+## Leaderboard
 img_player
 
 img_region
