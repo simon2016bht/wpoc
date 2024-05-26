@@ -18,4 +18,4 @@ github:
 
 #permalink: wpoc/:categories/:year/:month/:day/:title:output_ext
 
-basewebsite: /wpoc
+#basewebsite: /wpoc
