@@ -3,7 +3,7 @@ title: Overview
 layout: default
 ---
 
-## statistics for the individual game:
+## statistics for the specific game:
 
 <div align="center">
 	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
