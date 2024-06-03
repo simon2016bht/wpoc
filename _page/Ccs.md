@@ -9,7 +9,7 @@ img_player
 img_region
 
 
-## Details
+## Tournament Details
 
 - [2p - gamma](https://boardgamearena.com/tournament?id=279981)
 - Winners: 🥇Loku_elo 🥈nazario77 🥉Lilliam510 Lichidakiller
