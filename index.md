@@ -3,7 +3,7 @@ title: Overview
 layout: default
 ---
 
-<div>
+<div align="center">
 	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Ccs.png" height="50" style="display: inline-block; margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
