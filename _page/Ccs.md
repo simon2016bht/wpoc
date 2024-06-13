@@ -27,4 +27,6 @@ img_region
 <div>
  <img src="/wpoc/assets/images/t_Carcassonne_Duration_20240604210834.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
+
+
 ---
