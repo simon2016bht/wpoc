@@ -5,7 +5,10 @@ layout: default
 
 ## Leaderboard
 img_player
+
+
 <img src="/wpoc/assets/images/KingdominoRanking.png" margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
+
 
 
 img_region
