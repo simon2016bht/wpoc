@@ -8,7 +8,7 @@ layout: default
 </div>
 
 
-img_region
+
 
 
 ## Tournament Details
