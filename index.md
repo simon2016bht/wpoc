@@ -26,6 +26,10 @@ layout: default
 	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
+<div>
+ <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
+</div>
+
 
 <!---
 {% for post in site.tags.7W %}
