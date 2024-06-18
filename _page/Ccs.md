@@ -4,10 +4,9 @@ layout: default
 # Carcassonne
 
 ## Leaderboard
-img_player
-<img src="/wpoc/assets/images/CarcassonneRanking.png" margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
-
-img_region
+<div>
+ <img src="/wpoc/assets/images/CarcassonneRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
+</div>
 
 
 ## Tournament Details
