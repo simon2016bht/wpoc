@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Kingdomino
 
 <div>
  <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
@@ -11,7 +10,7 @@ layout: default
 
 
 
-## Tournament Details
+# Kingdomino tournament details
 
 - [Season 1](https://boardgamearena.com/tournament?id=284814)
 - Date: 05/06/2024 - 06/06/2024
