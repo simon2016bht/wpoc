@@ -4,16 +4,11 @@ layout: default
 # Kingdomino
 
 ## Leaderboard
-img_player
 
 <div>
 <img src="/wpoc/assets/images/KingdominoRanking.png" margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
-
-<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
-<img src="/wpoc/assets/images/KingdominoRanking.png" height="50" style="display: inline-block; margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
-</a>
 
 
 <div>
