@@ -33,8 +33,10 @@ layout: default
 
 
 
-<div align="left" style="font-weight: bold; font-size: 24px;" margin-left: 5px;>
+<div>
+<span style="font-weight: bold; font-size: 24px;" margin-left: 5px;>
 All Games region ranking: TBD
+</span>
 </div>
 
 <div>
