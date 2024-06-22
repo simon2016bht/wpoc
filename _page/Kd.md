@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-### Kingdomino region ranking 
+### Kingdomino region ranking
+TBD
 
-
-### Kingdomino player ranking 
+### Kingdomino player ranking
 
 <div>
  <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>

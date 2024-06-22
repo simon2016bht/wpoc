@@ -33,7 +33,7 @@ layout: default
 
 
 
-### All Games region ranking: 
+### All Games region ranking
 TBD
 
 
