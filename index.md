@@ -34,11 +34,11 @@ layout: default
 
 
 <div>
-All Games region ranking: TBD
+### All Games region ranking: TBD
 </div>
 
 <div>
-All Games player ranking: 
+### All Games player ranking
 </div>
 
 
