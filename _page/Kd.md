@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+<!---
 ### Kingdomino region ranking
 TBD
+-->
+
 
 ### Kingdomino player ranking
 

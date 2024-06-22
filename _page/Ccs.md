@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+<!---
 ### Carcassonne region ranking
 TBD
-
+-->
 
 ### Carcassonne player ranking
 <div>
