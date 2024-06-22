@@ -26,6 +26,9 @@ layout: default
 	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
+All Games region ranking: 🥇Poland(110) 🥈Philippines(100) 🥉Japan(85)
+
+
 <div>
  <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
