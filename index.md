@@ -26,7 +26,11 @@ layout: default
 	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="50" style="display: inline-block; margin-left: 5px; margin-right: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
+
+<span>
 ---
+</span>
+
 
 <div align="left" style="font-weight: bold; font-size: 24px;" margin-left: 5px;>
 All Games region ranking: TBD
