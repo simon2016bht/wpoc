@@ -29,7 +29,7 @@ layout: default
 All Games region ranking: 🥇Poland(110) 🥈Philippines(100) 🥉Japan(85)
 
 
-<div>
+<div align="left">
  <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-bottom: 5px"/>
 </div>
 
