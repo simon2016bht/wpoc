@@ -10,7 +10,7 @@ layout: default
 
 
 
-# Kingdomino tournament details
+### Tournament details
 
 - [Season 1](https://boardgamearena.com/tournament?id=284814)
 - Date: 05/06/2024 - 06/06/2024

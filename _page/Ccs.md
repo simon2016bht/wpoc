@@ -7,7 +7,7 @@ layout: default
 </div>
 
 
-### tournament details
+### Tournament details
 
 - [Season 1](https://boardgamearena.com/tournament?id=282971)
 - Date: 04/22/2024 - 06/02/2024
