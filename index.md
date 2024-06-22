@@ -35,9 +35,12 @@ layout: default
 
 <div>
 All Games region ranking: TBD
+</div>
 
+<div>
 All Games player ranking: 
 </div>
+
 
 <div align="left">
  <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-bottom: 5px"/>
