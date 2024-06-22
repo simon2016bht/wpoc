@@ -27,9 +27,9 @@ layout: default
 </div>
 
 
-<span>
+<div>
 ---
-</span>
+</div>
 
 
 <div align="left" style="font-weight: bold; font-size: 24px;" margin-left: 5px;>
