@@ -33,7 +33,7 @@ layout: default
 
 
 
-<div>
+<div align="left" style="font-weight: bold; font-size: 24px;" margin-left: 5px;>
 All Games region ranking: TBD
 </div>
 
