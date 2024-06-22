@@ -2,9 +2,6 @@
 layout: default
 ---
 
-Region ranking: 🥇Poland(100) 🥈United States of America(75) 🥉France(50)
-
-
 <div>
  <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
