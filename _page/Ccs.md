@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+### Carcassonne region ranking 
+
+
 ### Carcassonne player ranking 
 <div>
  <img src="/wpoc/assets/images/CarcassonneRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
