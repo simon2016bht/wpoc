@@ -6,7 +6,7 @@ layout: default
 
 ### Region standings
 🥇Poland(100) 🥈United States of America(75) 🥉France(50) 🥉New Zealand(50)
----
+
 
 ### Player standings
 <div>
