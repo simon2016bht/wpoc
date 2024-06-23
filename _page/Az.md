@@ -4,7 +4,7 @@ layout: default
 
 ## Azul
 
-### Region standing
+### Region standings
 🥇China(135) 🥈Philippines(100) 🥉France(50)
 
 ### Player standings
