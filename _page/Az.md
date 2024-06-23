@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Azul scoreboard
-### Region ranking
+## Azul
+
+### Region standing
 🥇China(135) 🥈Philippines(100) 🥉France(50)
 
-### Player ranking
+### Player standings
 <div>
  <img src="/wpoc/assets/images/AzulRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
