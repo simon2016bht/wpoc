@@ -37,8 +37,7 @@ layout: default
 
 
 ### All Games region ranking
-TBD
-
+🥇Philippines(200) 🥈China(135) 🥉Poland(110)
 
 
 ### All Games player ranking
