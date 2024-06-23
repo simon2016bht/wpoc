@@ -39,13 +39,12 @@ layout: default
 ### Region standings of all games 
 🥇Philippines(200) 🥈China(135) 🥉Poland(110)
 
----
 
 ### Player standings of all games
 
 
 <div align="left">
- <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-bottom: 5px"/>
+ <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
 
 
