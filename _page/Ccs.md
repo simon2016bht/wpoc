@@ -4,13 +4,13 @@ layout: default
 ### Carcassonne region ranking
 🥇Philippines(100) 🥈Japan(75) 🥉Argentina(50) 🥉Taiwan(50)
 
-
+---
 ### Player ranking
 <div>
  <img src="/wpoc/assets/images/CarcassonneRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
-
+---
 ### Tournament details
 
 - [Season 1](https://boardgamearena.com/tournament?id=282971)
