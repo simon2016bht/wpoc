@@ -9,7 +9,7 @@ layout: default
 
 ### Player standings
 <div>
- <img src="/wpoc/assets/images/AzulRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:0px"/>
+ <img src="/wpoc/assets/images/AzulRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
 ---
