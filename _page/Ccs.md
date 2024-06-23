@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-### Carcassonne region ranking
+## Carcassonne 
+
+### Region standings
 🥇Philippines(100) 🥈Japan(75) 🥉Argentina(50) 🥉Taiwan(50)
 
 ---
-### Player ranking
+### Player standings
 <div>
  <img src="/wpoc/assets/images/CarcassonneRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>

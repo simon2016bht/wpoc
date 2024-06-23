@@ -2,11 +2,13 @@
 layout: default
 ---
 
-### Kingdomino region ranking
+## Kingdomino
+
+### Region standings
 🥇Poland(100) 🥈United States of America(75) 🥉France(50) 🥉New Zealand(50)
 ---
 
-### Player ranking
+### Player standings
 <div>
  <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:5px"/>
 </div>
