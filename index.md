@@ -48,7 +48,7 @@ layout: default
  <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-bottom: 5px"/>
 </div>
 
----
+
 <!---
 {% for post in site.tags.7W %}
 {{ post.excerpt }}
