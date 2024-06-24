@@ -8,11 +8,11 @@ layout: default
 		<img src="/wpoc/assets/images/LowResIcon/Ccs.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 	
-	<img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 
-	<img src="/wpoc/assets/images/LowResIcon/7W.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<img src="/wpoc/assets/images/LowResIcon/7W.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 
-	<img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 
 	<a href="{{ site.baseurl }}{% link _page/Kd.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Kd.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
@@ -28,7 +28,7 @@ layout: default
 	</a>
 
 	
-	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 </div>
 
 
