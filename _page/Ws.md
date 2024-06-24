@@ -5,6 +5,7 @@ layout: default
 ## Wingspan
 
 ### Region standings
+🥇Australia(100) 🥈United States of America(85) 🥉Kazakhstan(50) 🥉Taiwan(50)
 
 ### Player standings
 <div>
