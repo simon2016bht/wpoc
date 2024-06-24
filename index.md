@@ -22,6 +22,7 @@ layout: default
 		<img src="/wpoc/assets/images/LowResIcon/Az.png" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 
+{% link _page/Ws.md %}
 
 	<a href="{{ site.baseurl }}{% link _page/Ws.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Ws.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
