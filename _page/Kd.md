@@ -30,10 +30,10 @@ layout: default
 - Winners(meta event points): cieciel(100); SIeuth(75); Molkky14(50); batmanrx7(50); kl_escape(10); yumaman(10); catimini_3(10); GinosVougas(10)
 
 <div>
- <img src="/wpoc/assets/images/t_Kingdomino_Elo_20240609123928.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Elo_20240609123928.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Kingdomino_Duration_20240609134212.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Duration_20240609134212.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 

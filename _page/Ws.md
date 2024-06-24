@@ -28,10 +28,10 @@ layout: default
 - Winners(meta event points): Timbits(100); concreteblok(75); Little-Dinkey(50); jasonb05(50); irenreny(10); Pablo Escobear(10); sirafin502(10); Volts210(10)
 
 <div>
- <img src="/wpoc/assets/images/t_Wingspan_Elo_20240624182154.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Elo_20240624182154.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Wingspan_Duration_20240624185311.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Duration_20240624185311.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 

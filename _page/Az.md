@@ -28,10 +28,10 @@ layout: default
 
 
 <div>
- <img src="/wpoc/assets/images/t_Azul_Elo_20240623114611.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Elo_20240623114611.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/t_Azul_Duration_20240623122146.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Duration_20240623122146.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
