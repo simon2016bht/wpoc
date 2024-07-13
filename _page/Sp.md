@@ -9,7 +9,7 @@ Region ranking: 🥇Japan(175) 🥈China(70) 🥉Hong Kong(50)
 
 ### Player standings
 <div>
-	<img src="/wpoc/assets/images/WingspanRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
+	<img src="/wpoc/assets/images/SplendorRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
 ---
