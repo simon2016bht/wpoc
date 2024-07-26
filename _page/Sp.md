@@ -28,10 +28,10 @@ layout: default
 - Winners(meta event points): yukimura1130(100); VAB WRX(75); JQE(50); 2163465425(50); Rjz01(10); BlitzKaboom(10); o0O KAASKOP O0o(10); niepanfeng(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_Splendor_Elo_20240713124756.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Splendor_Elo_20240713124756.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Splendor_Duration_20240713131719.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Splendor_Duration_20240713131719.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 

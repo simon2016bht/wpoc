@@ -31,7 +31,9 @@ layout: default
  <img src="/wpoc/assets/images/tournament/t_Carcassonne_Duration_20240604210834.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
+
 <p>&nbsp;</p>
+
 
 - [Season 2](https://boardgamearena.com/tournament?id=297014)
 - Date: 06/10/2024 - 07/26/2024
@@ -44,10 +46,10 @@ layout: default
 - Winners(meta event points): Lichidakiller(100); jordis(75); Kuya Boards(50); Mrwan1(50); Bobbyc35(10); Random_23(10); craig_shoji(10); Ozshark(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_Carcassonne_Elo_20240726215448.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Carcassonne_Elo_20240726215448.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Carcassonne_Duration_20240726225147.png" width="250" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Carcassonne_Duration_20240726225147.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
 
