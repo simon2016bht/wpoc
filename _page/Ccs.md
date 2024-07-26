@@ -31,8 +31,7 @@ layout: default
  <img src="/wpoc/assets/images/tournament/t_Carcassonne_Duration_20240604210834.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
-
-
+<p>&nbsp;</p>
 
 - [Season 2](https://boardgamearena.com/tournament?id=297014)
 - Date: 06/10/2024 - 07/26/2024
