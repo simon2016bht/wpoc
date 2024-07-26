@@ -4,8 +4,7 @@ layout: default
 ## Carcassonne 
 
 ### Region standings
-🥇Philippines(100) 🥈Japan(75) 🥉Argentina(50) 🥉Taiwan(50)
-
+🥇Philippines(150) 🥈Mexico(100) 🥉Taiwan(100)
 
 ### Player standings
 <div>
