@@ -32,6 +32,8 @@ layout: default
 </div>
 
 
+
+
 - [Season 2](https://boardgamearena.com/tournament?id=297014)
 - Date: 06/10/2024 - 07/26/2024
 - Number of players: 64
