@@ -3,8 +3,14 @@ layout: default
 ---
 ## Carcassonne 
 
+---
+
+
 ### Region standings
 🥇Philippines(150) 🥈Mexico(100) 🥉Taiwan(100)
+
+---
+
 
 ### Player standings
 <div>

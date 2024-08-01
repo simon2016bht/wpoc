@@ -4,8 +4,14 @@ layout: default
 
 ## Splendor
 
+---
+
+
 ### Region standings
 🥇Japan(175) 🥈China(70) 🥉Hong Kong(50)
+
+---
+
 
 ### Player standings
 <div>
