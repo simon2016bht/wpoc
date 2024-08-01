@@ -7,12 +7,12 @@ layout: default
 ### Region standings
 🥇Poland(200) 🥈Spain(100) 🥉Canada(85)
 
+---
+
 ### Player standings
 <div>
  <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:-10px"/>
 </div>
-
-
 
 ---
 
