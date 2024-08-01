@@ -4,6 +4,8 @@ layout: default
 
 ## Kingdomino
 
+---
+
 ### Region standings
 🥇Poland(200) 🥈Spain(100) 🥉Canada(85)
 
