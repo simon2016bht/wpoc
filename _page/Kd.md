@@ -5,8 +5,7 @@ layout: default
 ## Kingdomino
 
 ### Region standings
-🥇Poland(100) 🥈United States of America(75) 🥉France(50) 🥉New Zealand(50)
-
+🥇Poland(200) 🥈Spain(100) 🥉Canada(85)
 
 ### Player standings
 <div>
