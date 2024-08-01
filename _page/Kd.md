@@ -36,5 +36,26 @@ layout: default
  <img src="/wpoc/assets/images/tournament/t_Kingdomino_Duration_20240609134212.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 
+<p>&nbsp;</p>
+
+- [Season 2](https://boardgamearena.com/tournament?id=298135)
+- Date: 06/24/2024 - 08/01/2024
+- Number of players: 64
+- Top origins of players: Poland 10% France 10% United States of America 7% Russia 7% Italy 7%
+- Abandoned tables (reached duration limit): 8%
+- Cancelled tables (player left or got kicked): 1%
+- Q1/Q2/Q3 of player's Elo rating: 178/279/416
+- Q1/Q2/Q3 of table duration (days): 1.4/2.3/3.6
+- Winners(meta event points): duchil(100); Tock9710(75); cieciel(50); Raginis(50); kl_escape(10); Lionjp(10); Small Geezer(10); Didzou(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Elo_20240801193655.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Duration_20240801202812.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+
+<p>&nbsp;</p>
+
 
 >>
