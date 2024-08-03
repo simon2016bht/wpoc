@@ -5,14 +5,9 @@ layout: default
 ## Wingspan
 ---
 
-
-
 ### Region standings:
 🥇United States of America(160) 🥈Australia(100) 🥉Hong Kong(100)
-
-
 <p>&nbsp;</p>
-
 
 ### Player standings:
 <div>
