@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Wingspan
+## Wingspan
 ---
 
 
@@ -21,7 +21,7 @@ layout: default
 
 <p>&nbsp;</p>
 
-## Tournament details
+### Tournament details
 
 
 - [Season 1](https://boardgamearena.com/tournament?id=284811)
