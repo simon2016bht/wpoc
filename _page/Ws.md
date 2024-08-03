@@ -3,22 +3,23 @@ layout: default
 ---
 
 # Wingspan
-
-
-
-
-## Region standings
-🥇United States of America(160) 🥈Australia(100) 🥉Hong Kong(100)
-
 ---
 
 
-## Player standings
+
+### Region standings
+🥇United States of America(160) 🥈Australia(100) 🥉Hong Kong(100)
+
+
+<p>&nbsp;</p>
+
+
+### Player standings
 <div>
 	<img src="/wpoc/assets/images/WingspanRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
----
+<p>&nbsp;</p>
 
 ## Tournament details
 
