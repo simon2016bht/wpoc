@@ -10,7 +10,8 @@ layout: default
 ### Region standings
 🥇Japan(175) 🥈China(70) 🥉Hong Kong(50)
 
----
+<p>&nbsp;</p>
+
 
 
 ### Player standings
@@ -18,7 +19,8 @@ layout: default
 	<img src="/wpoc/assets/images/SplendorRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
----
+<p>&nbsp;</p>
+
 
 ### Tournament details
 

@@ -9,7 +9,8 @@ layout: default
 ### Region standings
 🥇Philippines(150) 🥈Mexico(100) 🥉Taiwan(100)
 
----
+<p>&nbsp;</p>
+
 
 
 ### Player standings
@@ -17,7 +18,8 @@ layout: default
  <img src="/wpoc/assets/images/CarcassonneRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top: -10px"/>
 </div>
 
----
+<p>&nbsp;</p>
+
 ### Tournament details
 
 - [Season 1](https://boardgamearena.com/tournament?id=282971)

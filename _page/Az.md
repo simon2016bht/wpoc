@@ -10,7 +10,8 @@ layout: default
 ### Region standings
 🥇China(135) 🥈Philippines(100) 🥉France(50)
 
----
+<p>&nbsp;</p>
+
 
 
 ### Player standings
@@ -18,7 +19,8 @@ layout: default
 	<img src="/wpoc/assets/images/AzulRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
----
+<p>&nbsp;</p>
+
 
 ### Tournament details
 
