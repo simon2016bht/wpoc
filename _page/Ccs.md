@@ -59,6 +59,7 @@ layout: default
 <div>
  <img src="/wpoc/assets/images/tournament/t_Carcassonne_Duration_20240726225147.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
+<p>&nbsp;</p>
 
 
 >>

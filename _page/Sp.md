@@ -41,6 +41,7 @@ layout: default
 <div>
  <img src="/wpoc/assets/images/tournament/t_Splendor_Duration_20240713131719.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
+<p>&nbsp;</p>
 
 
 
