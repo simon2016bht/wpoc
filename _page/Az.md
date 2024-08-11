@@ -63,9 +63,5 @@ layout: default
 <p>&nbsp;</p>
 
 
-1. check last day of tournament from the tournament page
-2. change the 4th player point to 25
-
-
 >>
 
