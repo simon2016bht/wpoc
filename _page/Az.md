@@ -45,7 +45,7 @@ layout: default
 
 
 - [Season 2](https://boardgamearena.com/tournament?id=301932)
-- Date: 06/24/2024 - __/__/2024
+- Date: 06/24/2024 - 08/10/2024
 - Number of players: 64
 - Top origins of players: United States of America 14% Germany 10% China 7% Australia 7% France 7%
 - Abandoned tables (reached duration limit): 8%
