@@ -44,7 +44,7 @@ layout: default
 
 
 ### Region standings of all games 
-🥇Japan(280) 🥈Philippines(275) 🥉United States of America(235)
+🥇Japan(355) 🥈China(325) 🥉Philippines(275)
 
 ### Player standings of all games
 

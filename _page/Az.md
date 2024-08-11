@@ -8,7 +8,7 @@ layout: default
 
 
 ### Region standings
-🥇China(135) 🥈Philippines(100) 🥉France(50)
+🥇China(245) 🥈France(110) 🥉Philippines(100)
 
 <p>&nbsp;</p>
 
@@ -41,6 +41,30 @@ layout: default
 <div>
  <img src="/wpoc/assets/images/tournament/t_Azul_Duration_20240623122146.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
+<p>&nbsp;</p>
+
+
+- [Season 2](https://boardgamearena.com/tournament?id=301932)
+- Date: 06/24/2024 - __/__/2024
+- Number of players: 64
+- Top origins of players: United States of America 14% Germany 10% China 7% Australia 7% France 7%
+- Abandoned tables (reached duration limit): 8%
+- Cancelled tables (player left or got kicked): 5%
+- Q1/Q2/Q3 of player's Elo rating: 152/265/384
+- Q1/Q2/Q3 of table duration (days): 1.2/2.7/5.0
+- Winners(meta event points): Kndr(100); nya11(75); Hyperion7(50); oldteajar(50); Lwenyuan(10); amybomb(10); simtt(10); loladub2(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Elo_20240811213220.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Duration_20240811222357.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+1. check last day of tournament from the tournament page
+2. change the 4th player point to 25
 
 
 >>
