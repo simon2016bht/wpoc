@@ -16,7 +16,7 @@ layout: default
 
 ### Player standings
 <div>
-	<img src="/wpoc/assets/images/SplendorRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
+	<img src="/wpoc/assets/images/ranking/SplendorRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 
 <p>&nbsp;</p>

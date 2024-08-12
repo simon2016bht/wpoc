@@ -1,0 +1,47 @@
+---LocalPlayer---
+
+Anguz
+simtt
+Mrwan1
+
+- Reputations:
+
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84566308
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=88382620
+
+---Origin---
+
+Taiwan
+Thailand
+Taiwan
+
+---Language---
+
+English, 中文 (漢), 中文 (汉)
+English, 日本語, 中文 (漢)
+English, 中文 (漢)
+
+
+- Origins of players:
+
+Taiwan      28%
+Belarus     14%
+Belgium     14%
+France      14%
+Russia      14%
+Thailand    14%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+199/234/404

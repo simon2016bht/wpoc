@@ -49,6 +49,6 @@ layout: default
 
 ### Player standings of all games
 <div align="left">
- <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
+ <img src="/wpoc/assets/images/ranking/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
 

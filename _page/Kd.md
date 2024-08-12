@@ -14,7 +14,7 @@ layout: default
 
 ### Player standings
 <div>
- <img src="/wpoc/assets/images/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:-10px"/>
+ <img src="/wpoc/assets/images/ranking/KingdominoRanking.png" style="display: block; margin-left: 5px; margin-bottom: 5px; margin-top:-10px"/>
 </div>
 
 <p>&nbsp;</p>

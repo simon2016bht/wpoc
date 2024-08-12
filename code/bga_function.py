@@ -132,7 +132,10 @@ def transparent_background(image_file):
     rgba.putdata(newData)
     
     # new_image_file = 't_' + image_file  
-    new_image_file = 'assets/t_' + re.findall("assets/(.*)",image_file)[0]
+    # new_image_file = '../assets/t_' + re.findall("assets/(.*)",image_file)[0]
+    new_image_file = re.findall("(.*assets)/(.*)",elo_file)[0][0] + \
+    '/t_' + \
+    re.findall("(.*assets)/(.*)",elo_file)[0][1]
     
     rgba.save(new_image_file, 'PNG')
     print('output image:', new_image_file)
@@ -205,7 +208,7 @@ def PlayerRankingChart(GameName):
     import matplotlib.pyplot as plt
 
     # Setup data
-    data = pd.read_csv('assets/csv/result.csv')     
+    data = pd.read_csv('../assets/csv/result.csv')     
     game_data = data[data['game'] == GameName].sort_values(by='point', ascending=True)
     acc_game_data = game_data.groupby('player')['point'].sum().sort_values(ascending=False)
     selected_data = pd.DataFrame({'player':acc_game_data.index, 'point':acc_game_data.values})    
@@ -251,9 +254,7 @@ def PlayerRankingChart(GameName):
 
     # Add in title and subtitle
     # FigName = GameName.replace(" ","") + 'Ranking.png'
-    FigName = 'assets/' + GameName.replace(" ","") + 'Ranking.png'
-
-    # duration_file = 'assets/'+ game_name + "_Duration_" +time.strftime("%Y%m%d%H%M%S", time.localtime()) + '.png'
+    FigName = '../assets/' + GameName.replace(" ","") + 'Ranking.png'
 
     plt.savefig(FigName, transparent=True, bbox_inches='tight')
     
