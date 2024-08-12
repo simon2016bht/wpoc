@@ -45,22 +45,10 @@ layout: default
 
 ### Region standings of all games 
 🥇Japan(355) 🥈China(325) 🥉Philippines(275)
+<p>&nbsp;</p>
 
 ### Player standings of all games
-
-
 <div align="left">
  <img src="/wpoc/assets/images/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
-
-
-<!---
-{% for post in site.tags.7W %}
-{{ post.excerpt }}
-{% endfor %}
-<br>
--->
-
-
-
 
