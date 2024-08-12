@@ -1,0 +1,91 @@
+---LocalPlayer---
+
+HMS_Skye
+Lesliewang
+sentryvillager
+Bogwar
+nickyloulou
+Vladimir Goan
+Rmbj
+j689148
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+67%
+81%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92887872
+https://boardgamearena.com/player?id=84825262
+https://boardgamearena.com/player?id=87665843
+https://boardgamearena.com/player?id=84748458
+https://boardgamearena.com/player?id=85901862
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=90077221
+https://boardgamearena.com/player?id=92107655
+
+---Origin---
+
+Australia
+Taiwan
+India
+Australia
+Australia
+India
+Taiwan
+Taiwan
+
+---Language---
+
+English
+English, 中文 (漢)
+English, ગુજરાતી, हिन्दी, मराठी
+English
+English
+Русский язык
+English, 中文 (漢)
+English, 中文 (漢)
+
+
+- Origins of players:
+
+United States of America    22%
+Germany                     11%
+Canada                      11%
+Russia                       7%
+United Kingdom               5%
+Taiwan                       4%
+Spain                        4%
+Australia                    4%
+France                       4%
+India                        2%
+Netherlands                  2%
+Czechia                      2%
+Belgium                      2%
+Georgia                      1%
+Hungary                      1%
+Austria                      1%
+Italy                        1%
+Latvia                       1%
+Poland                       1%
+Switzerland                  1%
+Brazil                       1%
+Ukraine                      1%
+Ireland                      1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+134/198/339

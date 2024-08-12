@@ -1,0 +1,55 @@
+---LocalPlayer---
+
+selolog
+Quin0404
+
+- Reputations:
+
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=94954976
+
+---Origin---
+
+Japan
+Japan
+
+---Language---
+
+English, 日本語
+
+
+
+- Origins of players:
+
+France                      42%
+Germany                     15%
+Russia                       7%
+Netherlands                  4%
+United States of America     4%
+Italy                        3%
+Japan                        3%
+Canada                       3%
+Spain                        3%
+Hungary                      1%
+Norway                       1%
+Poland                       1%
+Portugal                     1%
+Czechia                      1%
+Sweden                       1%
+United Kingdom               1%
+Belgium                      1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+117/220/324

@@ -1,0 +1,108 @@
+---LocalPlayer---
+
+Morka
+Happy Memory
+RonnieMcDronnie
+nafanya-star
+zkklove123
+Vladimir Goan
+Swagnesi
+doctor1215
+yscehesp
+Daijiba88
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=129229
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=86678893
+https://boardgamearena.com/player?id=92408527
+https://boardgamearena.com/player?id=85441307
+https://boardgamearena.com/player?id=94245170
+
+---Origin---
+
+Australia
+Japan
+Australia
+Viet Nam
+Taiwan
+India
+Australia
+China
+South Korea
+China
+
+---Language---
+
+English
+日本語
+Afrikaans, English
+English, Русский язык, Türkçe
+
+Русский язык
+English
+中文 (汉)
+한국어
+English, 中文 (汉)
+
+
+- Origins of players:
+
+United States of America    21%
+France                      12%
+Italy                       10%
+Belgium                      7%
+Poland                       6%
+Germany                      5%
+United Kingdom               4%
+Russia                       3%
+Canada                       3%
+Spain                        3%
+Australia                    2%
+Brazil                       2%
+Czechia                      1%
+Switzerland                  1%
+China                        1%
+Hungary                      1%
+United Arab Emirates         0%
+South Korea                  0%
+Ukraine                      0%
+Taiwan                       0%
+Netherlands                  0%
+Slovakia                     0%
+Peru                         0%
+Palestine                    0%
+Moldova                      0%
+Japan                        0%
+India                        0%
+Estonia                      0%
+Chile                        0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+143/203/260

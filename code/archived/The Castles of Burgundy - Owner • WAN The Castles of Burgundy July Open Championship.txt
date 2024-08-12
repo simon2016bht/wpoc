@@ -1,0 +1,115 @@
+---LocalPlayer---
+
+Ricardo12138
+SilverD1
+hihat
+yaoyao_carry
+1973_
+2163465425
+CHathome
+rellikj
+ryan_1243
+liang1988
+binbin2610
+
+
+- Reputations:
+
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+83%
+57%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95545823
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=84793938
+https://boardgamearena.com/player?id=94657666
+https://boardgamearena.com/player?id=92409680
+https://boardgamearena.com/player?id=92161978
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=91022206
+https://boardgamearena.com/player?id=93598891
+https://boardgamearena.com/player?id=92432894
+https://boardgamearena.com/player?id=93445494
+https://boardgamearena.com/player?id=91014143
+https://boardgamearena.com/player?id=92130200
+https://boardgamearena.com/player?id=95798533
+https://boardgamearena.com/player?id=96087430
+
+---Origin---
+
+China
+Indonesia
+South Korea
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+China
+
+---Language---
+
+中文 (汉)
+English
+English
+English, 中文 (汉)
+English, 中文 (汉)
+English, 中文 (汉)
+中文 (汉)
+Deutsch, English, 中文 (汉)
+中文 (汉)
+中文 (汉)
+中文 (汉)
+English
+English, 中文 (汉)
+中文 (汉)
+中文 (汉)
+
+
+- Origins of players:
+
+China                       20%
+United States of America    15%
+France                      10%
+Canada                       7%
+Germany                      7%
+Spain                        7%
+Poland                       6%
+Russia                       4%
+Brazil                       3%
+United Kingdom               1%
+South Korea                  1%
+Somalia                      1%
+Argentina                    1%
+Romania                      1%
+Northern Mariana Islands     1%
+Indonesia                    1%
+Hungary                      1%
+Christmas Island             1%
+Italy                        1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+149/241/307

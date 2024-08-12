@@ -1,0 +1,43 @@
+---LocalPlayer---
+
+
+- Reputations:
+
+
+
+
+---link of user page---
+
+
+---Origin---
+
+
+---Language---
+
+
+
+- Origins of players:
+
+France                      25%
+United States of America    17%
+Germany                     14%
+Netherlands                  9%
+Poland                       6%
+Canada                       4%
+Spain                        4%
+Austria                      3%
+Hungary                      3%
+Russia                       3%
+United Kingdom               3%
+Belgium                      1%
+Brazil                       1%
+Czechia                      1%
+Italy                        1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+158/232/290

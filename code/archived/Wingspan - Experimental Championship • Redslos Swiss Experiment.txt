@@ -1,0 +1,93 @@
+---LocalPlayer---
+
+ShadOwl72
+TheNaI89
+Nautilussss
+Garrapata
+badankus
+daoler
+mondrianbox
+Juli Ruff
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+99%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=94366068
+https://boardgamearena.com/player?id=84523406
+https://boardgamearena.com/player?id=88707801
+https://boardgamearena.com/player?id=84261176
+https://boardgamearena.com/player?id=95514615
+https://boardgamearena.com/player?id=95790062
+https://boardgamearena.com/player?id=95941908
+https://boardgamearena.com/player?id=93986414
+
+---Origin---
+
+Thailand
+Japan
+New Zealand
+Australia
+Japan
+Thailand
+Thailand
+Australia
+
+---Language---
+
+English, ไทย
+日本語
+Afrikaans, English
+English
+日本語
+ไทย
+English
+English
+
+
+- Origins of players:
+
+United States of America    25%
+Germany                      9%
+Canada                       6%
+France                       6%
+Thailand                     4%
+Czechia                      4%
+Russia                       4%
+United Kingdom               3%
+Spain                        3%
+Hungary                      3%
+Australia                    3%
+Japan                        3%
+Netherlands                  3%
+Poland                       1%
+Sweden                       1%
+Slovakia                     1%
+Argentina                    1%
+New Zealand                  1%
+Mexico                       1%
+Greece                       1%
+Brazil                       1%
+Belgium                      1%
+Belarus                      1%
+Austria                      1%
+Italy                        1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+168/238/313

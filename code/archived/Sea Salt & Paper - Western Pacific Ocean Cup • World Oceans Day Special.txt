@@ -1,0 +1,116 @@
+---LocalPlayer---
+
+noname314
+DomiThorns
+firewolf419
+Kndr
+Caesarlovesrome73
+Drakecula
+Sagritale
+gasima0805
+jikolji
+TheOGSodapop
+Fahdingding
+troe665
+gakobg
+
+---link of user page---
+
+https://boardgamearena.com/player?id=94450054
+https://boardgamearena.com/player?id=95014802
+https://boardgamearena.com/player?id=84921474
+https://boardgamearena.com/player?id=85421235
+https://boardgamearena.com/player?id=93167349
+https://boardgamearena.com/player?id=85896106
+https://boardgamearena.com/player?id=84322033
+https://boardgamearena.com/player?id=88184563
+https://boardgamearena.com/player?id=7829688
+https://boardgamearena.com/player?id=93299810
+https://boardgamearena.com/player?id=93926519
+https://boardgamearena.com/player?id=94080189
+https://boardgamearena.com/player?id=94351334
+
+---Origin---
+
+
+Japan
+Australia
+China
+China
+Australia
+Australia
+Philippines
+Japan
+Australia
+Australia
+Philippines
+Kazakhstan
+Japan
+
+---Language---
+
+
+English, 日本語
+English
+中文 (汉)
+English, 中文 (漢)
+English
+English
+English
+English, 日本語
+English
+English
+English
+Русский язык
+English, 日本語
+
+---Messages:---
+
+- Reigning🏆:
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+131/169/226
+
+
+- Origins of players:
+
+France                      18%
+Russia                      15%
+United States of America    12%
+Australia                    7%
+Germany                      6%
+Japan                        4%
+Argentina                    3%
+Philippines                  3%
+Unknown                      3%
+China                        3%
+Spain                        3%
+United Kingdom               1%
+Ukraine                      1%
+Poland                       1%
+Kazakhstan                   1%
+Netherlands                  1%
+Latvia                       1%
+Italy                        1%
+Czechia                      1%
+Canada                       1%
+Belgium                      1%
+Belarus                      1%
+Uruguay                      1%
+Name: count, dtype: object
+
+
+
+---BlackList---
+
+spazination
+matzeHRO
+gasima0805
+ELENKA_Ekb
+jikolji
+Fahdingding
+severans
+Supercoco35131

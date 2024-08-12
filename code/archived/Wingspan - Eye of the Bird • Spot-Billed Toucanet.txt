@@ -1,0 +1,45 @@
+---LocalPlayer---
+
+charkuma
+
+- Reputations:
+
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95254690
+
+---Origin---
+
+Hong Kong
+
+---Language---
+
+English
+
+
+- Origins of players:
+
+United States of America                43%
+Germany                                 12%
+Canada                                   9%
+Russia                                   6%
+Spain                                    6%
+Belgium                                  3%
+Czechia                                  3%
+France                                   3%
+Hong Kong                                3%
+Peru                                     3%
+United Kingdom                           3%
+United States Minor Outlying Islands     3%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+161/209/246

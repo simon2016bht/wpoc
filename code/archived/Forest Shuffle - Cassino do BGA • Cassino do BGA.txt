@@ -1,0 +1,73 @@
+---LocalPlayer---
+
+selolog
+Emberwood
+qianyanoooo
+huge_chomper
+
+- Reputations:
+
+100%
+97%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=95955622
+https://boardgamearena.com/player?id=96071966
+https://boardgamearena.com/player?id=92164758
+https://boardgamearena.com/player?id=94569980
+
+---Origin---
+
+Japan
+New Zealand
+Indonesia
+China
+Hong Kong
+
+---Language---
+
+English, 日本語
+English
+English
+中文 (汉)
+English, 中文 (漢)
+
+
+- Origins of players:
+
+Germany                     22%
+France                      17%
+United States of America    11%
+Netherlands                  6%
+Brazil                       5%
+Russia                       5%
+Poland                       5%
+Belgium                      3%
+Canada                       3%
+United Kingdom               3%
+Austria                      2%
+Indonesia                    1%
+Japan                        1%
+Hong Kong                    1%
+New Zealand                  1%
+Norway                       1%
+Georgia                      1%
+Czechia                      1%
+Slovakia                     1%
+Spain                        1%
+China                        1%
+Italy                        1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+132/177/277

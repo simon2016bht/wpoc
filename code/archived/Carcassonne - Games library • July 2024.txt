@@ -1,0 +1,107 @@
+---LocalPlayer---
+
+PushkinBLR
+craig_shoji
+grantwangkai
+cherrymarms
+cl0w0b
+9ne
+yoko0918
+lou1sb
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91930519
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=84157676
+https://boardgamearena.com/player?id=86933229
+https://boardgamearena.com/player?id=87897927
+https://boardgamearena.com/player?id=87427372
+https://boardgamearena.com/player?id=87043258
+https://boardgamearena.com/player?id=91379045
+
+---Origin---
+
+North Korea
+Japan
+Taiwan
+Japan
+Japan
+Japan
+Japan
+Australia
+
+---Language---
+
+беларуская мова, English, Русский язык
+English, 日本語
+English, 中文 (漢)
+English, 日本語
+日本語
+日本語
+日本語
+English, 日本語
+
+
+- Origins of players:
+
+Spain                       16%
+Russia                      10%
+France                       9%
+Italy                        6%
+Argentina                    5%
+United States of America     5%
+Japan                        5%
+Uruguay                      5%
+United Kingdom               4%
+Ukraine                      3%
+Germany                      3%
+Canada                       3%
+Belarus                      3%
+Mexico                       3%
+Belgium                      3%
+Croatia                      2%
+Poland                       1%
+Austria                      1%
+Taiwan                       1%
+Netherlands                  1%
+North Korea                  1%
+Czechia                      1%
+Brazil                       1%
+Australia                    1%
+Chile                        1%
+Estonia                      1%
+Denmark                      1%
+Guatemala                    1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+182/244/416
+
+---BlackList---
+
+f�h�f
+fujiLab
+Adanlasheras
+f�h�f
+Adanlasheras
+albertokb24
+EQUIPOA
+albertokb24

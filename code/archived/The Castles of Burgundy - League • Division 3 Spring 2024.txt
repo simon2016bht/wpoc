@@ -1,0 +1,103 @@
+---LocalPlayer---
+
+HayateU3
+zisezhuya
+menmatojinta
+Ricardo12138
+ximi09
+CHathome
+bonnieyuyan
+
+
+- Reputations:
+
+100%
+91%
+100%
+96%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93824070
+https://boardgamearena.com/player?id=85350420
+https://boardgamearena.com/player?id=84728375
+https://boardgamearena.com/player?id=95545823
+https://boardgamearena.com/player?id=93382843
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=93444491
+https://boardgamearena.com/player?id=94425910
+https://boardgamearena.com/player?id=95556970
+https://boardgamearena.com/player?id=95464374
+https://boardgamearena.com/player?id=95858392
+
+---Origin---
+
+China
+China
+Taiwan
+China
+China
+China
+China
+Taiwan
+Hong Kong
+China
+China
+
+---Language---
+
+English, 中文 (漢), 中文 (汉)
+中文 (汉)
+English, 日本語, 中文 (漢)
+中文 (汉)
+中文 (汉)
+中文 (汉)
+中文 (汉)
+中文 (漢)
+English, 中文 (漢)
+English, 中文 (汉)
+中文 (汉)
+
+
+- Origins of players:
+
+United States of America    18%
+Germany                      8%
+France                       8%
+Russia                       8%
+China                        8%
+Canada                       6%
+Spain                        5%
+Italy                        5%
+United Kingdom               4%
+Poland                       4%
+Brazil                       3%
+Czechia                      2%
+Hungary                      2%
+Belarus                      2%
+Taiwan                       2%
+Belgium                      2%
+Sweden                       2%
+Unknown                      1%
+Ukraine                      1%
+Argentina                    1%
+Slovakia                     1%
+Serbia                       1%
+Mexico                       1%
+Ireland                      1%
+Iran                         1%
+Hong Kong                    1%
+Finland                      1%
+Uzbekistan                   1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+159/255/345

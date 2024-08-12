@@ -1,0 +1,150 @@
+---LocalPlayer---
+
+kiki1234555
+LongTee
+michael202325
+Little-Dinkey
+VAB WRX
+tonynkh
+jasonb05
+Anguz
+lpoon
+A P T E R Y X
+Timbits
+LoopyNZ
+Mrwan1
+MIKIRERA
+seead123
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93600451
+https://boardgamearena.com/player?id=91364813
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=94738220
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=95078849
+https://boardgamearena.com/player?id=84431453
+https://boardgamearena.com/player?id=84566308
+https://boardgamearena.com/player?id=84863841
+https://boardgamearena.com/player?id=85898137
+https://boardgamearena.com/player?id=86759600
+https://boardgamearena.com/player?id=87037113
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=92708978
+
+---Origin---
+
+Hong Kong
+Viet Nam
+China
+Kazakhstan
+Japan
+Hong Kong
+Taiwan
+Taiwan
+Hong Kong
+New Zealand
+Australia
+New Zealand
+Taiwan
+Japan
+Hong Kong
+
+---Language---
+
+中文 (漢)
+Tiếng Việt
+English, 中文 (汉)
+English
+日本語
+English
+中文 (漢)
+English, 中文 (漢), 中文 (汉)
+English, 日本語, 中文 (漢)
+English
+English
+English
+English, 中文 (漢)
+日本語
+中文 (漢)
+
+
+- Origins of players:
+
+United States of America    18%
+Canada                       6%
+Hong Kong                    6%
+Taiwan                       4%
+United Kingdom               4%
+France                       4%
+Russia                       4%
+Germany                      4%
+Belgium                      4%
+Spain                        4%
+Japan                        3%
+New Zealand                  3%
+Peru                         3%
+Poland                       3%
+Ukraine                      3%
+Brazil                       3%
+South Africa                 1%
+Australia                    1%
+Kazakhstan                   1%
+Netherlands                  1%
+Latvia                       1%
+Hungary                      1%
+Greece                       1%
+Georgia                      1%
+Czechia                      1%
+China                        1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+169/278/336
+
+---BlackList---
+
+athrynne
+athrynne
+azulmofo
+Mr TheLongWayRound
+athrynne
+SanktDavid
+athrynne
+Mr TheLongWayRound
+Arthur11Camelot
+lpoon
+WillyBlaze
+Popoi107
+Martin z Boru
+WillyBlaze
+Martin z Boru
+Martin z Boru
+Martin z Boru

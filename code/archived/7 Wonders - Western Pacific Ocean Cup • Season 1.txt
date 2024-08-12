@@ -1,0 +1,163 @@
+---LocalPlayer---
+
+dzulai
+Swagnesi
+zkklove123
+Oct_Ocelot
+kiwi_liang
+nickwoodward17
+doctor1215
+Miyacchiiko
+crippler
+Ina-hime
+nafanya-star
+troe665
+croccroc
+huogbendeo
+Daijiba88
+bingman
+OdanobuGG
+shamchori
+pojen50
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+99%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=28792118
+https://boardgamearena.com/player?id=86678893
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=92989439
+https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=84585778
+https://boardgamearena.com/player?id=92408527
+https://boardgamearena.com/player?id=89821514
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=94080189
+https://boardgamearena.com/player?id=88379692
+https://boardgamearena.com/player?id=95658742
+https://boardgamearena.com/player?id=94245170
+https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=92532279
+https://boardgamearena.com/player?id=95575778
+
+---Origin---
+
+Philippines
+Australia
+Taiwan
+China
+Taiwan
+Australia
+China
+Japan
+Taiwan
+Viet Nam
+Viet Nam
+Kazakhstan
+Taiwan
+Viet Nam
+China
+Malaysia
+Thailand
+South Korea
+Taiwan
+
+---Language---
+
+
+English
+
+English, 中文 (汉)
+English, 中文 (漢)
+English
+中文 (汉)
+日本語
+English, 中文 (漢)
+English, Tiếng Việt
+English, Русский язык, Türkçe
+Русский язык
+中文 (漢)
+English
+English, 中文 (汉)
+English
+ไทย
+English, 한국어
+中文 (漢)
+
+
+- Origins of players:
+
+United States of America    11%
+France                      11%
+Poland                       9%
+Taiwan                       7%
+Germany                      6%
+Italy                        6%
+Viet Nam                     4%
+Belgium                      4%
+China                        4%
+Hungary                      4%
+Australia                    3%
+Kazakhstan                   1%
+Malaysia                     1%
+Austria                      1%
+Netherlands                  1%
+Peru                         1%
+Philippines                  1%
+Japan                        1%
+South Korea                  1%
+Sweden                       1%
+Greece                       1%
+Thailand                     1%
+Türkiye                      1%
+United Arab Emirates         1%
+United Kingdom               1%
+Canada                       1%
+Moldova                      1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+160/224/320
+
+---BlackList---
+
+Tsubasapol
+Tsubasapol
+Tsubasapol
+Tsubasapol
+Tsubasapol
+debarges
+Tsubasapol
+Clockworker23
+Mizzshellz1
+Tsubasapol

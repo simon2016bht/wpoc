@@ -1,0 +1,135 @@
+---LocalPlayer---
+
+Miyacchiiko
+Happy Memory
+RonnieMcDronnie
+superwhite210
+hakomugiko
+merlin005
+Daijiba88
+helium820
+nafanya-star
+Vladimir Goan
+yuuji-mnmk
+DaveChua
+JJimc
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=89821514
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=90903355
+https://boardgamearena.com/player?id=83836609
+https://boardgamearena.com/player?id=96199843
+https://boardgamearena.com/player?id=94245170
+https://boardgamearena.com/player?id=95318776
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=84251064
+https://boardgamearena.com/player?id=93086519
+https://boardgamearena.com/player?id=85961579
+
+---Origin---
+
+Japan
+Japan
+Australia
+Taiwan
+Japan
+New Zealand
+China
+Hong Kong
+Viet Nam
+India
+Japan
+Singapore
+Taiwan
+
+---Language---
+
+日本語
+日本語
+Afrikaans, English
+中文 (漢)
+English
+English
+English, 中文 (汉)
+中文 (漢)
+English, Русский язык, Türkçe
+Русский язык
+日本語
+English
+中文 (漢)
+
+
+- Origins of players:
+
+United States of America    17%
+France                      15%
+Italy                        9%
+Germany                      7%
+United Kingdom               7%
+Canada                       5%
+Poland                       4%
+Russia                       3%
+Spain                        3%
+Hungary                      2%
+Belgium                      2%
+Netherlands                  2%
+Japan                        2%
+Switzerland                  1%
+Brazil                       1%
+Sweden                       1%
+Portugal                     1%
+Taiwan                       1%
+Romania                      1%
+Denmark                      1%
+Czechia                      1%
+Bulgaria                     1%
+Türkiye                      0%
+Singapore                    0%
+Unknown                      0%
+Réunion                      0%
+Uruguay                      0%
+Argentina                    0%
+Latvia                       0%
+Peru                         0%
+New Zealand                  0%
+Moldova                      0%
+Australia                    0%
+India                        0%
+Hong Kong                    0%
+Greece                       0%
+Georgia                      0%
+Estonia                      0%
+Cyprus                       0%
+China                        0%
+Barbados                     0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+160/206/254

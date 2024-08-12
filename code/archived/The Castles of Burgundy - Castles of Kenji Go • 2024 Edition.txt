@@ -1,0 +1,188 @@
+---LocalPlayer---
+
+yanescort
+sd64
+yu5hian
+M_kk_k
+GlenDavis22
+xsheng
+molram
+SmilingSimon
+danacar
+CHathome
+carl31
+DyingMan
+doctor1215
+sherlocklock
+daimon1982
+million12123
+Xiongtongzi
+BEMI1
+p0laris
+LAOHU10086
+W NIK
+Tanyawanya
+DaruOwO
+
+frosty67
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+97%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+9%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93694112
+https://boardgamearena.com/player?id=91017597
+https://boardgamearena.com/player?id=94188445
+https://boardgamearena.com/player?id=93584459
+https://boardgamearena.com/player?id=90179166
+https://boardgamearena.com/player?id=93954220
+https://boardgamearena.com/player?id=96326099
+https://boardgamearena.com/player?id=86880441
+https://boardgamearena.com/player?id=87840722
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=84930487
+https://boardgamearena.com/player?id=94503439
+https://boardgamearena.com/player?id=92408527
+https://boardgamearena.com/player?id=93927414
+https://boardgamearena.com/player?id=95196104
+https://boardgamearena.com/player?id=93555538
+https://boardgamearena.com/player?id=95218307
+https://boardgamearena.com/player?id=96140116
+https://boardgamearena.com/player?id=94757385
+https://boardgamearena.com/player?id=93782897
+https://boardgamearena.com/player?id=94618480
+https://boardgamearena.com/player?id=88132215
+https://boardgamearena.com/player?id=92485888
+https://boardgamearena.com/player?id=90917793
+https://boardgamearena.com/player?id=86748593
+
+---Origin---
+
+China
+China
+Taiwan
+China
+Japan
+China
+South Korea
+Australia
+Australia
+China
+China
+Taiwan
+China
+Hong Kong
+Hong Kong
+China
+China
+South Korea
+China
+China
+China
+Australia
+South Korea
+Australia
+Australia
+
+---Language---
+
+中文 (汉)
+中文 (汉)
+English, 中文 (漢), 中文 (汉)
+English, 中文 (汉)
+日本語
+中文 (汉)
+한국어
+English
+English
+中文 (汉)
+中文 (汉)
+中文 (漢)
+中文 (汉)
+中文 (漢)
+中文 (汉)
+中文 (汉)
+中文 (漢)
+한국어
+English, 中文 (漢), 中文 (汉)
+English, 中文 (汉)
+English, 中文 (汉)
+English
+English, 한국어
+English
+English
+
+
+- Origins of players:
+
+United States of America    20%
+Canada                       7%
+Germany                      7%
+France                       6%
+China                        6%
+Spain                        5%
+Russia                       5%
+Poland                       5%
+United Kingdom               5%
+Italy                        5%
+Brazil                       2%
+Netherlands                  2%
+Australia                    2%
+Czechia                      1%
+Denmark                      1%
+South Korea                  1%
+Hong Kong                    1%
+Switzerland                  1%
+Taiwan                       1%
+Portugal                     1%
+Ukraine                      0%
+Sweden                       0%
+Slovakia                     0%
+Romania                      0%
+Argentina                    0%
+Peru                         0%
+Montenegro                   0%
+Moldova                      0%
+Mexico                       0%
+Jordan                       0%
+Japan                        0%
+Finland                      0%
+Cyprus                       0%
+Colombia                     0%
+Chile                        0%
+Belgium                      0%
+Lithuania                    0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+145/204/295

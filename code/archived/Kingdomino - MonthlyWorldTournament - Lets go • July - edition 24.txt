@@ -1,0 +1,128 @@
+---LocalPlayer---
+
+birdprofessor
+anacodam
+minape
+batmanrx7
+RonnieMcDronnie
+Toni1235
+eeasicd
+Nessaliya
+khokho300495
+cl0w0b
+wackyrainbow
+Small Geezer
+Emily_
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+90%
+100%
+100%
+100%
+100%
+97%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84688958
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=90842112
+https://boardgamearena.com/player?id=84510173
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=92728415
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=84910261
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=87897927
+https://boardgamearena.com/player?id=92970963
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=85219229
+
+---Origin---
+
+Taiwan
+Viet Nam
+Japan
+New Zealand
+Australia
+Viet Nam
+Taiwan
+Kazakhstan
+Viet Nam
+Japan
+Australia
+Australia
+New Zealand
+
+---Language---
+
+中文 (漢)
+English
+English, 日本語
+English
+Afrikaans, English
+Tiếng Việt
+中文 (漢)
+Русский язык
+Tiếng Việt
+日本語
+English
+English
+English
+
+
+- Origins of players:
+
+France                      19%
+United States of America    18%
+Italy                       11%
+Germany                      7%
+Poland                       4%
+United Kingdom               4%
+Spain                        3%
+Russia                       3%
+Brazil                       2%
+Canada                       2%
+Hungary                      2%
+Czechia                      2%
+Netherlands                  2%
+Australia                    1%
+Switzerland                  1%
+Viet Nam                     1%
+Belgium                      1%
+Japan                        1%
+Finland                      1%
+New Zealand                  1%
+Taiwan                       1%
+Portugal                     1%
+Costa Rica                   0%
+Ukraine                      0%
+Cuba                         0%
+Sweden                       0%
+Iran                         0%
+Saint Helena                 0%
+Austria                      0%
+Greece                       0%
+Norway                       0%
+Guatemala                    0%
+Latvia                       0%
+Kazakhstan                   0%
+Georgia                      0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+160/226/333

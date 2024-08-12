@@ -1,0 +1,101 @@
+---LocalPlayer---
+
+tonynkh
+Xiongtongzi
+Soetriet
+higgop
+dancarn
+sparkhunter008
+VAB WRX
+JoyceDX
+
+- Reputations:
+
+100%
+98%
+100%
+100%
+100%
+94%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95078849
+https://boardgamearena.com/player?id=95218307
+https://boardgamearena.com/player?id=94628349
+https://boardgamearena.com/player?id=95559715
+https://boardgamearena.com/player?id=83924694
+https://boardgamearena.com/player?id=92680378
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=90837187
+
+---Origin---
+
+Hong Kong
+China
+New Zealand
+Australia
+Australia
+Thailand
+Japan
+Taiwan
+
+---Language---
+
+English
+中文 (漢)
+Afrikaans, English
+English
+English
+English
+日本語
+English, 中文 (漢)
+
+
+- Origins of players:
+
+United States of America    37%
+Germany                      9%
+Canada                       7%
+United Kingdom               5%
+Brazil                       3%
+Poland                       3%
+Spain                        3%
+France                       3%
+Portugal                     2%
+Netherlands                  2%
+Italy                        1%
+Ukraine                      1%
+Mexico                       1%
+Australia                    1%
+Hungary                      1%
+Ireland                      0%
+Ecuador                      0%
+China                        0%
+Colombia                     0%
+Thailand                     0%
+Taiwan                       0%
+Czechia                      0%
+Somalia                      0%
+Russia                       0%
+Estonia                      0%
+Japan                        0%
+Peru                         0%
+Norway                       0%
+New Zealand                  0%
+Hong Kong                    0%
+Latvia                       0%
+Belgium                      0%
+Kiribati                     0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+160/270/347

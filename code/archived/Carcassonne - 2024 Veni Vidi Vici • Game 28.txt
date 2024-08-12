@@ -1,0 +1,42 @@
+---LocalPlayer---
+
+wdx168
+
+- Reputations:
+
+80%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84506715
+
+---Origin---
+
+China
+
+---Language---
+
+中文 (漢), 中文 (汉)
+
+
+- Origins of players:
+
+Ukraine           33%
+Russia            20%
+Belgium            6%
+China              6%
+France             6%
+Italy              6%
+Luxembourg         6%
+Spain              6%
+United Kingdom     6%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+443/519/583

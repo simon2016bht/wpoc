@@ -1,0 +1,92 @@
+---LocalPlayer---
+
+kurono_green
+tockticking
+robinxd1
+Creamson
+simtt
+---B---
+eddyquinoa
+michael202325
+Fernbell
+
+---link of user page---
+
+https://boardgamearena.com/player?id=86356823
+https://boardgamearena.com/player?id=87150021
+https://boardgamearena.com/player?id=93803743
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=85774525
+https://boardgamearena.com/player?id=91172058
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=91340105
+
+---Origin---
+
+
+Japan
+Australia
+Taiwan
+Singapore
+Thailand
+Australia
+Indonesia
+China
+Taiwan
+
+---Language---
+
+
+日本語
+English
+中文 (漢)
+English
+English, 日本語, 中文 (漢), 中文 (汉)
+English
+English
+English, 中文 (汉)
+English, 中文 (漢)
+
+---Messages:---
+
+- Reigning🏆:
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+100/142/216
+
+
+- Origins of players:
+
+France                      22%
+United States of America    15%
+Germany                      9%
+Brazil                       7%
+Netherlands                  7%
+Italy                        5%
+United Kingdom               3%
+Taiwan                       3%
+Australia                    3%
+Indonesia                    1%
+Belgium                      1%
+Hungary                      1%
+Norway                       1%
+Russia                       1%
+Singapore                    1%
+Spain                        1%
+Georgia                      1%
+Thailand                     1%
+China                        1%
+Japan                        1%
+Name: count, dtype: object
+
+
+
+---BlackList---
+
+Melsey
+eddyquinoa
+Aaraknide

@@ -1,0 +1,190 @@
+---LocalPlayer---
+
+Chris_TRAPS
+Kuya Boards
+Mrwan1
+ee_cwlab
+craig_shoji
+marusingfire
+grantwangkai
+kayajt-
+amaoboss
+raremeeple
+RamboPang43200
+aki5natsu
+iwaiwa19
+tj26
+cl0w0b
+9ne
+Strauss21
+QOKKI
+yoko0918
+camolatte
+mmac753
+Klarikiwi
+ppoki
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+95%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=85378606
+https://boardgamearena.com/player?id=92340868
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=84912831
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=94240965
+https://boardgamearena.com/player?id=84157676
+https://boardgamearena.com/player?id=88432033
+https://boardgamearena.com/player?id=85137134
+https://boardgamearena.com/player?id=91264740
+https://boardgamearena.com/player?id=85344729
+https://boardgamearena.com/player?id=84736881
+https://boardgamearena.com/player?id=95908544
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=87897927
+https://boardgamearena.com/player?id=87427372
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=89332331
+https://boardgamearena.com/player?id=87043258
+https://boardgamearena.com/player?id=4245413
+https://boardgamearena.com/player?id=94405277
+https://boardgamearena.com/player?id=87111029
+https://boardgamearena.com/player?id=92087352
+
+---Origin---
+
+Japan
+Philippines
+Taiwan
+Hong Kong
+Japan
+Japan
+Taiwan
+Japan
+Taiwan
+Taiwan
+Malaysia
+Japan
+Japan
+Australia
+Japan
+Japan
+Hong Kong
+South Korea
+Japan
+Indonesia
+Japan
+New Zealand
+Taiwan
+
+---Language---
+
+日本語
+English
+English, 中文 (漢)
+English, 中文 (漢)
+English, 日本語
+日本語
+English, 中文 (漢)
+日本語
+中文 (漢)
+中文 (漢)
+English, Bahasa Malaysia, 中文 (漢), 中文 (汉)
+English, 日本語
+日本語
+English
+日本語
+日本語
+中文 (漢)
+한국어
+日本語
+
+日本語
+English, Magyar
+中文 (漢)
+
+
+- Origins of players:
+
+Spain                          11%
+France                          9%
+Russia                          8%
+Poland                          6%
+United States of America        6%
+Japan                           5%
+Ukraine                         4%
+Italy                           3%
+Germany                         3%
+Canada                          3%
+United Kingdom                  3%
+Uruguay                         2%
+Taiwan                          2%
+Czechia                         2%
+Chile                           2%
+Greece                          2%
+Romania                         1%
+Netherlands                     1%
+Mexico                          1%
+Hungary                         1%
+Argentina                       1%
+Brazil                          1%
+Colombia                        1%
+Hong Kong                       1%
+Austria                         1%
+Belarus                         1%
+Latvia                          1%
+Croatia                         1%
+Denmark                         0%
+Unknown                         0%
+Belgium                         0%
+Sweden                          0%
+South Korea                     0%
+Slovakia                        0%
+Portugal                        0%
+Indonesia                       0%
+Estonia                         0%
+Philippines                     0%
+Peru                            0%
+New Zealand                     0%
+Falkland Islands (Malvinas)     0%
+Finland                         0%
+Malaysia                        0%
+French Southern Territories     0%
+Guatemala                       0%
+Australia                       0%
+Ireland                         0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+181/280/417

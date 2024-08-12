@@ -1,0 +1,155 @@
+---LocalPlayer---
+
+Lionjp
+Small Geezer
+abjs
+Creamson
+anacodam
+rhinotc
+simonrp
+masaking0
+TheaLuna
+simtt
+yathei
+flancy
+happiness1106
+ailove
+TanYAnya
+khokho300495
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+82%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91256892
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=91336685
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=92632655
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=94342106
+https://boardgamearena.com/player?id=90453844
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=28661442
+https://boardgamearena.com/player?id=84171640
+https://boardgamearena.com/player?id=84806275
+https://boardgamearena.com/player?id=85411913
+https://boardgamearena.com/player?id=86638909
+https://boardgamearena.com/player?id=87203255
+
+---Origin---
+
+Taiwan
+Australia
+India
+Singapore
+Viet Nam
+Hong Kong
+Australia
+Japan
+Australia
+Thailand
+Hong Kong
+Japan
+South Korea
+Japan
+Kazakhstan
+Viet Nam
+
+---Language---
+
+中文 (漢)
+English
+English, ગુજરાતી, हिन्दी, मराठी
+English
+English
+English, 中文 (漢)
+English
+日本語
+English
+English, 日本語, 中文 (漢)
+English, 中文 (漢)
+English, 日本語
+English, 한국어
+日本語
+English, Русский язык
+Tiếng Việt
+
+
+- Origins of players:
+
+Poland                      10%
+France                      10%
+United States of America     7%
+Russia                       7%
+Italy                        7%
+Japan                        4%
+Australia                    4%
+Hungary                      4%
+Hong Kong                    3%
+Viet Nam                     3%
+Belgium                      3%
+Finland                      3%
+Singapore                    1%
+Belarus                      1%
+United Kingdom               1%
+Thailand                     1%
+Taiwan                       1%
+Switzerland                  1%
+Spain                        1%
+South Korea                  1%
+Greece                       1%
+Germany                      1%
+Canada                       1%
+Netherlands                  1%
+Mexico                       1%
+Kazakhstan                   1%
+Argentina                    1%
+Czechia                      1%
+India                        1%
+Andorra                      1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+178/279/416
+
+---BlackList---
+
+Karine Cor
+FunWithFlags
+gandlin
+Janca_nemcova
+Pere74
+Janca_nemcova
+Karine Cor
+nacsong99
+borg79
+Pere74
+preclo
+preclo
+preclo
+anerija

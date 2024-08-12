@@ -1,0 +1,189 @@
+---LocalPlayer---
+
+oldteajar
+yukimura1130
+quakednz
+Woffth
+SmileyKK
+Tuangcan
+LeviTate
+amybomb
+ee_cwlab
+acmilan
+jhzh
+Vladimir Goan
+hodomaniac
+hihat
+LaVintegor
+CHathome
+SilverD1
+yuyoyo5211
+Tinychuck
+leeszeying
+twbird18
+vaibhavaiyar
+GoldenBoys8504
+Golden tonton
+
+- Reputations:
+
+86%
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+97%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91980131
+https://boardgamearena.com/player?id=92428905
+https://boardgamearena.com/player?id=94223051
+https://boardgamearena.com/player?id=2870728
+https://boardgamearena.com/player?id=92290451
+https://boardgamearena.com/player?id=92738907
+https://boardgamearena.com/player?id=84455523
+https://boardgamearena.com/player?id=92784495
+https://boardgamearena.com/player?id=84912831
+https://boardgamearena.com/player?id=87909488
+https://boardgamearena.com/player?id=88158819
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=95113496
+https://boardgamearena.com/player?id=84793938
+https://boardgamearena.com/player?id=85179772
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=90619898
+https://boardgamearena.com/player?id=95326763
+https://boardgamearena.com/player?id=92329811
+https://boardgamearena.com/player?id=85866257
+https://boardgamearena.com/player?id=84300400
+https://boardgamearena.com/player?id=92724990
+https://boardgamearena.com/player?id=93312017
+
+---Origin---
+
+Australia
+Japan
+New Zealand
+Thailand
+Australia
+China
+Australia
+Australia
+Hong Kong
+China
+China
+India
+India
+South Korea
+Hong Kong
+China
+Indonesia
+Taiwan
+New Zealand
+China
+Japan
+India
+Viet Nam
+Thailand
+
+---Language---
+
+English
+日本語
+English
+English, ไทย
+English
+中文 (汉)
+English
+English
+English, 中文 (漢)
+English, 中文 (漢), 中文 (汉)
+English, 中文 (汉)
+Русский язык
+English, हिन्दी, ਪੰਜਾਬੀ
+English
+中文 (漢)
+中文 (汉)
+English
+中文 (漢)
+English
+中文 (汉)
+English
+English
+English, Tiếng Việt
+English, ไทย
+
+
+- Origins of players:
+
+United States of America    16%
+France                      10%
+Germany                      9%
+Poland                       9%
+United Kingdom               5%
+Spain                        5%
+Hungary                      3%
+Italy                        3%
+Belgium                      3%
+Canada                       3%
+Netherlands                  3%
+Russia                       2%
+China                        2%
+Australia                    2%
+Czechia                      2%
+India                        1%
+Japan                        1%
+Argentina                    1%
+Portugal                     1%
+New Zealand                  1%
+Andorra                      1%
+Hong Kong                    1%
+Sweden                       1%
+Thailand                     1%
+Brazil                       1%
+Romania                      1%
+Switzerland                  0%
+Taiwan                       0%
+South Korea                  0%
+Ukraine                      0%
+Indonesia                    0%
+Peru                         0%
+Montenegro                   0%
+Holy See                     0%
+Finland                      0%
+Estonia                      0%
+Cyprus                       0%
+Cambodia                     0%
+Bolivia                      0%
+Austria                      0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+213/279/370

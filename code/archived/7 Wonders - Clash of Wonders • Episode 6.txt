@@ -1,0 +1,81 @@
+---LocalPlayer---
+
+W N
+nafanya-star
+pojen50
+Kurtqw
+peipeiyang
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92095473
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=95575778
+https://boardgamearena.com/player?id=92725720
+https://boardgamearena.com/player?id=84930901
+
+---Origin---
+
+Taiwan
+Viet Nam
+Taiwan
+China
+Taiwan
+
+---Language---
+
+English, 中文 (漢)
+English, Русский язык, Türkçe
+中文 (漢)
+English, 中文 (漢), 中文 (汉)
+中文 (漢)
+
+
+- Origins of players:
+
+United States of America    18%
+France                      13%
+Italy                        9%
+Poland                       7%
+Spain                        7%
+Germany                      6%
+Russia                       6%
+Canada                       5%
+Belgium                      5%
+Taiwan                       2%
+Hungary                      2%
+United Kingdom               1%
+Czechia                      1%
+Denmark                      1%
+Netherlands                  1%
+Romania                      0%
+Barbados                     0%
+Portugal                     0%
+Sweden                       0%
+Latvia                       0%
+Moldova                      0%
+Mexico                       0%
+Jamaica                      0%
+Georgia                      0%
+Estonia                      0%
+China                        0%
+Brazil                       0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+129/174/242

@@ -1,0 +1,119 @@
+---LocalPlayer---
+
+youngrat
+Toni1235
+khokho300495
+nandhinee anbu
+eeasicd
+tj26
+joki123
+hodomaniac
+Clicster
+dibsonthepinkmeeple
+sanukiudon3sei
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+86%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=83865571
+https://boardgamearena.com/player?id=92728415
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=93314372
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=89976192
+https://boardgamearena.com/player?id=95113496
+https://boardgamearena.com/player?id=18966684
+https://boardgamearena.com/player?id=92352286
+https://boardgamearena.com/player?id=84680005
+
+---Origin---
+
+Japan
+Viet Nam
+Viet Nam
+India
+Taiwan
+Australia
+South Korea
+India
+Australia
+Australia
+Japan
+
+---Language---
+
+日本語
+Tiếng Việt
+Tiếng Việt
+English
+中文 (漢)
+English
+English, 한국어
+English, हिन्दी, ਪੰਜਾਬੀ
+English
+English
+日本語
+
+
+- Origins of players:
+
+France                      21%
+United States of America    14%
+Italy                        8%
+United Kingdom               8%
+Russia                       8%
+Germany                      6%
+Poland                       4%
+Canada                       3%
+Spain                        2%
+Brazil                       2%
+Hungary                      2%
+Czechia                      2%
+Australia                    1%
+Belgium                      1%
+Ukraine                      1%
+Netherlands                  1%
+Viet Nam                     1%
+Portugal                     1%
+Japan                        1%
+India                        1%
+Denmark                      1%
+Finland                      1%
+Latvia                       0%
+Greece                       0%
+Bulgaria                     0%
+Unknown                      0%
+Costa Rica                   0%
+Taiwan                       0%
+South Korea                  0%
+Mexico                       0%
+Saint Helena                 0%
+Guatemala                    0%
+Israel                       0%
+Peru                         0%
+Austria                      0%
+Virgin Islands (U.S.)        0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+149/207/296

@@ -1,0 +1,71 @@
+---LocalPlayer---
+
+Hikaru Tsuchikawa
+SilverD1
+saizon
+sherlocklock
+daimon1982
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=90067288
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=93927414
+https://boardgamearena.com/player?id=95196104
+
+---Origin---
+
+Japan
+Indonesia
+Japan
+Hong Kong
+Hong Kong
+
+---Language---
+
+English, 日本語
+English
+English, 日本語
+中文 (漢)
+中文 (汉)
+
+
+- Origins of players:
+
+United States of America    23%
+Poland                      10%
+France                      10%
+Russia                       7%
+Canada                       7%
+Germany                      7%
+Spain                        4%
+Hong Kong                    3%
+Czechia                      3%
+Sweden                       3%
+Japan                        3%
+Hungary                      1%
+Indonesia                    1%
+Iran                         1%
+Italy                        1%
+Mexico                       1%
+Netherlands                  1%
+Norway                       1%
+Finland                      1%
+United Kingdom               1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+151/204/292

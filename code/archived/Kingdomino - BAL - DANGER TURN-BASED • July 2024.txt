@@ -1,0 +1,117 @@
+---LocalPlayer---
+
+anacodam
+RonnieMcDronnie
+Lionjp
+litanxiu
+khokho300495
+Bestella
+sleepyowl23
+summo78
+dibsonthepinkmeeple
+sanukiudon3sei
+
+- Reputations:
+
+100%
+100%
+100%
+80%
+100%
+100%
+90%
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=91256892
+https://boardgamearena.com/player?id=90584937
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=89668626
+https://boardgamearena.com/player?id=85103457
+https://boardgamearena.com/player?id=91213813
+https://boardgamearena.com/player?id=92352286
+https://boardgamearena.com/player?id=84680005
+
+---Origin---
+
+Viet Nam
+Australia
+Taiwan
+China
+Viet Nam
+South Korea
+Indonesia
+Singapore
+Australia
+Japan
+
+---Language---
+
+English
+Afrikaans, English
+中文 (漢)
+中文 (汉)
+Tiếng Việt
+English, 한국어
+English
+English
+English
+日本語
+
+
+- Origins of players:
+
+France                      17%
+United States of America    13%
+Poland                      13%
+United Kingdom               7%
+Germany                      7%
+Italy                        4%
+Brazil                       4%
+Netherlands                  4%
+Belgium                      3%
+Hungary                      2%
+Russia                       2%
+Canada                       2%
+Spain                        2%
+Viet Nam                     1%
+Australia                    1%
+Argentina                    1%
+Denmark                      1%
+Greece                       1%
+Czechia                      1%
+Finland                      1%
+Singapore                    0%
+Belarus                      0%
+China                        0%
+Costa Rica                   0%
+Ukraine                      0%
+Taiwan                       0%
+Switzerland                  0%
+South Korea                  0%
+Guatemala                    0%
+Seychelles                   0%
+Indonesia                    0%
+Norway                       0%
+Georgia                      0%
+Montenegro                   0%
+Moldova                      0%
+Lithuania                    0%
+Japan                        0%
+Israel                       0%
+Virgin Islands (U.S.)        0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+135/224/332

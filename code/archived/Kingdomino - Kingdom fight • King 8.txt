@@ -1,0 +1,127 @@
+---LocalPlayer---
+
+khokho300495
+eeasicd
+Bestella
+OdanobuGG
+Kurtimus Prime
+jahushun222
+Flor-w
+sanukiudon3sei
+Invinc
+Emily_
+michelle41
+KirstieKK
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+61%
+100%
+100%
+95%
+100%
+91%
+56%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=89668626
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=84110954
+https://boardgamearena.com/player?id=85600331
+https://boardgamearena.com/player?id=86583973
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=96050110
+https://boardgamearena.com/player?id=85219229
+https://boardgamearena.com/player?id=91962996
+https://boardgamearena.com/player?id=93050911
+
+---Origin---
+
+Viet Nam
+Taiwan
+South Korea
+Thailand
+New Zealand
+Malaysia
+Indonesia
+Japan
+Taiwan
+New Zealand
+Japan
+Australia
+
+---Language---
+
+Tiếng Việt
+中文 (漢)
+English, 한국어
+ไทย
+English
+English
+English, Bahasa Indonesia, Nederlands
+日本語
+中文 (漢)
+English
+日本語
+English
+
+
+- Origins of players:
+
+France                      18%
+United States of America    15%
+Italy                        6%
+Brazil                       5%
+United Kingdom               5%
+Spain                        4%
+Russia                       4%
+Poland                       4%
+Germany                      4%
+Hungary                      3%
+Czechia                      3%
+Netherlands                  2%
+Canada                       2%
+Belgium                      1%
+Ukraine                      1%
+Japan                        1%
+Taiwan                       1%
+New Zealand                  1%
+Portugal                     1%
+Slovakia                     0%
+Thailand                     0%
+Sweden                       0%
+Unknown                      0%
+South Korea                  0%
+Viet Nam                     0%
+Argentina                    0%
+Moldova                      0%
+Saint Helena                 0%
+Peru                         0%
+Australia                    0%
+Malaysia                     0%
+Latvia                       0%
+Indonesia                    0%
+Georgia                      0%
+Finland                      0%
+Chile                        0%
+Belarus                      0%
+Austria                      0%
+Virgin Islands (U.S.)        0%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+138/204/292

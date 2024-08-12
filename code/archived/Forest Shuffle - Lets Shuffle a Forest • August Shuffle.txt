@@ -1,0 +1,65 @@
+---LocalPlayer---
+
+selolog
+star2012
+darthdalek
+
+- Reputations:
+
+100%
+100%
+100%
+
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=95891037
+https://boardgamearena.com/player?id=84502954
+
+---Origin---
+
+Japan
+China
+Australia
+
+---Language---
+
+English, 日本語
+中文 (汉)
+English
+
+
+- Origins of players:
+
+France                      15%
+Germany                     12%
+United States of America    10%
+Netherlands                  9%
+Poland                       9%
+Belgium                      6%
+Russia                       6%
+Canada                       3%
+Spain                        3%
+Denmark                      3%
+Hungary                      3%
+United Kingdom               1%
+Ukraine                      1%
+Slovenia                     1%
+Australia                    1%
+Montenegro                   1%
+Japan                        1%
+Finland                      1%
+Czechia                      1%
+China                        1%
+Brazil                       1%
+Italy                        1%
+Name: count, dtype: object
+
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+124/211/304

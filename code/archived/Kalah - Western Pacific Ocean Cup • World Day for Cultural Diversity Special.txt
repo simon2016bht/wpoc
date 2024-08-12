@@ -1,0 +1,87 @@
+---LocalPlayer---
+
+Mrwan1
+Marniax
+amecandy
+kulldor
+flancy
+simtt
+Vladimir Goan
+scouticus
+Stitch_ohana
+
+---link of user page---
+
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=95458491
+https://boardgamearena.com/player?id=85230363
+https://boardgamearena.com/player?id=92456588
+https://boardgamearena.com/player?id=84171640
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=86125566
+https://boardgamearena.com/player?id=95753657
+
+---Origin---
+
+
+Taiwan
+Australia
+Japan
+Australia
+Japan
+Thailand
+India
+Australia
+Australia
+
+---Language---
+
+
+English, 中文 (漢)
+English
+日本語
+English
+English, 日本語
+English, 日本語, 中文 (漢), 中文 (汉)
+Русский язык
+English
+English
+
+---Messages:---
+
+- Reigning🏆:
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+1/129/197
+
+
+- Origins of players:
+
+Australia                   15%
+Netherlands                 11%
+United States of America    11%
+Germany                      7%
+Japan                        7%
+Canada                       3%
+Hungary                      3%
+India                        3%
+Italy                        3%
+Belgium                      3%
+Lithuania                    3%
+Brazil                       3%
+Poland                       3%
+Spain                        3%
+Taiwan                       3%
+Thailand                     3%
+United Kingdom               3%
+Name: count, dtype: object
+
+
+
+---BlackList---
+
+VeeKStarr
