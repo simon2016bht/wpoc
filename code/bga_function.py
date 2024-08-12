@@ -263,7 +263,7 @@ def PlayerRankingChart(GameName):
 
     plt.savefig(FigName, transparent=True, bbox_inches='tight')
     print(FigName)
-    top_country = game_data.groupby('Origin')['MetaPoint'].sum().sort_values(ascending=False)
+    top_country = game_data.groupby('Region')['MetaPoint'].sum().sort_values(ascending=False)
     print(GameName)
     # print(GameName," Region ranking: ", end='')
 
