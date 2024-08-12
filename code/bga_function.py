@@ -209,11 +209,16 @@ def PlayerRankingChart(GameName):
 
     # Setup data
     data = pd.read_csv('../assets/csv/result.csv')     
-    game_data = data[data['game'] == GameName].sort_values(by='point', ascending=True)
-    acc_game_data = game_data.groupby('player')['point'].sum().sort_values(ascending=False)
-    selected_data = pd.DataFrame({'player':acc_game_data.index, 'point':acc_game_data.values})    
-    selected_data["player.Upper"] = selected_data["player"].str.upper()
-    selected_data = selected_data.sort_values(['point', 'player.Upper'], ascending=[True,False])
+
+    if GameName == "All Games":
+        game_data = data.sort_values(by='MetaPoint', ascending=True)
+    else:
+        game_data = data[data['Game'] == GameName].sort_values(by='MetaPoint', ascending=True)
+        
+    acc_game_data = game_data.groupby('PlayerName')['MetaPoint'].sum().sort_values(ascending=False)
+    selected_data = pd.DataFrame({'PlayerName':acc_game_data.index, 'MetaPoint':acc_game_data.values})    
+    selected_data["PlayerName.Upper"] = selected_data["PlayerName"].str.upper()
+    selected_data = selected_data.sort_values(['MetaPoint', 'PlayerName.Upper'], ascending=[True,False])
     
     
     
@@ -236,7 +241,7 @@ def PlayerRankingChart(GameName):
 
 
     # Plot data
-    ax.barh(selected_data['player'], selected_data['point'], color='#006BA2', zorder=2)
+    ax.barh(selected_data['PlayerName'], selected_data['MetaPoint'], color='#006BA2', zorder=2)
 
     # Reformat x-axis tick labels
     ax.xaxis.set_tick_params(labeltop=True,      # Put x-axis labels on top
@@ -246,7 +251,7 @@ def PlayerRankingChart(GameName):
                              pad=-1)             # Lower tick labels a bit
 
     # Reformat y-axis tick labels
-    ax.set_yticklabels(selected_data['player'],      # Set labels again
+    ax.set_yticklabels(selected_data['PlayerName'],      # Set labels again
                        ha = 'left')              # Set horizontal alignment to left
     ax.yaxis.set_tick_params(pad=100,            # Pad tick labels so they don't go over y-axis
                              labelsize=9,       # Set label size
@@ -254,11 +259,11 @@ def PlayerRankingChart(GameName):
 
     # Add in title and subtitle
     # FigName = GameName.replace(" ","") + 'Ranking.png'
-    FigName = '../assets/' + GameName.replace(" ","") + 'Ranking.png'
+    FigName = '../assets/images/ranking/' + GameName.replace(" ","") + 'Ranking.png'
 
     plt.savefig(FigName, transparent=True, bbox_inches='tight')
-    
-    top_country = game_data.groupby('country')['point'].sum().sort_values(ascending=False)
+    print(FigName)
+    top_country = game_data.groupby('Origin')['MetaPoint'].sum().sort_values(ascending=False)
     print(GameName)
     # print(GameName," Region ranking: ", end='')
 

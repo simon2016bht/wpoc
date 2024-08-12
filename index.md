@@ -51,4 +51,5 @@ layout: default
 <div align="left">
  <img src="/wpoc/assets/images/ranking/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
+[Check the csv file for details](https://simon2016bht.github.io/wpoc/assets/csv/result.csv)
 
