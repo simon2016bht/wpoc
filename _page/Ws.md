@@ -5,17 +5,17 @@ layout: default
 ## Wingspan
 ---
 
-### Region standings:
+### Region standings
 🥇United States of America(160) 🥈Australia(100) 🥉Hong Kong(100)
 <p>&nbsp;</p>
 
-### Player standings:
+### Player standings
 <div>
 	<img src="/wpoc/assets/images/ranking/WingspanRanking.png" style="display: block; margin-left: -10px; margin-bottom: 10px; margin-top: -10px"/>
 </div>
 <p>&nbsp;</p>
 
-### Tournament details:
+### Tournament details
 - [Season 1](https://boardgamearena.com/tournament?id=284811)
 - Date: 05/06/2024 - 06/24/2024
 - Number of players: 64
