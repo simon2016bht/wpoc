@@ -133,9 +133,9 @@ def transparent_background(image_file):
     
     # new_image_file = 't_' + image_file  
     # new_image_file = '../assets/t_' + re.findall("assets/(.*)",image_file)[0]
-    new_image_file = re.findall("(.*assets)/(.*)",elo_file)[0][0] + \
+    new_image_file = re.findall("(.*assets)/(.*)",image_file)[0][0] + \
     '/t_' + \
-    re.findall("(.*assets)/(.*)",elo_file)[0][1]
+    re.findall("(.*assets)/(.*)",image_file)[0][1]
     
     rgba.save(new_image_file, 'PNG')
     print('output image:', new_image_file)

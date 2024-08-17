@@ -5,7 +5,10 @@ layout: default
 
 <div align="center">
 
-	<img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<a href="{{ site.baseurl }}{% link _page/TTR.md %}">
+	<img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	</a>
+
 
 	<a href="{{ site.baseurl }}{% link _page/7W.md %}">
 	<img src="/wpoc/assets/images/LowResIcon/7W.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
@@ -51,5 +54,5 @@ layout: default
 <div align="left">
  <img src="/wpoc/assets/images/ranking/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
-[[details]](https://simon2016bht.github.io/wpoc/assets/csv/result.csv)
+[[tournament details]](https://simon2016bht.github.io/wpoc/assets/csv/result.csv)
 
