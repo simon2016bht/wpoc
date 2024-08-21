@@ -35,8 +35,9 @@ layout: default
 		<img src="/wpoc/assets/images/LowResIcon/Ws.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 
-	
-	<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<a href="{{ site.baseurl }}{% link _page/FS.md %}">
+		<img src="/wpoc/assets/images/LowResIcon/FS.jpg" height="70" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	</a>
 </div>
 
 
@@ -47,7 +48,7 @@ layout: default
 
 
 ### Region standings of all games 
-🥇Japan(355) 🥈China(335) 🥉Philippines(275)
+🥇Japan(365) 🥈France(355) 🥉China(335)
 <p>&nbsp;</p>
 
 ### Player standings of all games

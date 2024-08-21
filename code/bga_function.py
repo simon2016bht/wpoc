@@ -268,6 +268,8 @@ def PlayerRankingChart(GameName):
     # print(GameName," Region ranking: ", end='')
 
     print(f'🥇{top_country.index[0]}({top_country.iloc[0]}) 🥈{top_country.index[1]}({top_country.iloc[1]}) 🥉{top_country.index[2]}({top_country.iloc[2]})')
-    print(top_country.head())
+    # print(top_country.head())
+    print(top_country)
+
 
     return None
