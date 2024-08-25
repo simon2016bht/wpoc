@@ -1,0 +1,91 @@
+---LocalPlayer---
+
+Happy Memory
+nafanya-star
+Miyacchiiko
+zkklove123
+Vladimir Goan
+triangle790518
+doctor1215
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=84809002
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=89821514
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=84533993
+https://boardgamearena.com/player?id=92408527
+
+---Origin---
+
+Japan
+Viet Nam
+Viet Nam
+Japan
+Taiwan
+India
+Taiwan
+China
+
+---Language---
+
+日本語
+English
+English, Русский язык, Türkçe
+日本語
+
+Русский язык
+English, 中文 (漢)
+中文 (汉)
+
+
+- Origins of players:
+
+United States of America    17%
+France                      17%
+Germany                     10%
+Poland                       9%
+Italy                        7%
+Canada                       3%
+United Kingdom               3%
+Spain                        3%
+Belgium                      3%
+Netherlands                  3%
+Greece                       2%
+Russia                       2%
+Ukraine                      1%
+Taiwan                       1%
+Sweden                       1%
+Viet Nam                     1%
+Japan                        1%
+Palestine                    0%
+Brazil                       0%
+India                        0%
+Switzerland                  0%
+Czechia                      0%
+Türkiye                      0%
+Colombia                     0%
+China                        0%
+Chile                        0%
+Moldova                      0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+162/228/305

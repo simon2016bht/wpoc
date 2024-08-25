@@ -1,0 +1,90 @@
+---LocalPlayer---
+
+Happy Memory
+Ina-hime
+George22
+silentivory
+sanukiudon3sei
+xxlove22
+
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+96%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=84911560
+https://boardgamearena.com/player?id=95131037
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=93826103
+https://boardgamearena.com/player?id=96419552
+
+---Origin---
+
+Japan
+Viet Nam
+Taiwan
+South Korea
+Japan
+China
+Philippines
+
+---Language---
+
+日本語
+English, Tiếng Việt
+English, 中文 (漢)
+English, 한국어
+日本語
+中文 (汉)
+English
+
+
+- Origins of players:
+
+France                      22%
+Belgium                     11%
+Canada                       6%
+United States of America     6%
+Germany                      6%
+Italy                        6%
+United Kingdom               4%
+Spain                        4%
+Russia                       3%
+Estonia                      2%
+Poland                       2%
+Japan                        2%
+Slovenia                     1%
+South Korea                  1%
+Argentina                    1%
+Sweden                       1%
+Taiwan                       1%
+Uruguay                      1%
+Slovakia                     1%
+Philippines                  1%
+Romania                      1%
+Portugal                     1%
+Austria                      1%
+Netherlands                  1%
+Moldova                      1%
+Hungary                      1%
+Greece                       1%
+Czechia                      1%
+China                        1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+118/163/234
