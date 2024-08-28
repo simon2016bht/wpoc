@@ -5,6 +5,11 @@ layout: default
 
 <div align="center">
 
+	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
+		<img src="/wpoc/assets/images/LowResIcon/Ccs.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	</a>
+
+
 	<a href="{{ site.baseurl }}{% link _page/TTR.md %}">
 	<img src="/wpoc/assets/images/LowResIcon/TTR.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
@@ -18,9 +23,7 @@ layout: default
 	<img src="/wpoc/assets/images/LowResIcon/Sp.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 
-	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
-		<img src="/wpoc/assets/images/LowResIcon/Ccs.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
-	</a>
+
 
 	<a href="{{ site.baseurl }}{% link _page/Kd.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Kd.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>

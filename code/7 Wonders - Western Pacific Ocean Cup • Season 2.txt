@@ -185,3 +185,14 @@ Name: count, dtype: object
 - Q1/Q2/Q3 of player's Elo rating:
 
 168/226/301
+
+---BlackList---
+
+Bernardo El Zorro
+Dead-Master
+GreatSkillet
+BelindaVB
+sopht82
+Daijiba88
+Tobijasz
+Daijiba88

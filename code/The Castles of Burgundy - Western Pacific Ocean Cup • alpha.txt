@@ -1,0 +1,115 @@
+---LocalPlayer---
+
+M_kk_k
+GlenDavis22
+Joffasaurus
+Ricardo12138
+CHathome
+carl31
+Tanyawanya
+fun_chan
+JoeVie
+SilverD1
+KeshengXie
+gmanislucky
+Golden tonton
+binbin2610
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+90%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93584459
+https://boardgamearena.com/player?id=90179166
+https://boardgamearena.com/player?id=91524246
+https://boardgamearena.com/player?id=95545823
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=84930487
+https://boardgamearena.com/player?id=88132215
+https://boardgamearena.com/player?id=92229279
+https://boardgamearena.com/player?id=96056736
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=93225755
+https://boardgamearena.com/player?id=94856453
+https://boardgamearena.com/player?id=93312017
+https://boardgamearena.com/player?id=92130200
+
+---Origin---
+
+China
+Japan
+Australia
+China
+China
+China
+Australia
+Japan
+Viet Nam
+Indonesia
+China
+India
+Thailand
+China
+
+---Language---
+
+English, 中文 (汉)
+日本語
+English
+中文 (汉)
+中文 (汉)
+中文 (汉)
+English
+English, 日本語
+English
+English
+English, 中文 (汉)
+English
+English, ไทย
+English, 中文 (汉)
+
+
+- Origins of players:
+
+China        37%
+Australia    12%
+Japan        12%
+Canada        6%
+India         6%
+Indonesia     6%
+Russia        6%
+Thailand      6%
+Viet Nam      6%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+213/270/350
+
+---BlackList---
+
+Golden tonton
+brionysmith
+
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.15, 1.8, 2.85

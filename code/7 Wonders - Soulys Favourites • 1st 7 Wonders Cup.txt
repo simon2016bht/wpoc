@@ -1,0 +1,55 @@
+---LocalPlayer---
+
+Happy Memory
+Ina-hime
+
+- Reputations:
+
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=92879444
+
+---Origin---
+
+Japan
+Viet Nam
+
+---Language---
+
+日本語
+English, Tiếng Việt
+
+
+- Origins of players:
+
+France                      19%
+Germany                     17%
+Italy                       11%
+Poland                       7%
+Belgium                      5%
+Canada                       5%
+United States of America     3%
+United Kingdom               3%
+Switzerland                  3%
+Spain                        1%
+Russia                       1%
+Japan                        1%
+Moldova                      1%
+Latvia                       1%
+Hungary                      1%
+Greece                       1%
+Finland                      1%
+Czechia                      1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+140/182/257
