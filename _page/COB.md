@@ -18,7 +18,7 @@ layout: default
 
 
 ### Tournament details
-
+TBD
 
 
 <p>&nbsp;</p>
