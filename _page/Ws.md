@@ -26,10 +26,10 @@ layout: default
 - Q1/Q2/Q3 of table duration (days): 1.5/2.9/4.0
 - Winners(meta event points): Timbits(100); concreteblok(75); Little-Dinkey(50); jasonb05(50); irenreny(10); Pablo Escobear(10); sirafin502(10); Volts210(10)
 <div>
- <img src="/wpoc/assets/images/tournament/t_Wingspan_Elo_20240624182154.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Elo_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Wingspan_Duration_20240624185311.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Duration_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 
@@ -43,10 +43,10 @@ layout: default
 - Q1/Q2/Q3 of table duration (days): 1.0/2.1/3.5
 - Winners(meta event points): kiki1234555(100); concreteblok(75); ShadOwl72(50); zaperok0(50); hferi(10); plopzito(10); LongTee(10); dachnick(10)
 <div>
- <img src="/wpoc/assets/images/tournament/t_Wingspan_Elo_20240731211307.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Elo_S2.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Wingspan_Duration_20240731222752.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Wingspan_Duration_S2.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 

@@ -36,10 +36,10 @@ layout: default
 
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_Azul_Elo_20240623114611.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Elo_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Azul_Duration_20240623122146.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Duration_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 
@@ -55,10 +55,10 @@ layout: default
 - Winners(meta event points): Kndr(100); nya11(75); Hyperion7(50); oldteajar(50); Lwenyuan(10); amybomb(10); simtt(10); loladub2(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_Azul_Elo_20240811213220.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Elo_S2.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Azul_Duration_20240811222357.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Azul_Duration_S2.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 
