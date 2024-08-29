@@ -21,7 +21,7 @@ layout: default
 
 
 	<a href="{{ site.baseurl }}{% link _page/COB.md %}">
-	<img src="/wpoc/assets/images/LowResIcon/COB.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
+	<img src="/wpoc/assets/images/LowResIcon/COB.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 
 	<a href="{{ site.baseurl }}{% link _page/Sp.md %}">
