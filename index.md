@@ -20,7 +20,7 @@ layout: default
 	</a>
 
 
-	<a href="{{ site.baseurl }}{% link _page/7W.md %}">
+	<a href="{{ site.baseurl }}{% link _page/COB.md %}">
 	<img src="/wpoc/assets/images/LowResIcon/COB.jpg" height="1" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
 
