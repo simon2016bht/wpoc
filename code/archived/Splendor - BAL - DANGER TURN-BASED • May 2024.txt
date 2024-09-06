@@ -1,0 +1,239 @@
+---LocalPlayer---
+
+yukimura1130
+2163465425
+PZ526
+gobasak
+MIKIRERA
+VAB WRX
+Ina-hime
+tang11111
+Strauss21
+snowchamp
+tantan112222
+NIN_NIKU
+CHathome
+tetsuji212
+Happy Memory
+digibomber
+aquacats
+Lwenyuan
+dream306
+HwaNeee
+doctor1215
+ykit244
+adam1882
+eric18140
+Sicy
+KIMMYDOG
+pepakura
+khokho300495
+Daijiba88
+xd21
+Moose_Head
+MetapodEyes
+ParisTheDane
+Billyos_fever
+Jye77
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+89%
+61%
+100%
+100%
+53%
+97%
+100%
+100%
+100%
+100%
+100%
+100%
+97%
+100%
+94%
+100%
+100%
+100%
+94%
+90%
+100%
+100%
+56%
+20%
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92428905
+https://boardgamearena.com/player?id=92161978
+https://boardgamearena.com/player?id=93137735
+https://boardgamearena.com/player?id=95890280
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=95798533
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=94406096
+https://boardgamearena.com/player?id=95801639
+https://boardgamearena.com/player?id=92982938
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=94209608
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=85378919
+https://boardgamearena.com/player?id=33756715
+https://boardgamearena.com/player?id=91646996
+https://boardgamearena.com/player?id=85002350
+https://boardgamearena.com/player?id=92606335
+https://boardgamearena.com/player?id=92408527
+https://boardgamearena.com/player?id=90533550
+https://boardgamearena.com/player?id=95354352
+https://boardgamearena.com/player?id=95081606
+https://boardgamearena.com/player?id=88491939
+https://boardgamearena.com/player?id=90854901
+https://boardgamearena.com/player?id=84533787
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=94245170
+https://boardgamearena.com/player?id=90872596
+https://boardgamearena.com/player?id=88204335
+https://boardgamearena.com/player?id=91554037
+https://boardgamearena.com/player?id=95511666
+https://boardgamearena.com/player?id=89374495
+https://boardgamearena.com/player?id=90621162
+
+---Origin---
+
+Japan
+China
+China
+South Korea
+Japan
+Japan
+Viet Nam
+China
+Hong Kong
+Singapore
+China
+Japan
+China
+Japan
+Japan
+India
+Japan
+China
+Taiwan
+South Korea
+China
+Malaysia
+China
+India
+Hong Kong
+Indonesia
+Japan
+Viet Nam
+China
+China
+Australia
+Australia
+Australia
+Thailand
+Singapore
+
+---Language---
+
+日本語
+English, 中文 (汉)
+中文 (汉)
+한국어
+日本語
+日本語
+English, Tiếng Việt
+中文 (汉)
+中文 (漢)
+English
+中文 (汉)
+日本語
+中文 (汉)
+日本語
+日本語
+English
+
+中文 (汉)
+中文 (漢)
+English, 한국어
+中文 (汉)
+English
+English, 中文 (汉)
+English, Français
+中文 (漢)
+English
+English, 日本語
+Tiếng Việt
+English, 中文 (汉)
+中文 (汉)
+English
+English
+English
+English
+English
+
+
+- Origins of players:
+
+United States of America    19%
+France                      16%
+Poland                       8%
+Spain                        6%
+China                        5%
+Canada                       4%
+Japan                        4%
+Russia                       4%
+Germany                      3%
+Italy                        3%
+Türkiye                      2%
+Netherlands                  1%
+Denmark                      1%
+Czechia                      1%
+Belgium                      1%
+Australia                    1%
+Sweden                       1%
+United Kingdom               1%
+South Korea                  1%
+Singapore                    1%
+Peru                         1%
+Argentina                    1%
+Iran                         1%
+India                        1%
+Hungary                      1%
+Hong Kong                    1%
+Viet Nam                     1%
+Moldova                      0%
+Malaysia                     0%
+Israel                       0%
+Portugal                     0%
+Indonesia                    0%
+Slovakia                     0%
+Taiwan                       0%
+Thailand                     0%
+French Guiana                0%
+Finland                      0%
+Brazil                       0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+114/181/259

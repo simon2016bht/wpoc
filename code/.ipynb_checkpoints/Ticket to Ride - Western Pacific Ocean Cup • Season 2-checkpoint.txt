@@ -1,0 +1,190 @@
+---LocalPlayer---
+
+Da Pyrate
+simtt
+5murf
+hodomaniac
+Moose_Head
+OdanobuGG
+kallima0304
+windie_terry
+Stitch_ohana
+st60926
+John Chan
+ScreenShot
+Fyyto
+Creamson
+Alanah
+chenxixiluo
+Meccy
+doowhadoo
+DrewJCooper
+michael202325
+heeee_gaeng
+iamsum1gr8
+Natx12
+lpoon
+alphazyh
+mmac753
+korany
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+64%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91182357
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=95113496
+https://boardgamearena.com/player?id=88204335
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=87285576
+https://boardgamearena.com/player?id=84800551
+https://boardgamearena.com/player?id=95753657
+https://boardgamearena.com/player?id=84279204
+https://boardgamearena.com/player?id=87956601
+https://boardgamearena.com/player?id=94890234
+https://boardgamearena.com/player?id=85238494
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=85815457
+https://boardgamearena.com/player?id=94867709
+https://boardgamearena.com/player?id=95263354
+https://boardgamearena.com/player?id=88202849
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=91583601
+https://boardgamearena.com/player?id=83909225
+https://boardgamearena.com/player?id=92152591
+https://boardgamearena.com/player?id=84863841
+https://boardgamearena.com/player?id=93281285
+https://boardgamearena.com/player?id=94405277
+https://boardgamearena.com/player?id=94958239
+
+---Origin---
+
+Indonesia
+Thailand
+Australia
+India
+Australia
+Thailand
+Taiwan
+Hong Kong
+Australia
+Taiwan
+Hong Kong
+Thailand
+Australia
+Singapore
+New Zealand
+China
+Australia
+Thailand
+Australia
+China
+South Korea
+Australia
+Hong Kong
+Hong Kong
+China
+Japan
+South Korea
+
+---Language---
+
+English
+English, 日本語, 中文 (漢)
+English
+English, हिन्दी, ਪੰਜਾਬੀ
+English
+ไทย
+English, 中文 (漢), 中文 (汉)
+English, 日本語, 中文 (漢)
+English
+English, 中文 (漢)
+中文 (漢)
+English, ไทย
+English
+English
+English
+中文 (汉)
+English
+English, ไทย
+English
+English, 中文 (汉)
+한국어
+English
+English, 中文 (漢)
+English, 日本語, 中文 (漢)
+English, 中文 (漢), 中文 (汉)
+日本語
+한국어
+
+
+- Origins of players:
+
+United States of America       13%
+Australia                       9%
+France                          9%
+Thailand                        5%
+Hong Kong                       5%
+Netherlands                     4%
+United Kingdom                  4%
+China                           4%
+Russia                          4%
+Poland                          4%
+Taiwan                          2%
+Spain                           2%
+South Korea                     2%
+Italy                           2%
+Germany                         2%
+Canada                          2%
+Brazil                          1%
+Japan                           1%
+Lithuania                       1%
+Indonesia                       1%
+New Zealand                     1%
+India                           1%
+Singapore                       1%
+Finland                         1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+Czechia                         1%
+Bulgaria                        1%
+Uruguay                         1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+141/180/253

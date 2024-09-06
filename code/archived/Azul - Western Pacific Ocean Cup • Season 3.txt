@@ -1,0 +1,230 @@
+---LocalPlayer---
+
+nya11
+Lwenyuan
+Kaepo
+Little-Dinkey
+Fran Cys
+alien52332
+SmileyKK
+amybomb
+LeviTate
+Estology
+pikaqiu10086
+rockboyz
+LaVintegor
+quakednz
+CHathome
+superwhite210
+Vladimir Goan
+simtt
+SilverD1
+Hwa92
+RonnieMcDronnie
+OIOlO
+Melisajane
+Strauss21
+Tinychuck
+leeszeying
+Joffasaurus
+Wunderscore
+JWitness
+sylviakid
+Golden tonton
+nickyloulou
+shilfee7409
+scouticus
+UsernameTaken210
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+98%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+99%
+96%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93795652
+https://boardgamearena.com/player?id=91646996
+https://boardgamearena.com/player?id=89652790
+https://boardgamearena.com/player?id=94738220
+https://boardgamearena.com/player?id=92684904
+https://boardgamearena.com/player?id=86257680
+https://boardgamearena.com/player?id=92290451
+https://boardgamearena.com/player?id=92784495
+https://boardgamearena.com/player?id=84455523
+https://boardgamearena.com/player?id=93261572
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=92352541
+https://boardgamearena.com/player?id=85179772
+https://boardgamearena.com/player?id=94223051
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=90903355
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=83837848
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=94912131
+https://boardgamearena.com/player?id=94241028
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=95326763
+https://boardgamearena.com/player?id=92329811
+https://boardgamearena.com/player?id=91524246
+https://boardgamearena.com/player?id=87531132
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=89909333
+https://boardgamearena.com/player?id=93312017
+https://boardgamearena.com/player?id=85901862
+https://boardgamearena.com/player?id=86579805
+https://boardgamearena.com/player?id=86125566
+https://boardgamearena.com/player?id=91737897
+
+---Origin---
+
+Japan
+China
+Japan
+Kazakhstan
+Hong Kong
+Thailand
+Australia
+Australia
+Australia
+Thailand
+China
+China
+Hong Kong
+New Zealand
+China
+Taiwan
+India
+Thailand
+Indonesia
+China
+Australia
+South Korea
+Australia
+Hong Kong
+New Zealand
+China
+Australia
+Malaysia
+Australia
+Taiwan
+Thailand
+Australia
+Japan
+Australia
+Australia
+
+---Language---
+
+日本語
+中文 (汉)
+English, Français
+English
+English
+English
+English
+English
+English
+English
+中文 (漢)
+中文 (汉)
+中文 (漢)
+English
+中文 (汉)
+中文 (漢)
+Русский язык
+English, 日本語, 中文 (漢)
+English
+English, 中文 (漢)
+Afrikaans, English
+English, 한국어
+English
+中文 (漢)
+English
+中文 (汉)
+English
+English
+English
+English, 中文 (漢)
+English, ไทย
+English
+日本語
+English
+English
+
+
+- Origins of players:
+
+Australia                   13%
+Germany                      9%
+United States of America     8%
+China                        8%
+France                       6%
+Thailand                     5%
+Hong Kong                    4%
+Japan                        4%
+Spain                        4%
+New Zealand                  2%
+Russia                       2%
+Taiwan                       2%
+United Kingdom               2%
+Netherlands                  2%
+South Korea                  1%
+Romania                      1%
+Portugal                     1%
+Peru                         1%
+Argentina                    1%
+Malaysia                     1%
+Lithuania                    1%
+Kazakhstan                   1%
+Iran                         1%
+Indonesia                    1%
+India                        1%
+Holy See                     1%
+Czechia                      1%
+Canada                       1%
+Latvia                       1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+182/307/436

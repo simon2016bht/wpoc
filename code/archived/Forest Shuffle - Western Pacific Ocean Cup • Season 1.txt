@@ -1,31 +1,28 @@
 ---LocalPlayer---
 
-ScreenShot
-ApriiiCot
-selolog
-Emberwood
-ohyaku
-olihika
-Kvd93
-simtt
-Rrrrabbit
-doowhadoo
-Creamson
----B---
-michael202325
-troe665
 TheOGSodapop
-ZYG_Wei
+Emberwood
+olihika
+ScreenShot
+michael202325
+ApriiiCot
+troe665
+simtt
+Kvd93
+selolog
+---B---
 Drakecula
+ohyaku
+doowhadoo
 LauraLJ
+Rrrrabbit
+Creamson
 
 - Reputations:
 
 100%
 100%
-100%
-97%
-100%
+92%
 100%
 100%
 100%
@@ -36,73 +33,74 @@ LauraLJ
 100%
 100%
 100%
-75%
+100%
+100%
 100%
 100%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=94890234
-https://boardgamearena.com/player?id=94398904
-https://boardgamearena.com/player?id=84706019
-https://boardgamearena.com/player?id=95955622
-https://boardgamearena.com/player?id=87750311
-https://boardgamearena.com/player?id=93840020
-https://boardgamearena.com/player?id=95418272
-https://boardgamearena.com/player?id=95235509
-https://boardgamearena.com/player?id=91186203
-https://boardgamearena.com/player?id=88202849
-https://boardgamearena.com/player?id=91565252
-https://boardgamearena.com/player?id=85774525
-https://boardgamearena.com/player?id=94534363
-https://boardgamearena.com/player?id=94080189
 https://boardgamearena.com/player?id=93299810
-https://boardgamearena.com/player?id=91585433
+https://boardgamearena.com/player?id=95955622
+https://boardgamearena.com/player?id=93840020
+https://boardgamearena.com/player?id=94890234
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=94398904
+https://boardgamearena.com/player?id=94080189
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=95418272
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=85774525
 https://boardgamearena.com/player?id=85896106
+https://boardgamearena.com/player?id=87750311
+https://boardgamearena.com/player?id=88202849
 https://boardgamearena.com/player?id=88627584
+https://boardgamearena.com/player?id=91186203
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=91585433
 
 ---Origin---
 
-Thailand
-Thailand
-Japan
+Australia
 New Zealand
 Japan
-Japan
+Thailand
+China
+Thailand
+Kazakhstan
+Thailand
 Indonesia
+Japan
+Australia
+Australia
+Japan
 Thailand
-Thailand
+Australia
 Thailand
 Singapore
-Australia
 China
-Kazakhstan
-Australia
-China
-Australia
-Australia
 
 ---Language---
 
-English, ไทย
-English, ไทย
-English, 日本語
 English
-English, 日本語
+English
 日本語
-English, Bahasa Indonesia
-English, 日本語, 中文 (漢)
 English, ไทย
-English, ไทย
-English
-English
 English, 中文 (汉)
+English, ไทย
 Русский язык
+English, 日本語, 中文 (漢)
+English, Bahasa Indonesia
+English, 日本語
+English
+English
+English, 日本語
+English, ไทย
+English
+English, ไทย
 English
 English, 中文 (汉)
-English
-English
 
 
 - Origins of players:
@@ -135,7 +133,7 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-151/228/319
+130/227/309
 
 ---BlackList---
 
@@ -152,3 +150,29 @@ ZYG_Wei
 lostmycookie
 Matias_Away
 ZYG_Wei
+olihika
+markup54
+CF Spartacus
+yarikL
+lostmycookie
+ZYG_Wei
+Jalani
+Fanto1819
+IRavenclaw13
+Drakecula
+teertu
+Embe13
+Sissi 11
+IRavenclaw13
+chipos73
+Jalani
+Leprycorn
+Embe13
+IRavenclaw13
+fonteintje
+chipos73
+JoergErik
+elisjuh14
+fonteintje
+chipos73
+MeredithR

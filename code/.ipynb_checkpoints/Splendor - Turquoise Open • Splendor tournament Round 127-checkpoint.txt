@@ -1,0 +1,215 @@
+---LocalPlayer---
+
+yukimura1130
+finallove
+akkyu39
+PZ526
+pikaqiu10086
+yuyoyo5211
+8HAO8
+VAB WRX
+SilverD1
+trikien
+Wongdanil
+James Boon
+CHathome
+w279700125
+Dasan_mino
+glassjun
+ykit244
+juyeon1004
+hihat
+BoredGamesLab
+Ms_G
+suilk1015
+giaosunhat
+tanu mumi
+sophiafu
+dillydallynoob
+bousi
+MIKIRERA
+KingOfGames_GX
+xxAngelwingsxx
+humiddragonslayer
+
+- Reputations:
+
+100%
+100%
+95%
+100%
+100%
+100%
+100%
+100%
+100%
+90%
+100%
+100%
+100%
+100%
+100%
+68%
+100%
+92%
+100%
+100%
+100%
+100%
+100%
+85%
+98%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92428905
+https://boardgamearena.com/player?id=26621392
+https://boardgamearena.com/player?id=95674161
+https://boardgamearena.com/player?id=93137735
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=90619898
+https://boardgamearena.com/player?id=93837777
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=84809002
+https://boardgamearena.com/player?id=96091527
+https://boardgamearena.com/player?id=90802505
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=96125311
+https://boardgamearena.com/player?id=95041860
+https://boardgamearena.com/player?id=96481685
+https://boardgamearena.com/player?id=90533550
+https://boardgamearena.com/player?id=95318923
+https://boardgamearena.com/player?id=84793938
+https://boardgamearena.com/player?id=92937890
+https://boardgamearena.com/player?id=94281658
+https://boardgamearena.com/player?id=92589798
+https://boardgamearena.com/player?id=95863331
+https://boardgamearena.com/player?id=92294596
+https://boardgamearena.com/player?id=95463320
+https://boardgamearena.com/player?id=85433789
+https://boardgamearena.com/player?id=84285103
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=95664385
+https://boardgamearena.com/player?id=91485822
+https://boardgamearena.com/player?id=93007696
+
+---Origin---
+
+Japan
+Malaysia
+Japan
+China
+China
+Taiwan
+South Korea
+Japan
+Indonesia
+Viet Nam
+Indonesia
+Malaysia
+China
+China
+South Korea
+South Korea
+Malaysia
+South Korea
+South Korea
+Australia
+Australia
+China
+Viet Nam
+Thailand
+Hong Kong
+Singapore
+Japan
+Japan
+Australia
+Japan
+India
+
+---Language---
+
+日本語
+中文 (汉)
+日本語
+中文 (汉)
+中文 (漢)
+中文 (漢)
+한국어
+日本語
+English
+English
+English
+English
+中文 (汉)
+中文 (汉)
+한국어
+한국어
+English
+한국어
+English
+English
+English
+中文 (汉)
+English
+ไทย
+中文 (漢)
+English
+English, 日本語
+日本語
+English
+日本語
+English
+
+
+- Origins of players:
+
+United States of America    16%
+France                      15%
+Poland                       8%
+Canada                       6%
+Spain                        4%
+Japan                        4%
+Russia                       3%
+China                        3%
+United Kingdom               3%
+South Korea                  3%
+Malaysia                     2%
+Australia                    2%
+Germany                      2%
+Belgium                      2%
+Indonesia                    1%
+Czechia                      1%
+Brazil                       1%
+Viet Nam                     1%
+Taiwan                       0%
+Portugal                     0%
+Thailand                     0%
+Singapore                    0%
+Réunion                      0%
+Argentina                    0%
+Netherlands                  0%
+Moldova                      0%
+Madagascar                   0%
+Italy                        0%
+India                        0%
+Hong Kong                    0%
+Cyprus                       0%
+Costa Rica                   0%
+Colombia                     0%
+Luxembourg                   0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+115/180/317

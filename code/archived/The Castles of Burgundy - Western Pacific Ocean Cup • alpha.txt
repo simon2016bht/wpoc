@@ -3,16 +3,16 @@
 M_kk_k
 GlenDavis22
 Joffasaurus
-SilverD1
 Ricardo12138
 CHathome
-fun_chan
 carl31
-KeshengXie
+Tanyawanya
+fun_chan
 JoeVie
+SilverD1
+KeshengXie
 gmanislucky
 Golden tonton
-Tanyawanya
 binbin2610
 
 - Reputations:
@@ -21,7 +21,6 @@ binbin2610
 100%
 100%
 100%
-95%
 100%
 100%
 100%
@@ -31,6 +30,7 @@ binbin2610
 100%
 100%
 100%
+90%
 
 
 ---link of user page---
@@ -38,16 +38,16 @@ binbin2610
 https://boardgamearena.com/player?id=93584459
 https://boardgamearena.com/player?id=90179166
 https://boardgamearena.com/player?id=91524246
-https://boardgamearena.com/player?id=84439898
 https://boardgamearena.com/player?id=95545823
 https://boardgamearena.com/player?id=93503949
-https://boardgamearena.com/player?id=92229279
 https://boardgamearena.com/player?id=84930487
-https://boardgamearena.com/player?id=93225755
+https://boardgamearena.com/player?id=88132215
+https://boardgamearena.com/player?id=92229279
 https://boardgamearena.com/player?id=96056736
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=93225755
 https://boardgamearena.com/player?id=94856453
 https://boardgamearena.com/player?id=93312017
-https://boardgamearena.com/player?id=88132215
 https://boardgamearena.com/player?id=92130200
 
 ---Origin---
@@ -55,16 +55,16 @@ https://boardgamearena.com/player?id=92130200
 China
 Japan
 Australia
+China
+China
+China
+Australia
+Japan
+Viet Nam
 Indonesia
 China
-China
-Japan
-China
-China
-Viet Nam
 India
 Thailand
-Australia
 China
 
 ---Language---
@@ -72,16 +72,16 @@ China
 English, 中文 (汉)
 日本語
 English
+中文 (汉)
+中文 (汉)
+中文 (汉)
 English
-中文 (汉)
-中文 (汉)
 English, 日本語
-中文 (汉)
+English
+English
 English, 中文 (汉)
 English
-English
 English, ไทย
-English
 English, 中文 (汉)
 
 
@@ -102,4 +102,14 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-183/239/344
+213/270/350
+
+---BlackList---
+
+Golden tonton
+brionysmith
+
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.15, 1.8, 2.85

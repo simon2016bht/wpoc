@@ -1,38 +1,44 @@
 ---LocalPlayer---
 
-kiwi_liang
-nafanya-star
-crippler
-helium820
-Daijiba88
-Murugan
 hakomugiko
-Morka
-superwhite210
-pojen50
-Elm
+helium820
+kiwi_liang
 nickwoodward17
-simtt
-Vladimir Goan
-zkklove123
-bingman
+Murugan
+crippler
+nafanya-star
 doctor1215
+Elm
+peipeiyang
+Morka
+Ina-hime
+zkklove123
+simtt
 triangle790518
 yuuji-mnmk
 huogbendeo
-Bunggy
-Ina-hime
-LaVintegor
 croccroc
-peipeiyang
 sumnortea
+LaVintegor
+Vladimir Goan
+superwhite210
+bingman
+pojen50
 OdanobuGG
 Rrrrabbit
+Bunggy
+Daijiba88
 
 - Reputations:
 
 100%
 100%
+100%
+100%
+100%
+100%
+100%
+93%
 100%
 100%
 100%
@@ -48,112 +54,105 @@ Rrrrabbit
 100%
 100%
 100%
+97%
 100%
 100%
 100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-
+56%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=94335958
-https://boardgamearena.com/player?id=91400048
-https://boardgamearena.com/player?id=84065868
-https://boardgamearena.com/player?id=95318776
-https://boardgamearena.com/player?id=94245170
-https://boardgamearena.com/player?id=84467123
 https://boardgamearena.com/player?id=83836609
-https://boardgamearena.com/player?id=129229
-https://boardgamearena.com/player?id=90903355
-https://boardgamearena.com/player?id=95575778
-https://boardgamearena.com/player?id=30523622
+https://boardgamearena.com/player?id=95318776
+https://boardgamearena.com/player?id=94335958
 https://boardgamearena.com/player?id=84585778
-https://boardgamearena.com/player?id=95235509
-https://boardgamearena.com/player?id=94688367
-https://boardgamearena.com/player?id=4372327
-https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=84467123
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=91400048
 https://boardgamearena.com/player?id=92408527
+https://boardgamearena.com/player?id=30523622
+https://boardgamearena.com/player?id=84930901
+https://boardgamearena.com/player?id=129229
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=95235509
 https://boardgamearena.com/player?id=84533993
 https://boardgamearena.com/player?id=84251064
 https://boardgamearena.com/player?id=95658742
-https://boardgamearena.com/player?id=92522381
-https://boardgamearena.com/player?id=92879444
-https://boardgamearena.com/player?id=85179772
 https://boardgamearena.com/player?id=88379692
-https://boardgamearena.com/player?id=84930901
 https://boardgamearena.com/player?id=94041458
+https://boardgamearena.com/player?id=85179772
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=90903355
+https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=95575778
 https://boardgamearena.com/player?id=93674846
 https://boardgamearena.com/player?id=91186203
+https://boardgamearena.com/player?id=92522381
+https://boardgamearena.com/player?id=94245170
 
 ---Origin---
 
+Japan
+Hong Kong
+Taiwan
+Australia
+Indonesia
 Taiwan
 Viet Nam
+China
+Japan
+Taiwan
+Australia
+Viet Nam
+Taiwan
+Thailand
+Taiwan
+Japan
+Viet Nam
+Taiwan
 Taiwan
 Hong Kong
-China
-Indonesia
-Japan
-Australia
-Taiwan
-Taiwan
-Japan
-Australia
-Thailand
 India
 Taiwan
 Malaysia
+Taiwan
+Thailand
+Thailand
+Thailand
 China
-Taiwan
-Japan
-Viet Nam
-Thailand
-Viet Nam
-Hong Kong
-Taiwan
-Taiwan
-Taiwan
-Thailand
-Thailand
 
 ---Language---
 
+English
+中文 (漢)
+English, 中文 (漢)
+English
+English, Bahasa Indonesia
 English, 中文 (漢)
 English, Русский язык, Türkçe
-English, 中文 (漢)
-中文 (漢)
-English, 中文 (汉)
-English, Bahasa Indonesia
-English
-English
-中文 (漢)
-中文 (漢)
-English, 日本語
-English
-English, 日本語, 中文 (漢)
-Русский язык
-
-English
 中文 (汉)
+English, 日本語
 中文 (漢)
-日本語
 English
-English, ไทย
+English, Tiếng Việt
+
+English, 日本語, 中文 (漢)
+English, 中文 (漢)
+日本語
 English, Tiếng Việt
 中文 (漢)
-中文 (漢)
-中文 (漢)
 English, 中文 (漢)
+中文 (漢)
+Русский язык
+中文 (漢)
+English
+中文 (漢)
 ไทย
 English, ไทย
+English, ไทย
+English, 中文 (汉)
 
 
 - Origins of players:
@@ -185,7 +184,23 @@ Name: count, dtype: object
 
 
 
-
 - Q1/Q2/Q3 of player's Elo rating:
 
-187/237/294
+171/214/299
+
+---BlackList---
+
+Bernardo El Zorro
+Dead-Master
+GreatSkillet
+BelindaVB
+sopht82
+Daijiba88
+Tobijasz
+Daijiba88
+Daijiba88
+Daijiba88
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.9, 2.7, 3.8

@@ -1,0 +1,131 @@
+---LocalPlayer---
+
+ailove
+anacodam
+minape
+RonnieMcDronnie
+Small Geezer
+simtt
+Kurtimus Prime
+OdanobuGG
+frosty67
+kurohajoker
+acuteangle123
+Flor-w
+simonrp
+michelle41
+sleepyowl23
+Clicster
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+97%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=85411913
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=90842112
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=84110954
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=86748593
+https://boardgamearena.com/player?id=84219629
+https://boardgamearena.com/player?id=95243693
+https://boardgamearena.com/player?id=86583973
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=91962996
+https://boardgamearena.com/player?id=85103457
+https://boardgamearena.com/player?id=18966684
+
+---Origin---
+
+Japan
+Viet Nam
+Japan
+Australia
+Australia
+Thailand
+New Zealand
+Thailand
+Australia
+Japan
+Australia
+Indonesia
+Australia
+Japan
+Indonesia
+Australia
+
+---Language---
+
+日本語
+English
+English, 日本語
+Afrikaans, English
+English
+English, 日本語, 中文 (漢)
+English
+ไทย
+English
+English, 日本語
+English
+English, Bahasa Indonesia, Nederlands
+English
+日本語
+English
+English
+
+
+- Origins of players:
+
+France                      16%
+Poland                      11%
+United States of America     8%
+Australia                    8%
+Russia                       5%
+Japan                        5%
+Netherlands                  4%
+Spain                        4%
+Italy                        4%
+Thailand                     2%
+Indonesia                    2%
+Finland                      2%
+United Kingdom               2%
+Canada                       2%
+Belgium                      2%
+Germany                      2%
+Switzerland                  1%
+Argentina                    1%
+New Zealand                  1%
+Latvia                       1%
+Hungary                      1%
+Greece                       1%
+Czechia                      1%
+Belarus                      1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+178/248/365
