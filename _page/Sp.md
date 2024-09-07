@@ -8,7 +8,7 @@ layout: default
 
 
 ### Region standings
-🥇Japan(175) 🥈China(70) 🥉Hong Kong(50)
+🥇Japan(345) 🥈France(75) 🥉China(70)
 
 <p>&nbsp;</p>
 
@@ -43,6 +43,25 @@ layout: default
 </div>
 <p>&nbsp;</p>
 
+
+- [Season 2](https://boardgamearena.com/tournament?id=308419)
+- Date: 07/22/2024 - 09/07/2024
+- Number of players: 70
+- Top origins of players: Japan 14% China 10% Taiwan 10% 
+- Abandoned tables (reached duration limit): 10%
+- Cancelled tables (player left or got kicked): 9%
+- Q1/Q2/Q3 of player's Elo rating: 176/279/399
+- Q1/Q2/Q3 of table duration (days): 1.1/2.6/4.0
+- Winners: 🥇bousi 🥈arno c r 🥉hakomugiko
+- Winners(meta event points): bousi(100); arno c r(75); hakomugiko(50); gobasak(50); jog-tw(10); o0O KAASKOP O0o(10); akkyu39(10); yui05163(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 2_Elo_20240907215156.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 2_Duration_20240907221658.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
 
 
 
