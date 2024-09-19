@@ -1,0 +1,64 @@
+---LocalPlayer---
+
+miclkc
+simonrp
+
+- Reputations:
+
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84455240
+https://boardgamearena.com/player?id=93333405
+
+---Origin---
+
+Hong Kong
+Australia
+
+---Language---
+
+English
+English
+
+
+- Origins of players:
+
+Russia                         13%
+Spain                           9%
+France                          8%
+Italy                           6%
+Poland                          6%
+Germany                         6%
+United States of America        5%
+Canada                          5%
+Belgium                         5%
+Finland                         2%
+Ukraine                         2%
+United Kingdom                  2%
+Türkiye                         1%
+Netherlands                     1%
+Uganda                          1%
+Romania                         1%
+Sweden                          1%
+Antigua and Barbuda             1%
+Hong Kong                       1%
+Australia                       1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+Czechia                         1%
+Croatia                         1%
+Chile                           1%
+Brazil                          1%
+Belarus                         1%
+Greece                          1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+153/271/385
