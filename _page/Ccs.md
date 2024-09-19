@@ -73,10 +73,10 @@ layout: default
 - Winners(meta event points): spman2(100); Carquinyolis(75); imkedr(50); Heinrich Shen(50); Sir INT 4(10); Josetown(10); Mrwan1(10); BIGOOD79(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/images/t_CarcassonneWestern Pacific Ocean Cup • Season 3_Elo_20240919220650.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 3_Elo_20240919220650.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/images/t_CarcassonneWestern Pacific Ocean Cup • Season 3_Duration_20240919224830.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 3_Duration_20240919224830.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 
