@@ -1,35 +1,35 @@
 ---LocalPlayer---
 
-Chris_TRAPS
 spman2
-Kuya Boards
-Mrwan1
-craig_shoji
-Kndr
-kayajt-
-crippler
 Carquinyolis
-5murf
 Heinrich Shen
-ee_cwlab
-Ozshark
-amicitia
-0607
-amaoboss
-aki5natsu
-nekoTencho
-RamboPang43200
-9ne
-CHIHIRO03
-simonrp
+Mrwan1
+lou1sb
+ppoki
+Kuya Boards
 ito-tac
+CHIHIRO03
 fujiLab
+simonrp
+deported
+0607
+crippler
+aki5natsu
+ee_cwlab
+amaoboss
+RamboPang43200
+5murf
+Chris_TRAPS
+Kndr
+craig_shoji
+CH3L5
+nekoTencho
 yoko0918
 Klarikiwi
-deported
-ppoki
-lou1sb
-CH3L5
+9ne
+Ozshark
+amicitia
+kayajt-
 
 - Reputations:
 
@@ -38,132 +38,131 @@ CH3L5
 100%
 100%
 100%
+0%
 100%
-100%
-100%
-81%
-100%
-100%
-100%
+98%
 100%
 100%
 100%
 100%
 100%
+98%
+100%
+100%
+100%
+97%
 100%
 100%
 100%
 100%
 100%
 100%
-100%
-100%
-96%
+75%
 100%
 100%
 100%
 100%
-
+98%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=85378606
 https://boardgamearena.com/player?id=85207965
-https://boardgamearena.com/player?id=92340868
-https://boardgamearena.com/player?id=88382620
-https://boardgamearena.com/player?id=85536907
-https://boardgamearena.com/player?id=85421235
-https://boardgamearena.com/player?id=88432033
-https://boardgamearena.com/player?id=84065868
 https://boardgamearena.com/player?id=89754915
-https://boardgamearena.com/player?id=85362252
 https://boardgamearena.com/player?id=87659725
-https://boardgamearena.com/player?id=84912831
-https://boardgamearena.com/player?id=87786050
-https://boardgamearena.com/player?id=87961999
-https://boardgamearena.com/player?id=83998002
-https://boardgamearena.com/player?id=85137134
-https://boardgamearena.com/player?id=84736881
-https://boardgamearena.com/player?id=86947719
-https://boardgamearena.com/player?id=85344729
-https://boardgamearena.com/player?id=87427372
-https://boardgamearena.com/player?id=93290927
-https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=91379045
+https://boardgamearena.com/player?id=92087352
+https://boardgamearena.com/player?id=92340868
 https://boardgamearena.com/player?id=93256610
+https://boardgamearena.com/player?id=93290927
 https://boardgamearena.com/player?id=93461310
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=86120726
+https://boardgamearena.com/player?id=83998002
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=84736881
+https://boardgamearena.com/player?id=84912831
+https://boardgamearena.com/player?id=85137134
+https://boardgamearena.com/player?id=85344729
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=85378606
+https://boardgamearena.com/player?id=85421235
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=86123377
+https://boardgamearena.com/player?id=86947719
 https://boardgamearena.com/player?id=87043258
 https://boardgamearena.com/player?id=87111029
-https://boardgamearena.com/player?id=86120726
-https://boardgamearena.com/player?id=92087352
-https://boardgamearena.com/player?id=91379045
-https://boardgamearena.com/player?id=86123377
+https://boardgamearena.com/player?id=87427372
+https://boardgamearena.com/player?id=87786050
+https://boardgamearena.com/player?id=87961999
+https://boardgamearena.com/player?id=88432033
 
 ---Origin---
 
 Japan
-Japan
-Philippines
+Palau
 Taiwan
+Taiwan
+Australia
+Taiwan
+Philippines
+Japan
+Japan
+Japan
+Australia
+Singapore
+Taiwan
+Taiwan
+Japan
+Hong Kong
+Taiwan
+Malaysia
+Australia
 Japan
 China
 Japan
-Taiwan
-Palau
 Australia
-Taiwan
-Hong Kong
-Australia
-Japan
-Taiwan
-Taiwan
-Japan
-Japan
-Malaysia
-Japan
-Japan
-Australia
-Japan
 Japan
 Japan
 New Zealand
-Singapore
-Taiwan
+Japan
 Australia
-Australia
+Japan
+Japan
 
 ---Language---
 
-日本語
 English, 日本語
-English
-English, 中文 (漢)
-English, 日本語
-English, 中文 (漢)
-日本語
-English, 中文 (漢)
 Català
+中文 (漢)
+English, 中文 (漢)
+English, 日本語
+中文 (漢)
+English
+日本語
+日本語
+日本語
+English
 English
 中文 (漢)
 English, 中文 (漢)
-English
-日本語
-中文 (漢)
-中文 (漢)
 English, 日本語
-日本語
+English, 中文 (漢)
+中文 (漢)
 English, Bahasa Malaysia, 中文 (漢), 中文 (汉)
-日本語
-日本語
 English
 日本語
+English, 中文 (漢)
+English, 日本語
+English
 日本語
 日本語
 English, Magyar
+日本語
 English
-中文 (漢)
-English, 日本語
-English
+日本語
+日本語
 
 
 - Origins of players:
@@ -202,7 +201,50 @@ Name: count, dtype: object
 
 
 
-
 - Q1/Q2/Q3 of player's Elo rating:
 
-236/395/457
+220/381/484
+
+---BlackList---
+
+ppoki
+ito-tac
+deported
+ppoki
+butron72
+vomo_43
+1111togg11
+ppoki
+ito-tac
+butron72
+papawhisky
+yoko0918
+lou1sb
+butron72
+lou1sb
+deported
+martinperez
+opicka23
+latschen
+ee_cwlab
+Lord Term_X
+fujiLab
+Heinrich Shen
+tg4gg
+opicka23
+LenkaB
+ee_cwlab
+Zbrozlo
+lobster1020
+Noasca
+CH3L5
+fujiLab
+LenkaB
+Lord Term_X
+fujiLab
+latschen
+imkedr
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.55, 2.5, 5.0

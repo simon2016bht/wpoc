@@ -1,0 +1,88 @@
+---LocalPlayer---
+
+saizon
+KingOfGames_GX
+Xiongtongzi
+sparkhunter008
+wolf_naga
+SilverD1
+
+- Reputations:
+
+100%
+100%
+95%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=95664385
+https://boardgamearena.com/player?id=95218307
+https://boardgamearena.com/player?id=92680378
+https://boardgamearena.com/player?id=87757763
+https://boardgamearena.com/player?id=84439898
+
+---Origin---
+
+Japan
+Australia
+China
+Thailand
+Japan
+Indonesia
+
+---Language---
+
+English, 日本語
+English
+中文 (漢)
+English
+日本語
+English
+
+
+- Origins of players:
+
+United States of America    34%
+France                       9%
+Germany                      8%
+Russia                       5%
+Spain                        4%
+Netherlands                  3%
+United Kingdom               3%
+Canada                       3%
+Poland                       3%
+Croatia                      2%
+Italy                        2%
+Greece                       1%
+Romania                      1%
+Japan                        1%
+Belgium                      1%
+Indonesia                    0%
+Denmark                      0%
+Ukraine                      0%
+Thailand                     0%
+Sweden                       0%
+Brazil                       0%
+South Africa                 0%
+Chile                        0%
+China                        0%
+Puerto Rico                  0%
+Portugal                     0%
+Costa Rica                   0%
+Pitcairn                     0%
+Norway                       0%
+Czechia                      0%
+Australia                    0%
+Argentina                    0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+264/311/385
