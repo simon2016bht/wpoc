@@ -1,0 +1,189 @@
+---LocalPlayer---
+
+kcaj1009-2
+Hikaru Tsuchikawa
+saizon
+tonynkh
+KingOfGames_GX
+sparkhunter008
+pylon1004
+wolf_naga
+JJLOVELOVE
+Hisososo
+tatsu214
+PlayandLearn
+JoyceDX
+Jamboogie
+VAB WRX
+pisheng
+BennySmile
+Neagle
+Anuki777
+Lord Zas
+darthdalek
+GillBarco
+muffinile
+silentivory
+suilk1015
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+96%
+100%
+100%
+100%
+100%
+100%
+100%
+67%
+83%
+100%
+100%
+100%
+96%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93169315
+https://boardgamearena.com/player?id=90067288
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=95078849
+https://boardgamearena.com/player?id=95664385
+https://boardgamearena.com/player?id=92680378
+https://boardgamearena.com/player?id=86893691
+https://boardgamearena.com/player?id=87757763
+https://boardgamearena.com/player?id=94579281
+https://boardgamearena.com/player?id=84930377
+https://boardgamearena.com/player?id=96119450
+https://boardgamearena.com/player?id=92625797
+https://boardgamearena.com/player?id=90837187
+https://boardgamearena.com/player?id=94889226
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=93861749
+https://boardgamearena.com/player?id=94210680
+https://boardgamearena.com/player?id=96245336
+https://boardgamearena.com/player?id=89126078
+https://boardgamearena.com/player?id=84633123
+https://boardgamearena.com/player?id=84502954
+https://boardgamearena.com/player?id=93195738
+https://boardgamearena.com/player?id=90162723
+https://boardgamearena.com/player?id=95131037
+https://boardgamearena.com/player?id=92589798
+
+---Origin---
+
+Taiwan
+Japan
+Japan
+Hong Kong
+Australia
+Thailand
+Japan
+Japan
+Thailand
+Japan
+Japan
+India
+Taiwan
+Australia
+Japan
+Malaysia
+Georgia
+Australia
+Georgia
+New Zealand
+Australia
+Kazakhstan
+New Zealand
+South Korea
+China
+
+---Language---
+
+English, 中文 (漢)
+English, 日本語
+English, 日本語
+English
+English
+English
+日本語
+日本語
+English, ไทย
+English, 日本語
+日本語
+English
+English, 中文 (漢)
+English
+日本語
+English
+English, Español, Русский язык
+English
+English, ქართული
+English, Español
+English
+English
+English, Español, 中文 (漢)
+English, 한국어
+中文 (汉)
+
+
+- Origins of players:
+
+United States of America                32%
+France                                  10%
+Germany                                  6%
+Spain                                    6%
+Belgium                                  4%
+Japan                                    3%
+United Kingdom                           3%
+Netherlands                              3%
+Canada                                   3%
+Hungary                                  2%
+Czechia                                  2%
+Italy                                    2%
+Australia                                2%
+Greece                                   1%
+Sweden                                   1%
+Poland                                   1%
+Thailand                                 1%
+Taiwan                                   1%
+Georgia                                  1%
+Denmark                                  1%
+Brazil                                   1%
+New Zealand                              1%
+South Africa                             0%
+Switzerland                              0%
+United States Minor Outlying Islands     0%
+South Korea                              0%
+Latvia                                   0%
+Russia                                   0%
+Norway                                   0%
+Nepal                                    0%
+Malaysia                                 0%
+Kazakhstan                               0%
+Israel                                   0%
+India                                    0%
+Hong Kong                                0%
+Estonia                                  0%
+China                                    0%
+Unknown                                  0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+155/234/293

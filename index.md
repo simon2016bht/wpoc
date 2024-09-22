@@ -65,5 +65,5 @@ layout: default
 <div align="left">
  <img src="/wpoc/assets/images/ranking/AllGamesRanking.png" style="display: block; margin-left: -5px; margin-bottom: 5px"/>
 </div>
-[[tournament details]](https://simon2016bht.github.io/wpoc/assets/csv/result.csv)
+[[details of tournament result]](https://simon2016bht.github.io/wpoc/assets/csv/result.csv)
 
