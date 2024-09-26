@@ -6,7 +6,8 @@ layout: default
 ---
 
 ### Region standings
-🥇United States of America(160) 🥈Australia(100) 🥉Hong Kong(100)
+🥇France(175) 🥈Australia(160) 🥉United States of America(160)
+
 <p>&nbsp;</p>
 
 ### Player standings
@@ -19,7 +20,7 @@ layout: default
 - [Season 1](https://boardgamearena.com/tournament?id=284811)
 - Date: 05/06/2024 - 06/24/2024
 - Number of players: 64
-- Top origins of players: USA 20% Canada 7% Spain 7% France 6% Taiwan 6%
+- Top origins of players: United States of America 20% Canada 7% Spain 7% France 6% Taiwan 6%
 - Abandoned tables (reached duration limit): 5%
 - Cancelled tables (player left or got kicked): 4%
 - Q1/Q2/Q3 of player's Elo rating: 138/247/346
@@ -36,7 +37,7 @@ layout: default
 - [Season 2](https://boardgamearena.com/tournament?id=292500)
 - Date: 06/24/2024 - 07/30/2024
 - Number of players: 64
-- Top origins of players: USA 18% Canada 6% Hong Kong 6% Taiwan 4% United Kingdom 4%
+- Top origins of players: United States of America 18% Canada 6% Hong Kong 6% Taiwan 4% United Kingdom 4%
 - Abandoned tables (reached duration limit): 7%
 - Cancelled tables (player left or got kicked): 4%
 - Q1/Q2/Q3 of player's Elo rating: 169/278/336
@@ -50,7 +51,29 @@ layout: default
 </div>
 <p>&nbsp;</p>
 
+- [Season 3](https://boardgamearena.com/tournament?id=311708)
+- Date: 08/12/2024 - 09/26/2024
+- Number of players: 72
+- Top origins of players: United States of America 19% Japan 8% Australia 8% 
+- Abandoned tables (reached duration limit): 8%
+- Cancelled tables (player left or got kicked): 4%
+- Q1/Q2/Q3 of player's Elo rating: 215/286/364
+- Q1/Q2/Q3 of table duration (days): 0.7/1.8/3.6
+- Winners(meta event points): lespeutere(100); Che-Phane(75); Tom Traubert(50); Kaobangdu31(50); Hikaru Tsuchikawa(10); aNgRy1995(10); zaperok0(10); jasonb05(10)
 
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 3_Elo_20240926194950.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 3_Duration_20240926215509.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+1. check last day of tournament from the tournament page
+2. change the 4th player point to 25
+3. update Region standings of one specific game
+4. update Region standings of sum of all game
 
 >>
 

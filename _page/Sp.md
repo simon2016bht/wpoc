@@ -52,7 +52,6 @@ layout: default
 - Cancelled tables (player left or got kicked): 9%
 - Q1/Q2/Q3 of player's Elo rating: 176/279/399
 - Q1/Q2/Q3 of table duration (days): 1.1/2.6/4.0
-- Winners: 🥇bousi 🥈arno c r 🥉hakomugiko
 - Winners(meta event points): bousi(100); arno c r(75); hakomugiko(50); gobasak(50); jog-tw(10); o0O KAASKOP O0o(10); akkyu39(10); yui05163(10)
 
 <div>

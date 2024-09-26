@@ -69,7 +69,6 @@ layout: default
 - Cancelled tables (player left or got kicked): 8%
 - Q1/Q2/Q3 of player's Elo rating: 220/381/484
 - Q1/Q2/Q3 of table duration (days): 1.6/2.5/5.0
-- Winners: 🥇spman2 🥈Carquinyolis 🥉imkedr
 - Winners(meta event points): spman2(100); Carquinyolis(75); imkedr(50); Heinrich Shen(50); Sir INT 4(10); Josetown(10); Mrwan1(10); BIGOOD79(10)
 
 <div>
