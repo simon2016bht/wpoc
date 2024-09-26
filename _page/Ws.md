@@ -69,11 +69,5 @@ layout: default
 </div>
 <p>&nbsp;</p>
 
-
-1. check last day of tournament from the tournament page
-2. change the 4th player point to 25
-3. update Region standings of one specific game
-4. update Region standings of sum of all game
-
 >>
 
