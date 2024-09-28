@@ -1,0 +1,71 @@
+---LocalPlayer---
+
+TanYAnya
+Happy Memory
+sanukiudon3sei
+Master Flower
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=86638909
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=92626394
+
+---Origin---
+
+Kazakhstan
+Japan
+Japan
+China
+
+---Language---
+
+English, Русский язык
+日本語
+日本語
+English, Français, 中文 (漢)
+
+
+- Origins of players:
+
+France                      17%
+United States of America    11%
+Germany                     10%
+Italy                        7%
+Brazil                       6%
+Russia                       6%
+United Kingdom               5%
+Spain                        3%
+Hungary                      3%
+Canada                       3%
+Netherlands                  3%
+Czechia                      2%
+Belarus                      2%
+Japan                        2%
+Mexico                       1%
+Poland                       1%
+Peru                         1%
+Kazakhstan                   1%
+Luxembourg                   1%
+Lithuania                    1%
+Austria                      1%
+Belgium                      1%
+Colombia                     1%
+China                        1%
+Argentina                    1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+136/207/275

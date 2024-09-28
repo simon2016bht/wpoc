@@ -1,0 +1,106 @@
+---LocalPlayer---
+
+RonnieMcDronnie
+DrewJCooper
+tj26
+khokho300495
+eeasicd
+cl0w0b
+sanukiudon3sei
+Joffasaurus
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+91%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=87897927
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=91524246
+https://boardgamearena.com/player?id=85499238
+
+---Origin---
+
+Australia
+Australia
+Australia
+Viet Nam
+Taiwan
+Japan
+Japan
+Australia
+Mongolia
+
+---Language---
+
+Afrikaans, English
+English
+English
+Tiếng Việt
+中文 (漢)
+日本語
+日本語
+English
+Русский язык
+
+
+- Origins of players:
+
+France                      18%
+United States of America    17%
+United Kingdom               6%
+Poland                       5%
+Italy                        5%
+Germany                      4%
+Netherlands                  4%
+Czechia                      4%
+Russia                       3%
+Canada                       3%
+Brazil                       2%
+Spain                        2%
+Australia                    2%
+Denmark                      1%
+Belgium                      1%
+Romania                      1%
+Luxembourg                   1%
+Argentina                    1%
+Japan                        1%
+Hungary                      1%
+Lithuania                    0%
+Costa Rica                   0%
+Chile                        0%
+Colombia                     0%
+Ukraine                      0%
+Türkiye                      0%
+Taiwan                       0%
+Switzerland                  0%
+Finland                      0%
+Ireland                      0%
+Gabon                        0%
+Portugal                     0%
+Greece                       0%
+Peru                         0%
+Mongolia                     0%
+Mexico                       0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+132/198/262

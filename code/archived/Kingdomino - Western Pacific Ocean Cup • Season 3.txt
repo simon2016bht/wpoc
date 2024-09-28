@@ -1,21 +1,21 @@
 ---LocalPlayer---
 
-ailove
 anacodam
+Small Geezer
+ailove
 minape
 RonnieMcDronnie
-Small Geezer
-simtt
 Kurtimus Prime
+simtt
 OdanobuGG
-frosty67
 kurohajoker
-acuteangle123
 Flor-w
-simonrp
-michelle41
+frosty67
+acuteangle123
 sleepyowl23
+michelle41
 Clicster
+simonrp
 
 - Reputations:
 
@@ -32,63 +32,63 @@ Clicster
 100%
 100%
 100%
-96%
-97%
+98%
+100%
 100%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=85411913
 https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=85411913
 https://boardgamearena.com/player?id=90842112
 https://boardgamearena.com/player?id=95249224
-https://boardgamearena.com/player?id=86890353
-https://boardgamearena.com/player?id=95235509
 https://boardgamearena.com/player?id=84110954
+https://boardgamearena.com/player?id=95235509
 https://boardgamearena.com/player?id=93674846
-https://boardgamearena.com/player?id=86748593
 https://boardgamearena.com/player?id=84219629
-https://boardgamearena.com/player?id=95243693
 https://boardgamearena.com/player?id=86583973
-https://boardgamearena.com/player?id=93333405
-https://boardgamearena.com/player?id=91962996
+https://boardgamearena.com/player?id=86748593
+https://boardgamearena.com/player?id=95243693
 https://boardgamearena.com/player?id=85103457
+https://boardgamearena.com/player?id=91962996
 https://boardgamearena.com/player?id=18966684
+https://boardgamearena.com/player?id=93333405
 
 ---Origin---
 
-Japan
 Viet Nam
+Australia
+Japan
 Japan
 Australia
-Australia
-Thailand
 New Zealand
 Thailand
-Australia
-Japan
-Australia
-Indonesia
-Australia
+Thailand
 Japan
 Indonesia
+Australia
+Australia
+Indonesia
+Japan
+Australia
 Australia
 
 ---Language---
 
-日本語
 English
+English
+日本語
 English, 日本語
 Afrikaans, English
 English
 English, 日本語, 中文 (漢)
-English
 ไทย
-English
 English, 日本語
-English
 English, Bahasa Indonesia, Nederlands
+English
+English
 English
 日本語
 English
@@ -128,4 +128,4 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-178/248/365
+165/255/390

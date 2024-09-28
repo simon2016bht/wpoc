@@ -1,0 +1,100 @@
+---LocalPlayer---
+
+Boardforlife
+kawamaru23
+khokho300495
+eeasicd
+sanukiudon3sei
+leon339
+summo78
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+91%
+100%
+86%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91722262
+https://boardgamearena.com/player?id=95702030
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=91840196
+https://boardgamearena.com/player?id=91213813
+
+---Origin---
+
+Australia
+Indonesia
+Viet Nam
+Taiwan
+Japan
+China
+Singapore
+
+---Language---
+
+English
+English
+Tiếng Việt
+中文 (漢)
+日本語
+中文 (汉)
+English
+
+
+- Origins of players:
+
+France                      24%
+United States of America    13%
+Germany                      7%
+Italy                        6%
+Poland                       5%
+Russia                       4%
+United Kingdom               4%
+Czechia                      3%
+Brazil                       3%
+Canada                       3%
+Netherlands                  2%
+Ukraine                      1%
+Hungary                      1%
+Austria                      1%
+Argentina                    1%
+Belgium                      1%
+Peru                         1%
+Spain                        1%
+Sweden                       0%
+Montenegro                   0%
+Taiwan                       0%
+Singapore                    0%
+Serbia                       0%
+Saint Helena                 0%
+Antarctica                   0%
+Mexico                       0%
+Luxembourg                   0%
+Latvia                       0%
+Japan                        0%
+Israel                       0%
+Indonesia                    0%
+Guatemala                    0%
+Denmark                      0%
+Christmas Island             0%
+China                        0%
+Chile                        0%
+Bulgaria                     0%
+Australia                    0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+134/189/268

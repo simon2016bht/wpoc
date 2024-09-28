@@ -1,151 +1,151 @@
 ---LocalPlayer---
 
-jasonb05
-Hikaru Tsuchikawa
-Gaters
-saizon
 Tom Traubert
+Hikaru Tsuchikawa
 aNgRy1995
-D-DLee
-amato_ixxi
-Xiongtongzi
+jasonb05
+kartikanand49
 kiki1234555
-LongTee
+Isla Nooblar
+D-DLee
+tatsu214
+Little-Dinkey
+VAB WRX
+Valorouss
+Xiongtongzi
+Gaters
+Mrwan1
+LoopyNZ
+amato_ixxi
+A P T E R Y X
 Anguz
 TheNaI89
-MIKIRERA
-tatsu214
-Bobocan
-Dio_Raven
-Little-Dinkey
-ugman
-Mrwan1
 dancarn
-kartikanand49
-VAB WRX
-Isla Nooblar
-A P T E R Y X
-LoopyNZ
-Valorouss
+Bobocan
+LongTee
+saizon
+MIKIRERA
+Dio_Raven
+ugman
 
 - Reputations:
 
 100%
-100%
-82%
-100%
-100%
-100%
-42%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-48%
 100%
 100%
 100%
 93%
 100%
 100%
+42%
+100%
+12%
 100%
 100%
 100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+97%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=84431453
-https://boardgamearena.com/player?id=90067288
-https://boardgamearena.com/player?id=95586479
-https://boardgamearena.com/player?id=91376048
 https://boardgamearena.com/player?id=92838008
+https://boardgamearena.com/player?id=90067288
 https://boardgamearena.com/player?id=93460610
-https://boardgamearena.com/player?id=94352586
-https://boardgamearena.com/player?id=86888285
-https://boardgamearena.com/player?id=95218307
+https://boardgamearena.com/player?id=84431453
+https://boardgamearena.com/player?id=96282968
 https://boardgamearena.com/player?id=93600451
-https://boardgamearena.com/player?id=91364813
+https://boardgamearena.com/player?id=94157263
+https://boardgamearena.com/player?id=94352586
+https://boardgamearena.com/player?id=96119450
+https://boardgamearena.com/player?id=94738220
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=94876470
+https://boardgamearena.com/player?id=95218307
+https://boardgamearena.com/player?id=95586479
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=87037113
+https://boardgamearena.com/player?id=86888285
+https://boardgamearena.com/player?id=85898137
 https://boardgamearena.com/player?id=84566308
 https://boardgamearena.com/player?id=84523406
-https://boardgamearena.com/player?id=92077328
-https://boardgamearena.com/player?id=96119450
-https://boardgamearena.com/player?id=83892227
-https://boardgamearena.com/player?id=92889880
-https://boardgamearena.com/player?id=94738220
-https://boardgamearena.com/player?id=83886030
-https://boardgamearena.com/player?id=88382620
 https://boardgamearena.com/player?id=83924694
-https://boardgamearena.com/player?id=96282968
-https://boardgamearena.com/player?id=94771602
-https://boardgamearena.com/player?id=94157263
-https://boardgamearena.com/player?id=85898137
-https://boardgamearena.com/player?id=87037113
-https://boardgamearena.com/player?id=94876470
+https://boardgamearena.com/player?id=83892227
+https://boardgamearena.com/player?id=91364813
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=92889880
+https://boardgamearena.com/player?id=83886030
 
 ---Origin---
 
+Australia
+Japan
+Australia
 Taiwan
-Japan
-Thailand
-Japan
-Australia
-Australia
-China
-Japan
-China
+India
 Hong Kong
-Viet Nam
-Taiwan
-Thailand
-Japan
-Japan
-Thailand
 Australia
+China
+Japan
 Kazakhstan
-Australia
-Taiwan
-Australia
+Japan
 India
+China
+Thailand
+Taiwan
+New Zealand
+Japan
+New Zealand
+Taiwan
+Thailand
+Australia
+Thailand
+Viet Nam
+Japan
 Japan
 Australia
-New Zealand
-New Zealand
-India
+Australia
 
 ---Language---
 
-中文 (漢)
-English, 日本語
-ไทย
+English
 English, 日本語
 English
+中文 (漢)
+English
+中文 (漢)
 English
 中文 (汉)
-English, 日本語
-中文 (漢)
-中文 (漢)
-Tiếng Việt
-English, 中文 (漢), 中文 (汉)
-English, ไทย
 日本語
+English
 日本語
-English, ไทย
 English
-English
-English
+中文 (漢)
+ไทย
 English, 中文 (漢)
 English
+English, 日本語
 English
+English, 中文 (漢), 中文 (汉)
+English, ไทย
+English
+English, ไทย
+Tiếng Việt
+English, 日本語
 日本語
-English
-English
 English
 English
 
@@ -185,4 +185,37 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-241/295/356
+215/286/364
+
+---BlackList---
+
+Iadyface
+HellowWorld12
+badankus
+Little-Dinkey
+Raulonte
+Little-Dinkey
+Isla Nooblar
+Raulonte
+Little-Dinkey
+Isla Nooblar
+Iadyface
+ThoBad11
+kartikanand49
+kartikanand49
+nebube
+dagny101
+kartikanand49
+ThoBad11
+kartikanand49
+dancarn
+ThoBad11
+kartikanand49
+Valorouss
+dagny101
+Nadi85
+kartikanand49
+
+-----
+Q1/Q2/Q3 quantile of time: 
+0.7, 1.8, 3.575

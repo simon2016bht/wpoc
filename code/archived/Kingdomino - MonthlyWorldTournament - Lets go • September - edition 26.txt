@@ -1,0 +1,120 @@
+---LocalPlayer---
+
+pyhuang
+anacodam
+batmanrx7
+TanYAnya
+tj26
+khokho300495
+eeasicd
+cl0w0b
+nandita_k
+iwaiwa19
+Master Flower
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=6440595
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=84510173
+https://boardgamearena.com/player?id=86638909
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=89818881
+https://boardgamearena.com/player?id=87897927
+https://boardgamearena.com/player?id=91873362
+https://boardgamearena.com/player?id=95908544
+https://boardgamearena.com/player?id=92626394
+
+---Origin---
+
+Taiwan
+Viet Nam
+New Zealand
+Kazakhstan
+Australia
+Viet Nam
+Taiwan
+Japan
+India
+Japan
+China
+
+---Language---
+
+English
+English
+English
+English, Русский язык
+English
+Tiếng Việt
+中文 (漢)
+日本語
+English
+日本語
+English, Français, 中文 (漢)
+
+
+- Origins of players:
+
+France                      26%
+United States of America    10%
+Germany                      7%
+United Kingdom               5%
+Russia                       5%
+Italy                        4%
+Poland                       4%
+Hungary                      4%
+Netherlands                  3%
+Czechia                      3%
+Spain                        3%
+Canada                       3%
+Brazil                       2%
+Belgium                      1%
+Portugal                     1%
+Taiwan                       1%
+Japan                        1%
+Argentina                    1%
+Viet Nam                     1%
+Austria                      1%
+Greece                       1%
+Finland                      1%
+Australia                    0%
+Saint Helena                 0%
+Belarus                      0%
+Bulgaria                     0%
+Switzerland                  0%
+Sweden                       0%
+China                        0%
+Slovenia                     0%
+Réunion                      0%
+India                        0%
+Denmark                      0%
+New Zealand                  0%
+Greenland                    0%
+Luxembourg                   0%
+Kazakhstan                   0%
+Guatemala                    0%
+Israel                       0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+169/239/337

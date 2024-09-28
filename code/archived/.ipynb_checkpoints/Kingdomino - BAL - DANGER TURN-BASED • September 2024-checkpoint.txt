@@ -1,0 +1,94 @@
+---LocalPlayer---
+
+anacodam
+RonnieMcDronnie
+TanYAnya
+tj26
+kcaj1009-2
+silentivory
+pincher3
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+82%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=86638909
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=93169315
+https://boardgamearena.com/player?id=95131037
+https://boardgamearena.com/player?id=85499238
+
+---Origin---
+
+Viet Nam
+Australia
+Kazakhstan
+Australia
+Taiwan
+South Korea
+Mongolia
+
+---Language---
+
+English
+Afrikaans, English
+English, Русский язык
+English
+English, 中文 (漢)
+English, 한국어
+Русский язык
+
+
+- Origins of players:
+
+France                      22%
+United States of America    13%
+Poland                       6%
+Czechia                      6%
+Germany                      6%
+Canada                       5%
+United Kingdom               5%
+Italy                        5%
+Russia                       4%
+Netherlands                  4%
+Spain                        3%
+Brazil                       3%
+Hungary                      2%
+Belgium                      2%
+Switzerland                  1%
+Denmark                      1%
+Australia                    1%
+Belarus                      1%
+Austria                      1%
+South Korea                  0%
+Ukraine                      0%
+Taiwan                       0%
+Sweden                       0%
+Argentina                    0%
+Mongolia                     0%
+Saint Helena                 0%
+Portugal                     0%
+Peru                         0%
+Montenegro                   0%
+Kazakhstan                   0%
+Greenland                    0%
+Finland                      0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+133/193/306

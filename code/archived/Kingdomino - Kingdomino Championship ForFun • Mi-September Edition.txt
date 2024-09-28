@@ -1,0 +1,84 @@
+---LocalPlayer---
+
+batmanrx7
+TanYAnya
+anacodam
+tj26
+TheaLuna
+Master Flower
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84510173
+https://boardgamearena.com/player?id=86638909
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=86980963
+https://boardgamearena.com/player?id=90453844
+https://boardgamearena.com/player?id=92626394
+
+---Origin---
+
+New Zealand
+Kazakhstan
+Viet Nam
+Australia
+Australia
+China
+
+---Language---
+
+English
+English, Русский язык
+English
+English
+English
+English, Français, 中文 (漢)
+
+
+- Origins of players:
+
+France                      26%
+United States of America    12%
+United Kingdom               6%
+Italy                        6%
+Netherlands                  5%
+Canada                       4%
+Poland                       4%
+Australia                    2%
+Belgium                      2%
+Brazil                       2%
+Switzerland                  2%
+Russia                       2%
+Argentina                    1%
+Spain                        1%
+Norway                       1%
+Saint Helena                 1%
+New Zealand                  1%
+Hungary                      1%
+Kazakhstan                   1%
+Greece                       1%
+Germany                      1%
+Finland                      1%
+Denmark                      1%
+Czechia                      1%
+China                        1%
+Belarus                      1%
+Austria                      1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+183/302/448
