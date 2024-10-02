@@ -1,0 +1,146 @@
+---LocalPlayer---
+
+crippler
+hakomugiko
+nondead
+kiwi_liang
+Miyacchiiko
+Ina-hime
+nickwoodward17
+Soundfield
+bingman
+Elm
+huogbendeo
+zkklove123
+sumnortea
+triangle790518
+pbrian1002
+Rrrrabbit
+suilk1015
+amylin993
+OdanobuGG
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+97%
+100%
+100%
+100%
+100%
+100%
+93%
+100%
+100%
+100%
+82%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=83836609
+https://boardgamearena.com/player?id=94337858
+https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=89821514
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=84585778
+https://boardgamearena.com/player?id=14743929
+https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=30523622
+https://boardgamearena.com/player?id=95658742
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=94041458
+https://boardgamearena.com/player?id=84533993
+https://boardgamearena.com/player?id=96540522
+https://boardgamearena.com/player?id=91186203
+https://boardgamearena.com/player?id=92589798
+https://boardgamearena.com/player?id=28297280
+https://boardgamearena.com/player?id=93674846
+
+---Origin---
+
+Taiwan
+Japan
+Kazakhstan
+Taiwan
+Japan
+Viet Nam
+Australia
+Japan
+Malaysia
+Japan
+Viet Nam
+Taiwan
+Taiwan
+Taiwan
+Australia
+Thailand
+China
+Taiwan
+Thailand
+
+---Language---
+
+English, 中文 (漢)
+English
+Русский язык
+English, 中文 (漢)
+日本語
+English, Tiếng Việt
+English
+English
+English
+English, 日本語
+English, Tiếng Việt
+
+English, 中文 (漢)
+English, 中文 (漢)
+中文 (漢)
+English, ไทย
+中文 (汉)
+中文 (漢)
+ไทย
+
+
+- Origins of players:
+
+France                      18%
+Germany                     12%
+Taiwan                       8%
+Italy                        8%
+Poland                       5%
+United States of America     5%
+Japan                        5%
+Russia                       4%
+Australia                    2%
+Ukraine                      2%
+Thailand                     2%
+Spain                        2%
+Viet Nam                     2%
+Belgium                      2%
+Canada                       2%
+Brazil                       2%
+Moldova                      1%
+Netherlands                  1%
+Romania                      1%
+Kazakhstan                   1%
+Greece                       1%
+Switzerland                  1%
+China                        1%
+Bulgaria                     1%
+Malaysia                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+145/201/289

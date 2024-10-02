@@ -1,0 +1,84 @@
+---LocalPlayer---
+
+saizon
+Tammillionaire
+CHathome
+Strauss21
+OIOlO
+janess_bonus
+shiroruru
+
+- Reputations:
+
+100%
+100%
+96%
+96%
+95%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=91436896
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=94912131
+https://boardgamearena.com/player?id=85391095
+https://boardgamearena.com/player?id=95733850
+
+---Origin---
+
+Japan
+India
+China
+Hong Kong
+South Korea
+Macao
+Japan
+
+---Language---
+
+English, 日本語
+English
+中文 (汉)
+中文 (漢)
+English, 한국어
+Deutsch, English, 中文 (漢)
+日本語
+
+
+- Origins of players:
+
+France                      23%
+Germany                     10%
+Poland                       9%
+United States of America     7%
+United Kingdom               7%
+Spain                        4%
+Italy                        4%
+Japan                        3%
+Canada                       3%
+Belgium                      3%
+Portugal                     3%
+Peru                         1%
+South Korea                  1%
+Russia                       1%
+Austria                      1%
+Netherlands                  1%
+Macao                        1%
+India                        1%
+Hong Kong                    1%
+Greece                       1%
+China                        1%
+Brazil                       1%
+Uruguay                      1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+148/215/307

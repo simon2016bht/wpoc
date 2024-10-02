@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Poland(200) 🥈Spain(100) 🥉Canada(85)
+🥇Poland(310) 🥈France(145) 🥉United States of America(125)
 
 <p>&nbsp;</p>
 
@@ -59,6 +59,27 @@ layout: default
 </div>
 
 <p>&nbsp;</p>
+
+
+- [Season 3](https://boardgamearena.com/tournament?id=311714)
+- Date: 08/12/2024 - 10/02/2024
+- Number of players: 72
+- Top origins of players: France 16% Poland 11% United States of America 8% Australia 8% 
+- Abandoned tables (reached duration limit): 5%
+- Cancelled tables (player left or got kicked): 3%
+- Q1/Q2/Q3 of player's Elo rating: 166/249/382
+- Q1/Q2/Q3 of table duration (days): 1.3/2.1/3.3
+- Winners(meta event points): LusiaKlusia(100); MaxTra1981(75); SIeuth(50); anacodam(50); cieciel(10); Baker14(10); Small Geezer(10); __Frog__(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Elo_20241002191216.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Duration_20241002204443.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
 
 
 >>

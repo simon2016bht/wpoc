@@ -1,0 +1,161 @@
+---LocalPlayer---
+
+pikaqiu10086
+ultrandomuppet
+amybomb
+oldteajar
+Vladimir Goan
+Rio Fan
+eddi999
+Ozshark
+Strauss21
+SilverD1
+Lord Zas
+AlsoNotDave
+yuyoyo5211
+scting
+JWitness
+Mairrrr
+AmisH021
+azusannu
+
+- Reputations:
+
+100%
+100%
+100%
+86%
+100%
+100%
+100%
+100%
+100%
+100%
+88%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=93195373
+https://boardgamearena.com/player?id=92784495
+https://boardgamearena.com/player?id=91980131
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=89784323
+https://boardgamearena.com/player?id=96373477
+https://boardgamearena.com/player?id=87786050
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=84633123
+https://boardgamearena.com/player?id=91218696
+https://boardgamearena.com/player?id=90619898
+https://boardgamearena.com/player?id=85194064
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=96025715
+https://boardgamearena.com/player?id=91693806
+https://boardgamearena.com/player?id=90641812
+
+---Origin---
+
+China
+New Zealand
+Australia
+Australia
+India
+Hong Kong
+South Korea
+Australia
+Hong Kong
+Indonesia
+New Zealand
+Australia
+Taiwan
+Taiwan
+Australia
+Taiwan
+India
+Japan
+
+---Language---
+
+中文 (漢)
+English
+English
+English
+Русский язык
+中文 (漢)
+English, 한국어
+English
+中文 (漢)
+English
+English, Español
+English
+中文 (漢)
+English, 中文 (漢), 中文 (汉)
+English
+中文 (漢)
+English
+English, 日本語
+
+
+- Origins of players:
+
+United States of America    17%
+France                      13%
+Italy                        6%
+United Kingdom               5%
+Poland                       5%
+Germany                      5%
+Spain                        4%
+Brazil                       3%
+Russia                       3%
+Canada                       3%
+Australia                    2%
+Netherlands                  2%
+Czechia                      2%
+Uruguay                      1%
+Mexico                       1%
+Hungary                      1%
+Sweden                       1%
+Estonia                      1%
+Taiwan                       1%
+Belgium                      1%
+Hong Kong                    1%
+India                        1%
+Portugal                     1%
+Austria                      1%
+New Zealand                  1%
+Norway                       1%
+South Korea                  0%
+Palestine                    0%
+Slovakia                     0%
+Switzerland                  0%
+Peru                         0%
+Albania                      0%
+Latvia                       0%
+Japan                        0%
+Ireland                      0%
+Andorra                      0%
+Indonesia                    0%
+Holy See                     0%
+Guernsey                     0%
+Greenland                    0%
+Cyprus                       0%
+China                        0%
+Bolivia                      0%
+Argentina                    0%
+Iran                         0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+166/222/309
