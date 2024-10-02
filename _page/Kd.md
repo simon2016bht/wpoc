@@ -69,7 +69,7 @@ layout: default
 - Cancelled tables (player left or got kicked): 3%
 - Q1/Q2/Q3 of player's Elo rating: 166/249/382
 - Q1/Q2/Q3 of table duration (days): 1.3/2.1/3.3
-- Winners(meta event points): LusiaKlusia(100); MaxTra1981(75); SIeuth(50); anacodam(50); cieciel(10); Baker14(10); Small Geezer(10); __Frog__(10)
+- Winners(meta event points): LusiaKlusia(100); MaxTra1981(75); SIeuth(50); anacodam(50); cieciel(10); Baker14(10); Small Geezer(10); \_\_Frog\_\_(10)
 
 <div>
  <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Elo_20241002191216.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
