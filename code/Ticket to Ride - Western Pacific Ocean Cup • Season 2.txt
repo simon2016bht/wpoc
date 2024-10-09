@@ -1,0 +1,257 @@
+---LocalPlayer---
+
+5murf
+Moose_Head
+mmac753
+michael202325
+chenxixiluo
+ScreenShot
+korany
+hodomaniac
+simtt
+Meccy
+Stitch_ohana
+iamsum1gr8
+st60926
+windie_terry
+lpoon
+Fyyto
+Alanah
+DrewJCooper
+kallima0304
+John Chan
+doowhadoo
+Da Pyrate
+Creamson
+heeee_gaeng
+Natx12
+alphazyh
+OdanobuGG
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+92%
+100%
+100%
+100%
+100%
+100%
+100%
+91%
+100%
+100%
+100%
+100%
+50%
+100%
+100%
+99%
+100%
+100%
+100%
+100%
+65%
+100%
+100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=88204335
+https://boardgamearena.com/player?id=94405277
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=94867709
+https://boardgamearena.com/player?id=94890234
+https://boardgamearena.com/player?id=94958239
+https://boardgamearena.com/player?id=95113496
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=95263354
+https://boardgamearena.com/player?id=95753657
+https://boardgamearena.com/player?id=83909225
+https://boardgamearena.com/player?id=84279204
+https://boardgamearena.com/player?id=84800551
+https://boardgamearena.com/player?id=84863841
+https://boardgamearena.com/player?id=85238494
+https://boardgamearena.com/player?id=85815457
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=87285576
+https://boardgamearena.com/player?id=87956601
+https://boardgamearena.com/player?id=88202849
+https://boardgamearena.com/player?id=91182357
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=91583601
+https://boardgamearena.com/player?id=92152591
+https://boardgamearena.com/player?id=93281285
+https://boardgamearena.com/player?id=93674846
+
+---Origin---
+
+Australia
+Australia
+Japan
+China
+China
+Thailand
+South Korea
+India
+Thailand
+Australia
+Australia
+Australia
+Taiwan
+Hong Kong
+Hong Kong
+Australia
+New Zealand
+Australia
+Taiwan
+Hong Kong
+Thailand
+Indonesia
+Singapore
+South Korea
+Hong Kong
+China
+Thailand
+
+---Language---
+
+English
+English
+日本語
+English, 中文 (汉)
+中文 (汉)
+English, ไทย
+한국어
+English, हिन्दी, ਪੰਜਾਬੀ
+English, 日本語, 中文 (漢)
+English
+English
+English
+English, 中文 (漢)
+English, 日本語, 中文 (漢)
+English, 日本語, 中文 (漢)
+English
+English
+English
+English, 中文 (漢), 中文 (汉)
+中文 (漢)
+English, ไทย
+English
+English
+한국어
+English, 中文 (漢)
+English, 中文 (漢), 中文 (汉)
+ไทย
+
+
+- Origins of players:
+
+United States of America       13%
+Australia                       9%
+France                          9%
+Thailand                        5%
+Hong Kong                       5%
+Netherlands                     4%
+United Kingdom                  4%
+China                           4%
+Russia                          4%
+Poland                          4%
+Taiwan                          2%
+Spain                           2%
+South Korea                     2%
+Italy                           2%
+Germany                         2%
+Canada                          2%
+Brazil                          1%
+Japan                           1%
+Lithuania                       1%
+Indonesia                       1%
+New Zealand                     1%
+India                           1%
+Singapore                       1%
+Finland                         1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+Czechia                         1%
+Bulgaria                        1%
+Uruguay                         1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+142/181/253
+
+---BlackList---
+
+dessyslava
+Spax82
+KalaKPL
+mimi4449
+Quiadisa
+aprilmay90
+mimi4449
+KalaKPL
+cocomiouw
+aprilmay90
+AmethystLocks
+mimi4449
+KalaKPL
+iamsum1gr8
+jpredington
+KalaKPL
+jbbates
+aprilmay90
+iamsum1gr8
+jpredington
+Quiadisa
+MotoKüken
+Eidana
+cocomiouw
+John Chan
+Natx12
+rsbanu
+ACryptid1025
+alphazyh
+ScreenShot
+VinnyVidiVici
+thebon90
+rsbanu
+VinnyVidiVici
+Natx12
+ACryptid1025
+ScreenShot
+hodomaniac
+Alanah
+heeee_gaeng
+elclaupower
+Fyyto
+alphazyh
+VinnyVidiVici
+rsbanu
+Scarlet 93
+John Chan
+Natx12
+rsbanu
+Alanah
+kris10new
+ScreenShot
+rsbanu
+Alanah
+John Chan
+kris10new
+heeee_gaeng
+Fyyto
+ACryptid1025
+rsbanu
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.3, 2.75, 6.0
