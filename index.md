@@ -56,7 +56,7 @@ layout: default
 
 
 ### Region standings of all games 
-🥇Japan(745) 🥈France(650) 🥉Poland(405)
+🥇Japan(830) 🥈France(710) 🥉Poland(405)
 
 <p>&nbsp;</p>
 

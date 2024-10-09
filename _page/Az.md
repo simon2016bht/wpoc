@@ -8,7 +8,7 @@ layout: default
 
 
 ### Region standings
-🥇China(245) 🥈France(110) 🥉Philippines(100)
+🥇China(245) 🥈France(170) 🥉Japan(170)
 
 <p>&nbsp;</p>
 
@@ -61,6 +61,32 @@ layout: default
  <img src="/wpoc/assets/images/tournament/t_Azul_Duration_S2.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
+
+
+- [Season 3](https://boardgamearena.com/tournament?id=311711)
+- Date: 08/12/2024 - 10/07/2024
+- Number of players: 72
+- Top origins of players: Australia 13% Germany 9% United States of America 8% China 8% France 6%
+- Abandoned tables (reached duration limit): 9%
+- Cancelled tables (player left or got kicked): 4%
+- Q1/Q2/Q3 of player's Elo rating: 178/283/442
+- Q1/Q2/Q3 of table duration (days): 1.7/3.1/5.0
+- Winners(meta event points): Mysterious Gatsby(100); nya11(75); LaVintegor(50); Hyperion7(50); Kaepo(10); RonnieMcDronnie(10); le kal(10); alien52332(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 3_Elo_20241009143638.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 3_Duration_20241009150249.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+1. check last day of tournament from the tournament page
+2. change the 4th player point to 25
+3. update Region standings of one specific game
+4. update Region standings of sum of all game
+5. move the elo and table duration figure to the corresponing folder
 
 
 >>
