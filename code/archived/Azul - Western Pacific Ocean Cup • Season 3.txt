@@ -1,40 +1,40 @@
 ---LocalPlayer---
 
 nya11
-Lwenyuan
-Kaepo
-Little-Dinkey
-Fran Cys
-alien52332
-SmileyKK
-amybomb
-LeviTate
-Estology
-pikaqiu10086
-rockboyz
 LaVintegor
+Kaepo
+RonnieMcDronnie
+alien52332
+Little-Dinkey
+Vladimir Goan
+Melisajane
 quakednz
 CHathome
-superwhite210
-Vladimir Goan
-simtt
-SilverD1
-Hwa92
-RonnieMcDronnie
-OIOlO
-Melisajane
-Strauss21
-Tinychuck
-leeszeying
-Joffasaurus
-Wunderscore
-JWitness
-sylviakid
 Golden tonton
-nickyloulou
-shilfee7409
+pikaqiu10086
+JWitness
+OIOlO
+Tinychuck
+simtt
+amybomb
+Strauss21
 scouticus
+sylviakid
+Wunderscore
+shilfee7409
+superwhite210
+nickyloulou
+LeviTate
+SilverD1
+Joffasaurus
+Lwenyuan
 UsernameTaken210
+SmileyKK
+leeszeying
+rockboyz
+Fran Cys
+Hwa92
+Estology
 
 - Reputations:
 
@@ -43,6 +43,7 @@ UsernameTaken210
 100%
 100%
 100%
+0%
 100%
 100%
 100%
@@ -54,144 +55,144 @@ UsernameTaken210
 100%
 100%
 100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+93%
 100%
 100%
 100%
 98%
 100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-99%
 96%
+100%
+100%
+100%
+34%
 
 
 ---link of user page---
 
 https://boardgamearena.com/player?id=93795652
-https://boardgamearena.com/player?id=91646996
-https://boardgamearena.com/player?id=89652790
-https://boardgamearena.com/player?id=94738220
-https://boardgamearena.com/player?id=92684904
-https://boardgamearena.com/player?id=86257680
-https://boardgamearena.com/player?id=92290451
-https://boardgamearena.com/player?id=92784495
-https://boardgamearena.com/player?id=84455523
-https://boardgamearena.com/player?id=93261572
-https://boardgamearena.com/player?id=96141851
-https://boardgamearena.com/player?id=92352541
 https://boardgamearena.com/player?id=85179772
+https://boardgamearena.com/player?id=89652790
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=86257680
+https://boardgamearena.com/player?id=94738220
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=94241028
 https://boardgamearena.com/player?id=94223051
 https://boardgamearena.com/player?id=93503949
-https://boardgamearena.com/player?id=90903355
-https://boardgamearena.com/player?id=94688367
-https://boardgamearena.com/player?id=95235509
-https://boardgamearena.com/player?id=84439898
-https://boardgamearena.com/player?id=83837848
-https://boardgamearena.com/player?id=95249224
-https://boardgamearena.com/player?id=94912131
-https://boardgamearena.com/player?id=94241028
-https://boardgamearena.com/player?id=95025501
-https://boardgamearena.com/player?id=95326763
-https://boardgamearena.com/player?id=92329811
-https://boardgamearena.com/player?id=91524246
-https://boardgamearena.com/player?id=87531132
-https://boardgamearena.com/player?id=95573238
-https://boardgamearena.com/player?id=89909333
 https://boardgamearena.com/player?id=93312017
-https://boardgamearena.com/player?id=85901862
-https://boardgamearena.com/player?id=86579805
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=94912131
+https://boardgamearena.com/player?id=95326763
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=92784495
+https://boardgamearena.com/player?id=95025501
 https://boardgamearena.com/player?id=86125566
+https://boardgamearena.com/player?id=89909333
+https://boardgamearena.com/player?id=87531132
+https://boardgamearena.com/player?id=86579805
+https://boardgamearena.com/player?id=90903355
+https://boardgamearena.com/player?id=85901862
+https://boardgamearena.com/player?id=84455523
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=91524246
+https://boardgamearena.com/player?id=91646996
 https://boardgamearena.com/player?id=91737897
+https://boardgamearena.com/player?id=92290451
+https://boardgamearena.com/player?id=92329811
+https://boardgamearena.com/player?id=92352541
+https://boardgamearena.com/player?id=92684904
+https://boardgamearena.com/player?id=83837848
+https://boardgamearena.com/player?id=93261572
 
 ---Origin---
 
 Japan
-China
+Hong Kong
 Japan
+Australia
+Thailand
 Kazakhstan
-Hong Kong
-Thailand
+India
 Australia
-Australia
-Australia
-Thailand
-China
-China
-Hong Kong
 New Zealand
 China
-Taiwan
-India
 Thailand
-Indonesia
 China
 Australia
 South Korea
-Australia
-Hong Kong
 New Zealand
-China
-Australia
-Malaysia
-Australia
-Taiwan
 Thailand
 Australia
+Hong Kong
+Australia
+Taiwan
+Malaysia
 Japan
+Taiwan
 Australia
 Australia
+Indonesia
+Australia
+China
+Australia
+Australia
+China
+China
+Hong Kong
+China
+Thailand
 
 ---Language---
 
 日本語
-中文 (汉)
+中文 (漢)
 English, Français
-English
-English
-English
-English
-English
-English
-English
-中文 (漢)
-中文 (汉)
-中文 (漢)
-English
-中文 (汉)
-中文 (漢)
-Русский язык
-English, 日本語, 中文 (漢)
-English
-English, 中文 (漢)
 Afrikaans, English
+English
+English
+Русский язык
+English
+English
+中文 (汉)
+English, ไทย
+中文 (漢)
+English
 English, 한국어
 English
+English, 日本語, 中文 (漢)
+English
 中文 (漢)
+English
+English, 中文 (漢)
+English
+日本語
+中文 (漢)
+English
+English
+English
 English
 中文 (汉)
 English
 English
+中文 (汉)
+中文 (汉)
 English
 English, 中文 (漢)
-English, ไทย
-English
-日本語
-English
 English
 
 
 - Origins of players:
 
+0                       
 Australia                   13%
 Germany                      9%
 United States of America     8%
@@ -227,4 +228,38 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-182/307/436
+178/283/442
+
+---BlackList---
+
+OIOlO
+UsernameTaken210
+Lfee12
+Evgenia_13
+Lfee12
+quakednz
+Estology
+Cerridwen71
+Evgenia_13
+IkVindAllesBest
+Estology
+Cerridwen71
+scouticus
+gandlin
+gandlin
+VeeKStarr
+scouticus
+gandlin
+mizunodrive
+Golden tonton
+Little-Dinkey
+scouticus
+VeeKStarr
+Little-Dinkey
+VeeKStarr
+Little-Dinkey
+VeeKStarr
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.7, 3.1, 5.0
