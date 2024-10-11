@@ -1,0 +1,78 @@
+---LocalPlayer---
+
+JWitness
+Jevi07
+Rina octa
+smit012345
+lpoon
+Cintrong
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+84%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=94800632
+https://boardgamearena.com/player?id=96525812
+https://boardgamearena.com/player?id=95649036
+https://boardgamearena.com/player?id=84863841
+https://boardgamearena.com/player?id=96485616
+
+---Origin---
+
+Australia
+Australia
+Indonesia
+India
+Hong Kong
+Indonesia
+
+---Language---
+
+English
+English
+Bahasa Indonesia
+English
+English, 日本語, 中文 (漢)
+English, Bahasa Indonesia
+
+
+- Origins of players:
+
+0                       
+United States of America    16%
+France                      14%
+Spain                        9%
+Germany                      7%
+Canada                       5%
+United Kingdom               5%
+Russia                       5%
+Netherlands                  5%
+Australia                    3%
+Czechia                      3%
+Indonesia                    3%
+Belgium                      3%
+Portugal                     1%
+Romania                      1%
+Italy                        1%
+Peru                         1%
+Moldova                      1%
+India                        1%
+Hong Kong                    1%
+Chile                        1%
+Unknown                      1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+143/208/293
