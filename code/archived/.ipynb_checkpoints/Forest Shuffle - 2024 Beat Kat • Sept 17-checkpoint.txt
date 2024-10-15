@@ -1,0 +1,60 @@
+---LocalPlayer---
+
+selolog
+troe665
+Rain99K
+
+- Reputations:
+
+100%
+100%
+71%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=94080189
+https://boardgamearena.com/player?id=92010874
+
+---Origin---
+
+Japan
+Kazakhstan
+Malaysia
+
+---Language---
+
+English, 日本語
+Русский язык
+English
+
+
+- Origins of players:
+
+France                      21%
+Germany                     17%
+United States of America    15%
+United Kingdom               7%
+Poland                       6%
+Hungary                      4%
+Russia                       4%
+Canada                       3%
+Netherlands                  3%
+Switzerland                  1%
+Spain                        1%
+Portugal                     1%
+Austria                      1%
+Malaysia                     1%
+Belgium                      1%
+Japan                        1%
+Denmark                      1%
+Czechia                      1%
+Kazakhstan                   1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+157/243/339

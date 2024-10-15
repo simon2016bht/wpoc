@@ -1,0 +1,101 @@
+---LocalPlayer---
+
+Murugan
+fxxys
+Cavendishw
+kosegawa
+papillon235
+TheOGSodapop
+Grombek
+QIJUNJIE
+Tigirl47
+darthdalek
+
+- Reputations:
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+98%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84467123
+https://boardgamearena.com/player?id=87707299
+https://boardgamearena.com/player?id=88433810
+https://boardgamearena.com/player?id=92501379
+https://boardgamearena.com/player?id=94614302
+https://boardgamearena.com/player?id=93299810
+https://boardgamearena.com/player?id=93299807
+https://boardgamearena.com/player?id=94993163
+https://boardgamearena.com/player?id=95581427
+https://boardgamearena.com/player?id=84502954
+
+---Origin---
+
+Indonesia
+China
+China
+China
+China
+Australia
+Australia
+Singapore
+Japan
+Australia
+
+---Language---
+
+English, Bahasa Indonesia
+English, 中文 (汉)
+中文 (汉)
+English, 日本語, 中文 (汉)
+English, 中文 (汉)
+English
+English
+中文 (汉)
+English, 日本語
+English
+
+
+- Origins of players:
+
+Germany                     19%
+France                      18%
+United States of America     9%
+Spain                        7%
+Russia                       4%
+Poland                       4%
+Belgium                      3%
+United Kingdom               3%
+Canada                       3%
+China                        3%
+Italy                        3%
+Netherlands                  2%
+Ukraine                      2%
+Australia                    2%
+Hungary                      2%
+Austria                      1%
+Czechia                      1%
+Latvia                       0%
+Norway                       0%
+Romania                      0%
+Indonesia                    0%
+Rwanda                       0%
+Singapore                    0%
+Brazil                       0%
+Japan                        0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+143/217/293
