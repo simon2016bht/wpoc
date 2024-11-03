@@ -1,0 +1,198 @@
+---LocalPlayer---
+
+bousi
+akkyu39
+pikaqiu10086
+chitoset
+gobasak
+PZ526
+Terry5145
+luckybaby2
+yuyoyo5211
+MIKIRERA
+Rmbj
+VAB WRX
+MrNCH
+SagYer
+hihat
+kimdanchu
+rhjgd246
+Strauss21
+Mico is learning
+CHathome
+ko-enn
+chaoi
+e920528
+ImBadLUL
+
+- Reputations:
+
+bousi - 100%
+akkyu39 - 100%
+pikaqiu10086 - 100%
+chitoset - 100%
+gobasak - 97%
+PZ526 - 95%
+Terry5145 - 100%
+luckybaby2 - 100%
+yuyoyo5211 - 100%
+MIKIRERA - 100%
+Rmbj - 100%
+VAB WRX - 100%
+MrNCH - 100%
+doughtwist - 83%
+SagYer - 100%
+hihat - 86%
+kimdanchu - 100%
+rhjgd246 - 100%
+Strauss21 - 100%
+Mico is learning - 100%
+CHathome - 97%
+ko-enn - 100%
+peiwen10 - 73%
+chaoi - 100%
+khokho300495 - 75%
+e920528 - 100%
+ImBadLUL - 98%
+cbez23 - 81%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84285103
+https://boardgamearena.com/player?id=95674161
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=41053976
+https://boardgamearena.com/player?id=95890280
+https://boardgamearena.com/player?id=93137735
+https://boardgamearena.com/player?id=92968244
+https://boardgamearena.com/player?id=95146697
+https://boardgamearena.com/player?id=90619898
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=90077221
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=96265066
+https://boardgamearena.com/player?id=88025984
+https://boardgamearena.com/player?id=84944814
+https://boardgamearena.com/player?id=84793938
+https://boardgamearena.com/player?id=96818377
+https://boardgamearena.com/player?id=96657818
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=96329410
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=96141544
+https://boardgamearena.com/player?id=92656827
+https://boardgamearena.com/player?id=86516603
+https://boardgamearena.com/player?id=87203255
+https://boardgamearena.com/player?id=84231214
+https://boardgamearena.com/player?id=91651860
+https://boardgamearena.com/player?id=95117633
+
+---Origin---
+
+Japan
+Japan
+China
+Japan
+South Korea
+China
+South Korea
+Hong Kong
+Taiwan
+Japan
+Taiwan
+Japan
+Hong Kong
+India
+India
+South Korea
+South Korea
+Taiwan
+Hong Kong
+China
+China
+Japan
+Taiwan
+Taiwan
+Viet Nam
+Taiwan
+Hong Kong
+Australia
+
+---Language---
+
+English, 日本語
+日本語
+中文 (漢)
+日本語
+한국어
+中文 (汉)
+한국어
+中文 (漢)
+中文 (漢)
+日本語
+English, 中文 (漢)
+日本語
+中文 (漢)
+English
+English
+English
+한국어
+中文 (漢)
+中文 (漢)
+中文 (汉)
+中文 (汉)
+日本語
+中文 (漢)
+中文 (漢)
+Tiếng Việt
+中文 (漢)
+English
+English
+
+
+- Origins of players:
+
+France                      13%
+United States of America    12%
+Poland                       7%
+Canada                       5%
+Japan                        4%
+Spain                        4%
+Taiwan                       4%
+United Kingdom               3%
+Germany                      3%
+China                        3%
+Hong Kong                    3%
+Italy                        3%
+South Korea                  3%
+Russia                       3%
+Hungary                      2%
+Netherlands                  2%
+Czechia                      1%
+Brazil                       1%
+India                        1%
+Belgium                      1%
+Ukraine                      0%
+Slovakia                     0%
+Switzerland                  0%
+Sweden                       0%
+Unknown                      0%
+Argentina                    0%
+Portugal                     0%
+Peru                         0%
+Moldova                      0%
+Armenia                      0%
+Greenland                    0%
+Gabon                        0%
+Colombia                     0%
+Bolivia                      0%
+Australia                    0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+121/195/305

@@ -1,0 +1,67 @@
+---LocalPlayer---
+
+twigthe1st
+vince_641
+igad
+
+- Reputations:
+
+100%
+100%
+93%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=86985387
+https://boardgamearena.com/player?id=90664177
+https://boardgamearena.com/player?id=93818909
+
+---Origin---
+
+New Zealand
+Taiwan
+Taiwan
+
+---Language---
+
+English
+English
+中文 (漢)
+
+
+- Origins of players:
+
+United States of America    16%
+France                      13%
+Poland                       9%
+United Kingdom               8%
+Belgium                      7%
+Germany                      7%
+Italy                        6%
+Canada                       2%
+Czechia                      2%
+Austria                      2%
+Spain                        2%
+Brazil                       1%
+Ukraine                      1%
+Taiwan                       1%
+Greece                       1%
+Russia                       1%
+Palestine                    0%
+Argentina                    0%
+New Zealand                  0%
+Netherlands                  0%
+Moldova                      0%
+Colombia                     0%
+Chile                        0%
+Bulgaria                     0%
+Barbados                     0%
+Israel                       0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+150/205/285

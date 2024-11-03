@@ -1,0 +1,104 @@
+---LocalPlayer---
+
+finallove
+pikaqiu10086
+Tepphayak
+vnfmalfm
+JJLOVELOVE
+Mico is learning
+Saraou
+4Rohan
+Marinette0407
+Quin0404
+
+- Reputations:
+
+finallove - 100%
+pikaqiu10086 - 100%
+Tepphayak - 98%
+vnfmalfm - 100%
+JJLOVELOVE - 100%
+Mico is learning - 100%
+Saraou - 100%
+4Rohan - 100%
+Marinette0407 - 86%
+Quin0404 - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=26621392
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=88749100
+https://boardgamearena.com/player?id=92431975
+https://boardgamearena.com/player?id=94579281
+https://boardgamearena.com/player?id=96329410
+https://boardgamearena.com/player?id=84195309
+https://boardgamearena.com/player?id=90999809
+https://boardgamearena.com/player?id=96055052
+https://boardgamearena.com/player?id=94954976
+
+---Origin---
+
+Malaysia
+China
+Thailand
+South Korea
+Thailand
+China
+Thailand
+Singapore
+India
+Japan
+
+---Language---
+
+中文 (汉)
+中文 (漢)
+English
+한국어
+English, ไทย
+中文 (汉)
+English
+English
+English, हिन्दी
+日本語
+
+
+- Origins of players:
+
+United States of America    14%
+Russia                      10%
+France                       9%
+Italy                        7%
+Poland                       6%
+Canada                       6%
+Thailand                     4%
+United Kingdom               4%
+China                        3%
+Belgium                      3%
+Germany                      3%
+Sweden                       1%
+Spain                        1%
+South Korea                  1%
+Slovakia                     1%
+Singapore                    1%
+Réunion                      1%
+Argentina                    1%
+Portugal                     1%
+Moldova                      1%
+Japan                        1%
+Iran                         1%
+India                        1%
+Hungary                      1%
+Colombia                     1%
+Bulgaria                     1%
+Brazil                       1%
+Malaysia                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+115/159/246

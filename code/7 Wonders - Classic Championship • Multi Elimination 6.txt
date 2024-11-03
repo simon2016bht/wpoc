@@ -1,0 +1,100 @@
+---LocalPlayer---
+
+kelo
+Goat Bill Wang
+mmmmaiiiii
+clearman
+acebook
+Golden tonton
+kevin555002
+Master Flower
+
+- Reputations:
+
+kelo - 100%
+Goat Bill Wang - 97%
+mmmmaiiiii - 100%
+clearman - 100%
+acebook - 100%
+Golden tonton - 100%
+kevin555002 - 100%
+Master Flower - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=21388786
+https://boardgamearena.com/player?id=96388420
+https://boardgamearena.com/player?id=93120540
+https://boardgamearena.com/player?id=93101731
+https://boardgamearena.com/player?id=85270634
+https://boardgamearena.com/player?id=93312017
+https://boardgamearena.com/player?id=93658154
+https://boardgamearena.com/player?id=92626394
+
+---Origin---
+
+Japan
+Japan
+Australia
+Australia
+China
+Thailand
+Taiwan
+China
+
+---Language---
+
+
+中文 (汉)
+中文 (漢)
+English, 한국어
+中文 (汉)
+English, ไทย
+English, 日本語, 中文 (漢)
+English, Français, 中文 (漢)
+
+
+- Origins of players:
+
+France                      23%
+United States of America    16%
+Germany                     10%
+Italy                        9%
+Poland                       6%
+United Kingdom               4%
+Spain                        3%
+Canada                       3%
+Hungary                      2%
+Russia                       1%
+Czechia                      1%
+Belgium                      1%
+China                        1%
+Japan                        1%
+Australia                    1%
+Netherlands                  1%
+Brazil                       1%
+Türkiye                      0%
+Seychelles                   0%
+Ukraine                      0%
+Thailand                     0%
+Taiwan                       0%
+Slovenia                     0%
+Argentina                    0%
+Luxembourg                   0%
+Romania                      0%
+Peru                         0%
+Moldova                      0%
+Lithuania                    0%
+Estonia                      0%
+Cyprus                       0%
+Colombia                     0%
+Austria                      0%
+Zimbabwe                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+126/164/236

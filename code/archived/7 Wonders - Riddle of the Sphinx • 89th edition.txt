@@ -1,0 +1,74 @@
+---LocalPlayer---
+
+pyhuang
+nafanya-star
+Goat Bill Wang
+Ina-hime
+
+- Reputations:
+
+100%
+100%
+96%
+93%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=6440595
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=96388420
+https://boardgamearena.com/player?id=92879444
+
+---Origin---
+
+Taiwan
+Viet Nam
+Japan
+Viet Nam
+
+---Language---
+
+English
+English, Русский язык, Türkçe
+中文 (汉)
+English, Tiếng Việt
+
+
+- Origins of players:
+
+France                      21%
+United States of America    13%
+Germany                      8%
+Italy                        8%
+Poland                       7%
+Belgium                      4%
+United Kingdom               4%
+Spain                        3%
+Ukraine                      3%
+Russia                       3%
+Brazil                       2%
+Canada                       2%
+Hungary                      2%
+Netherlands                  1%
+Viet Nam                     1%
+Estonia                      1%
+Switzerland                  0%
+Taiwan                       0%
+Slovakia                     0%
+Belarus                      0%
+Portugal                     0%
+Palestine                    0%
+Lithuania                    0%
+Japan                        0%
+Greece                       0%
+Denmark                      0%
+Czechia                      0%
+Moldova                      0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+165/221/287

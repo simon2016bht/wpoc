@@ -1,63 +1,63 @@
 ---LocalPlayer---
 
-zisezhuya
 M_kk_k
-TT0121
-GlenDavis22
-Ricardo12138
-root17
+zisezhuya
 menmatojinta
-godblack
-SmilingSimon
+ryan_1243
 CHathome
-Murugan
 yaoyao_carry
-saizon
-danacar
-killmebaby233
+TT0121
+FPJGaoGE
 Henry_TW
-SilverD1
-fun_chan
-ProfessorLesser
-daimon1982
 michael202325
-ZoeyWin
 p0laris
 gmanislucky
-ryan_1243
+daimon1982
+Ricardo12138
 pojen50
-FPJGaoGE
 panpenny33
+danacar
+ProfessorLesser
+SilverD1
+Murugan
+ZoeyWin
+godblack
+SmilingSimon
 DaruOwO
+GlenDavis22
+saizon
+root17
+fun_chan
+killmebaby233
 
 - Reputations:
 
 100%
 100%
 100%
+90%
+100%
+100%
+100%
+96%
 100%
 100%
 100%
 100%
-82%
+93%
+100%
+93%
+95%
+100%
+100%
+98%
+100%
+80%
 100%
 100%
 100%
 100%
 100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-100%
-99%
 100%
 100%
 100%
@@ -65,99 +65,99 @@ DaruOwO
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=85350420
 https://boardgamearena.com/player?id=93584459
-https://boardgamearena.com/player?id=93209805
-https://boardgamearena.com/player?id=90179166
-https://boardgamearena.com/player?id=95545823
-https://boardgamearena.com/player?id=91995588
+https://boardgamearena.com/player?id=85350420
 https://boardgamearena.com/player?id=84728375
-https://boardgamearena.com/player?id=85266212
-https://boardgamearena.com/player?id=86880441
+https://boardgamearena.com/player?id=93445494
 https://boardgamearena.com/player?id=93503949
-https://boardgamearena.com/player?id=84467123
 https://boardgamearena.com/player?id=94657666
-https://boardgamearena.com/player?id=91376048
-https://boardgamearena.com/player?id=87840722
-https://boardgamearena.com/player?id=29521050
+https://boardgamearena.com/player?id=93209805
+https://boardgamearena.com/player?id=93036424
 https://boardgamearena.com/player?id=93001733
-https://boardgamearena.com/player?id=84439898
-https://boardgamearena.com/player?id=92229279
-https://boardgamearena.com/player?id=83845287
-https://boardgamearena.com/player?id=95196104
 https://boardgamearena.com/player?id=94534363
-https://boardgamearena.com/player?id=84668754
 https://boardgamearena.com/player?id=94757385
 https://boardgamearena.com/player?id=94856453
-https://boardgamearena.com/player?id=93445494
+https://boardgamearena.com/player?id=95196104
+https://boardgamearena.com/player?id=95545823
 https://boardgamearena.com/player?id=95575778
-https://boardgamearena.com/player?id=93036424
 https://boardgamearena.com/player?id=95928636
+https://boardgamearena.com/player?id=87840722
+https://boardgamearena.com/player?id=83845287
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=84467123
+https://boardgamearena.com/player?id=84668754
+https://boardgamearena.com/player?id=85266212
+https://boardgamearena.com/player?id=86880441
 https://boardgamearena.com/player?id=92485888
+https://boardgamearena.com/player?id=90179166
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=91995588
+https://boardgamearena.com/player?id=92229279
+https://boardgamearena.com/player?id=29521050
 
 ---Origin---
 
 China
 China
+Taiwan
 China
-Japan
+China
+China
 China
 China
 Taiwan
 China
-Australia
-China
-Indonesia
-China
-Japan
-Australia
-China
-Taiwan
-Indonesia
-Japan
-Australia
-Hong Kong
-China
-Viet Nam
 China
 India
+Hong Kong
 China
 Taiwan
 China
+Australia
+Australia
+Indonesia
+Indonesia
+Viet Nam
 China
+Australia
 South Korea
+Japan
+Japan
+China
+Japan
+China
 
 ---Language---
 
-中文 (汉)
 English, 中文 (汉)
 中文 (汉)
-日本語
-中文 (汉)
-English, 中文 (汉)
 English, 日本語, 中文 (漢)
 中文 (汉)
-English
 中文 (汉)
-English, Bahasa Indonesia
 English, 中文 (汉)
-English, 日本語
-English
+中文 (汉)
 English, 中文 (漢), 中文 (汉)
 English, 中文 (漢)
-English
-English, 日本語
-English
-中文 (汉)
 English, 中文 (汉)
-English
 English, 中文 (漢), 中文 (汉)
 English
+中文 (汉)
 中文 (汉)
 中文 (漢)
-English, 中文 (漢), 中文 (汉)
 中文 (汉)
+English
+English
+English
+English, Bahasa Indonesia
+English
+中文 (汉)
+English
 English, 한국어
+日本語
+English, 日本語
+English, 中文 (汉)
+English, 日本語
+English, 中文 (漢), 中文 (汉)
 
 
 - Origins of players:
@@ -190,4 +190,39 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-166/279/351
+154/274/406
+
+---BlackList---
+
+p0laris
+SkinnyMike
+PatrysiaPaula
+brionysmith
+FPJGaoGE
+Suliman13
+TT0121
+p0laris
+FPJGaoGE
+SkinnyMike
+PatrysiaPaula
+cheryl57
+mizunodrive
+Yowiprecis
+FuriousGweorge
+ZoeyWin
+DaruOwO
+FuriousGweorge
+mechirod
+panpenny33
+FuriousGweorge
+ZoeyWin
+mizunodrive
+pojen50
+FuriousGweorge
+ZoeyWin
+guaguababy
+mechirod
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.9, 3.25, 5.0

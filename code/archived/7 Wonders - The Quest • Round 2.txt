@@ -1,0 +1,81 @@
+---LocalPlayer---
+
+Happy Memory
+nafanya-star
+Soundfield
+Goat Bill Wang
+evangelcc1
+Hsu LC
+
+- Reputations:
+
+Happy Memory - 100%
+nafanya-star - 100%
+Soundfield - 100%
+Goat Bill Wang - 97%
+evangelcc1 - 100%
+Hsu LC - 97%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=89303067
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=14743929
+https://boardgamearena.com/player?id=96388420
+https://boardgamearena.com/player?id=96744947
+https://boardgamearena.com/player?id=93050950
+
+---Origin---
+
+Japan
+Viet Nam
+Japan
+Japan
+China
+Taiwan
+
+---Language---
+
+日本語
+English, Русский язык, Türkçe
+English
+中文 (汉)
+中文 (汉)
+English, 中文 (漢)
+
+
+- Origins of players:
+
+France                      18%
+United States of America    16%
+Germany                     10%
+Italy                        8%
+Poland                       7%
+United Kingdom               5%
+Russia                       4%
+Canada                       4%
+Spain                        3%
+Belgium                      3%
+Japan                        2%
+Ukraine                      2%
+Hungary                      1%
+Moldova                      0%
+Israel                       0%
+Portugal                     0%
+Seychelles                   0%
+Slovakia                     0%
+South Africa                 0%
+Czechia                      0%
+Switzerland                  0%
+Taiwan                       0%
+Curaçao                      0%
+China                        0%
+Viet Nam                     0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+146/213/270
