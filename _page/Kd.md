@@ -22,24 +22,24 @@ layout: default
 
 ### Tournament details
 
-- [Season 1](https://boardgamearena.com/tournament?id=284814)
-- Date: 05/06/2024 - 06/06/2024
-- Number of players: 64
-- Top origins of players: France 18% USA 7% Australia 6% Japan 6%
-- Abandoned tables (reached duration limit): 3%
-- Cancelled tables (player left or got kicked): 1% 
-- Q1/Q2/Q3 of player's Elo rating: 170/263/390
-- Q1/Q2/Q3 of table duration (days): 1.3/2.2/3.4
-- Winners(meta event points): cieciel(100); SIeuth(75); Molkky14(50); batmanrx7(50); kl_escape(10); yumaman(10); catimini_3(10); GinosVougas(10)
+- [Season 3](https://boardgamearena.com/tournament?id=311714)
+- Date: 08/12/2024 - 10/02/2024
+- Number of players: 72
+- Top origins of players: France 16% Poland 11% United States of America 8% Australia 8% 
+- Abandoned tables (reached duration limit): 5%
+- Cancelled tables (player left or got kicked): 3%
+- Q1/Q2/Q3 of player's Elo rating: 166/249/382
+- Q1/Q2/Q3 of table duration (days): 1.3/2.1/3.3
+- Winners(meta event points): LusiaKlusia(100); MaxTra1981(75); SIeuth(50); anacodam(50); cieciel(10); Baker14(10); Small Geezer(10); \_\_Frog\_\_(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_Kingdomino_Elo_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Elo_20241002191216.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_Kingdomino_Duration_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Duration_20241002204443.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
-
 <p>&nbsp;</p>
+
 
 - [Season 2](https://boardgamearena.com/tournament?id=298135)
 - Date: 06/24/2024 - 08/01/2024
@@ -61,22 +61,24 @@ layout: default
 <p>&nbsp;</p>
 
 
-- [Season 3](https://boardgamearena.com/tournament?id=311714)
-- Date: 08/12/2024 - 10/02/2024
-- Number of players: 72
-- Top origins of players: France 16% Poland 11% United States of America 8% Australia 8% 
-- Abandoned tables (reached duration limit): 5%
-- Cancelled tables (player left or got kicked): 3%
-- Q1/Q2/Q3 of player's Elo rating: 166/249/382
-- Q1/Q2/Q3 of table duration (days): 1.3/2.1/3.3
-- Winners(meta event points): LusiaKlusia(100); MaxTra1981(75); SIeuth(50); anacodam(50); cieciel(10); Baker14(10); Small Geezer(10); \_\_Frog\_\_(10)
+
+- [Season 1](https://boardgamearena.com/tournament?id=284814)
+- Date: 05/06/2024 - 06/06/2024
+- Number of players: 64
+- Top origins of players: France 18% USA 7% Australia 6% Japan 6%
+- Abandoned tables (reached duration limit): 3%
+- Cancelled tables (player left or got kicked): 1% 
+- Q1/Q2/Q3 of player's Elo rating: 170/263/390
+- Q1/Q2/Q3 of table duration (days): 1.3/2.2/3.4
+- Winners(meta event points): cieciel(100); SIeuth(75); Molkky14(50); batmanrx7(50); kl_escape(10); yumaman(10); catimini_3(10); GinosVougas(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Elo_20241002191216.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Elo_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 3_Duration_20241002204443.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_Kingdomino_Duration_S1.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
+
 <p>&nbsp;</p>
 
 
