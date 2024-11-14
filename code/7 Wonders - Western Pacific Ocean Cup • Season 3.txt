@@ -1,0 +1,174 @@
+---LocalPlayer---
+
+Ina-hime
+zkklove123
+hakomugiko
+huogbendeo
+kiwi_liang
+Elm
+nondead
+sumnortea
+crippler
+Soundfield
+Miyacchiiko
+triangle790518
+nickwoodward17
+OdanobuGG
+bingman
+amylin993
+Rrrrabbit
+suilk1015
+
+- Reputations:
+
+Ina-hime - 100%
+zkklove123 - 100%
+hakomugiko - 100%
+huogbendeo - 88%
+kiwi_liang - 100%
+Elm - 100%
+nondead - 100%
+sumnortea - 100%
+crippler - 100%
+Soundfield - 100%
+Miyacchiiko - 95%
+triangle790518 - 100%
+nickwoodward17 - 100%
+OdanobuGG - 100%
+bingman - 100%
+amylin993 - 100%
+Rrrrabbit - 95%
+suilk1015 - 96%
+pbrian1002 - 58%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=83836609
+https://boardgamearena.com/player?id=95658742
+https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=30523622
+https://boardgamearena.com/player?id=94337858
+https://boardgamearena.com/player?id=94041458
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=14743929
+https://boardgamearena.com/player?id=89821514
+https://boardgamearena.com/player?id=84533993
+https://boardgamearena.com/player?id=84585778
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=28297280
+https://boardgamearena.com/player?id=91186203
+https://boardgamearena.com/player?id=92589798
+https://boardgamearena.com/player?id=96540522
+
+---Origin---
+
+Viet Nam
+Taiwan
+Japan
+Viet Nam
+Taiwan
+Japan
+Kazakhstan
+Taiwan
+Taiwan
+Japan
+Japan
+Taiwan
+Australia
+Thailand
+Malaysia
+Taiwan
+Thailand
+China
+Australia
+
+---Language---
+
+English, Tiếng Việt
+
+English
+English, Tiếng Việt
+English, 中文 (漢)
+English, 日本語
+Русский язык
+English, 中文 (漢)
+English, 中文 (漢)
+English
+日本語
+English, 中文 (漢)
+English
+ไทย
+English
+中文 (漢)
+English, ไทย
+中文 (汉)
+中文 (漢)
+
+
+- Origins of players:
+
+France                      20%
+Germany                     12%
+Taiwan                       8%
+Italy                        8%
+United States of America     5%
+Japan                        5%
+Poland                       5%
+Russia                       4%
+Australia                    2%
+Belgium                      2%
+Thailand                     2%
+Spain                        2%
+Viet Nam                     2%
+Canada                       2%
+Brazil                       2%
+Moldova                      1%
+Netherlands                  1%
+Kazakhstan                   1%
+Romania                      1%
+Greece                       1%
+China                        1%
+Switzerland                  1%
+Bulgaria                     1%
+Ukraine                      1%
+Malaysia                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+142/215/286
+
+---BlackList---
+
+kiwi_liang
+pbrian1002
+Dead-Master
+pbrian1002
+KlavdiaD
+huogbendeo
+Dead-Master
+pbrian1002
+von Arien
+Thibaut91
+pbrian1002
+Rrrrabbit
+von Arien
+pbrian1002
+Miyacchiiko
+DarkSmaaall
+iMihaix
+DarkSmaaall
+pbrian1002
+Miyacchiiko
+DarkSmaaall
+pbrian1002
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.9, 2.7, 3.4

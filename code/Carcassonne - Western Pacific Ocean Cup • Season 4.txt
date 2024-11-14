@@ -1,0 +1,222 @@
+---LocalPlayer---
+
+Chris_TRAPS
+0607
+spman2
+Mrwan1
+satouaaaaa
+kurikinton1124
+crippler
+Heinrich Shen
+RamboPang43200
+craig_shoji
+Kndr
+coolfire
+Carquinyolis
+5murf
+Kuya Boards
+nekoTencho
+simonrp
+CHIHIRO03
+Tiffeey
+Klarikiwi
+adrianalex86
+CH3L5
+fujiLab
+muffinile
+Rubicube
+emmmstab6
+Karnivool297
+
+- Reputations:
+
+Chris_TRAPS - 100%
+0607 - 100%
+spman2 - 100%
+Mrwan1 - 100%
+satouaaaaa - 100%
+kurikinton1124 - 100%
+crippler - 100%
+Heinrich Shen - 100%
+RamboPang43200 - 100%
+craig_shoji - 100%
+Kndr - 100%
+coolfire - 100%
+Carquinyolis - 100%
+5murf - 100%
+Kuya Boards - 100%
+nekoTencho - 100%
+simonrp - 100%
+CHIHIRO03 - 100%
+Tiffeey - 100%
+Klarikiwi - 100%
+adrianalex86 - 100%
+CH3L5 - 100%
+fujiLab - 100%
+COZIE - 84%
+muffinile - 100%
+Rubicube - 91%
+emmmstab6 - 96%
+Karnivool297 - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=85378606
+https://boardgamearena.com/player?id=83998002
+https://boardgamearena.com/player?id=85207965
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=95407058
+https://boardgamearena.com/player?id=93019536
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=87659725
+https://boardgamearena.com/player?id=85344729
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=85421235
+https://boardgamearena.com/player?id=85291410
+https://boardgamearena.com/player?id=89754915
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=92340868
+https://boardgamearena.com/player?id=86947719
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=93290927
+https://boardgamearena.com/player?id=91500642
+https://boardgamearena.com/player?id=87111029
+https://boardgamearena.com/player?id=92725714
+https://boardgamearena.com/player?id=86123377
+https://boardgamearena.com/player?id=93461310
+https://boardgamearena.com/player?id=87583639
+https://boardgamearena.com/player?id=90162723
+https://boardgamearena.com/player?id=91081881
+https://boardgamearena.com/player?id=95094284
+https://boardgamearena.com/player?id=91268300
+
+---Origin---
+
+Japan
+Taiwan
+Japan
+Taiwan
+Japan
+Japan
+Taiwan
+Taiwan
+Malaysia
+Japan
+China
+China
+Palau
+Australia
+Philippines
+Japan
+Australia
+Japan
+Australia
+New Zealand
+Malaysia
+Australia
+Japan
+Japan
+New Zealand
+China
+Australia
+Australia
+
+---Language---
+
+日本語
+English, 中文 (漢)
+English, 日本語
+English, 中文 (漢)
+日本語
+日本語
+English, 中文 (漢)
+中文 (漢)
+English, Bahasa Malaysia, 中文 (漢), 中文 (汉)
+English, 日本語
+English, 中文 (漢)
+English, 中文 (漢), 中文 (汉)
+Català
+English
+English
+日本語
+English
+日本語
+English
+English, Magyar
+English
+English
+日本語
+日本語
+English, Español, 中文 (漢)
+中文 (汉)
+English
+English
+
+
+- Origins of players:
+
+Japan                          11%
+Russia                         11%
+Australia                       7%
+France                          7%
+Germany                         6%
+Taiwan                          5%
+Poland                          5%
+Italy                           3%
+Ukraine                         3%
+Spain                           3%
+China                           3%
+New Zealand                     2%
+Malaysia                        2%
+Argentina                       2%
+United Kingdom                  2%
+Colombia                        2%
+Canada                          2%
+Finland                         1%
+Latvia                          1%
+Falkland Islands (Malvinas)     1%
+Mexico                          1%
+Denmark                         1%
+Palau                           1%
+Panama                          1%
+Peru                            1%
+Philippines                     1%
+Czechia                         1%
+Chile                           1%
+Brazil                          1%
+Antigua and Barbuda             1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+172/308/475
+
+---BlackList---
+
+COZIE
+CHIHIRO03
+Karnivool297
+DraconianKing
+COZIE
+Bydel
+skalabrini7
+Karnivool297
+Zoliszka
+DraconianKing
+__Asya__
+Bydel
+Zoliszka
+Bydel
+iparpal
+Zoliszka
+DraconianKing
+Homertrakers
+Bydel
+COZIE
+
+-----
+Q1/Q2/Q3 quantile of time: 
+0.7, 1.8, 3.7
