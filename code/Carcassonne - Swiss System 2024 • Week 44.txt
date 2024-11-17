@@ -1,0 +1,163 @@
+---LocalPlayer---
+
+black monky king
+Waiwai1202
+RamboPang43200
+craig_shoji
+raremeeple
+TAMATAMAz
+amicitia
+grantwangkai
+ee_cwlab
+P42
+adrianalex86
+sotaro89
+kelo
+bigbullOKADA
+pincher3
+emmmstab6
+
+- Reputations:
+
+black monky king - 100%
+Waiwai1202 - 100%
+RamboPang43200 - 100%
+craig_shoji - 100%
+raremeeple - 100%
+TAMATAMAz - 100%
+minqian123 - 81%
+amicitia - 100%
+grantwangkai - 100%
+ee_cwlab - 100%
+P42 - 100%
+adrianalex86 - 100%
+sotaro89 - 98%
+kelo - 100%
+bigbullOKADA - 100%
+pincher3 - 100%
+emmmstab6 - 100%
+taroudesu - 65%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=96723111
+https://boardgamearena.com/player?id=94640494
+https://boardgamearena.com/player?id=85344729
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=91264740
+https://boardgamearena.com/player?id=88031805
+https://boardgamearena.com/player?id=96494930
+https://boardgamearena.com/player?id=87961999
+https://boardgamearena.com/player?id=84157676
+https://boardgamearena.com/player?id=84912831
+https://boardgamearena.com/player?id=83842176
+https://boardgamearena.com/player?id=92725714
+https://boardgamearena.com/player?id=88165108
+https://boardgamearena.com/player?id=21388786
+https://boardgamearena.com/player?id=92033917
+https://boardgamearena.com/player?id=85499238
+https://boardgamearena.com/player?id=95094284
+https://boardgamearena.com/player?id=89184591
+
+---Origin---
+
+China
+Hong Kong
+Malaysia
+Japan
+Taiwan
+Thailand
+China
+Japan
+Taiwan
+Hong Kong
+Taiwan
+Malaysia
+Japan
+Japan
+Japan
+Mongolia
+Australia
+Japan
+
+---Language---
+
+English, 中文 (漢)
+English
+English, Bahasa Malaysia, 中文 (漢), 中文 (汉)
+English, 日本語
+中文 (漢)
+English, ไทย
+中文 (汉)
+日本語
+English, 中文 (漢)
+English, 中文 (漢)
+English, 日本語, 中文 (漢)
+English
+日本語
+
+日本語
+Русский язык
+English
+日本語
+
+
+- Origins of players:
+
+Spain                          10%
+France                          9%
+Russia                          7%
+Germany                         7%
+Poland                          5%
+Italy                           5%
+United States of America        5%
+Ukraine                         3%
+Canada                          3%
+Japan                           3%
+Colombia                        3%
+Brazil                          2%
+Argentina                       2%
+Uruguay                         2%
+Chile                           2%
+Netherlands                     1%
+Finland                         1%
+Denmark                         1%
+Czechia                         1%
+United Kingdom                  1%
+Taiwan                          1%
+Hungary                         1%
+Mexico                          1%
+Malaysia                        1%
+Belarus                         1%
+Romania                         1%
+Montenegro                      1%
+Estonia                         1%
+China                           1%
+Greece                          1%
+Hong Kong                       1%
+Latvia                          0%
+Guatemala                       0%
+Unknown                         0%
+Armenia                         0%
+Australia                       0%
+Thailand                        0%
+Greenland                       0%
+Sweden                          0%
+Slovakia                        0%
+Slovenia                        0%
+Mongolia                        0%
+Belgium                         0%
+Portugal                        0%
+Croatia                         0%
+Peru                            0%
+Norway                          0%
+Falkland Islands (Malvinas)     0%
+Antigua and Barbuda             0%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+142/233/400
