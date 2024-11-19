@@ -22,7 +22,7 @@ layout: default
 - [Season 4](https://boardgamearena.com/tournament?id=320480)
 - Date: 09/30/2024 - 11/17/2024
 - Number of players: 80
-- Top origins of players: Japan 11% Russia 11% Australia 7% France 7% Germany 6%
+- Top origins of players: Japan 11% Russia 11% Australia 7% France 7%
 - Abandoned tables (reached duration limit): 14%
 - Cancelled tables (player left or got kicked): 6%
 - Q1/Q2/Q3 of player's Elo rating: 164/302/485
