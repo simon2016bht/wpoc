@@ -1,110 +1,111 @@
 ---LocalPlayer---
 
-kiwi_liang
+Ina-hime
+zkklove123
 hakomugiko
-crippler
+huogbendeo
+kiwi_liang
+Elm
 nondead
+sumnortea
+crippler
 Soundfield
 Miyacchiiko
-nickwoodward17
-zkklove123
-Elm
-Ina-hime
-sumnortea
-huogbendeo
-bingman
 triangle790518
-suilk1015
+nickwoodward17
 OdanobuGG
+bingman
 amylin993
 Rrrrabbit
+suilk1015
 
 - Reputations:
 
-100%
-100%
-100%
-100%
-100%
-97%
-100%
-100%
-100%
-93%
-100%
-83%
-100%
-100%
-87%
-100%
-100%
-93%
+Ina-hime - 100%
+zkklove123 - 100%
+hakomugiko - 100%
+huogbendeo - 88%
+kiwi_liang - 100%
+Elm - 100%
+nondead - 100%
+sumnortea - 100%
+crippler - 100%
+Soundfield - 100%
+Miyacchiiko - 95%
+triangle790518 - 100%
+nickwoodward17 - 100%
+OdanobuGG - 100%
+bingman - 100%
+amylin993 - 100%
+Rrrrabbit - 95%
+suilk1015 - 96%
+pbrian1002 - 58%
 
 
 ---link of user page---
 
-https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=4372327
 https://boardgamearena.com/player?id=83836609
-https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=95658742
+https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=30523622
 https://boardgamearena.com/player?id=94337858
+https://boardgamearena.com/player?id=94041458
+https://boardgamearena.com/player?id=84065868
 https://boardgamearena.com/player?id=14743929
 https://boardgamearena.com/player?id=89821514
-https://boardgamearena.com/player?id=84585778
-https://boardgamearena.com/player?id=4372327
-https://boardgamearena.com/player?id=30523622
-https://boardgamearena.com/player?id=92879444
-https://boardgamearena.com/player?id=94041458
-https://boardgamearena.com/player?id=95658742
-https://boardgamearena.com/player?id=28592574
 https://boardgamearena.com/player?id=84533993
-https://boardgamearena.com/player?id=92589798
+https://boardgamearena.com/player?id=84585778
 https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=28592574
 https://boardgamearena.com/player?id=28297280
 https://boardgamearena.com/player?id=91186203
+https://boardgamearena.com/player?id=92589798
 https://boardgamearena.com/player?id=96540522
 
 ---Origin---
 
+Viet Nam
 Taiwan
 Japan
+Viet Nam
 Taiwan
+Japan
 Kazakhstan
+Taiwan
+Taiwan
 Japan
 Japan
+Taiwan
 Australia
-Taiwan
-Japan
-Viet Nam
-Taiwan
-Viet Nam
+Thailand
 Malaysia
 Taiwan
+Thailand
 China
-Thailand
-Taiwan
-Thailand
 Australia
 
 ---Language---
 
-English, 中文 (漢)
+English, Tiếng Việt
+
 English
+English, Tiếng Việt
 English, 中文 (漢)
+English, 日本語
 Русский язык
+English, 中文 (漢)
+English, 中文 (漢)
 English
 日本語
-English
-
-English, 日本語
-English, Tiếng Việt
 English, 中文 (漢)
-English, Tiếng Việt
 English
-English, 中文 (漢)
-中文 (汉)
 ไทย
+English
 中文 (漢)
 English, ไทย
+中文 (汉)
 中文 (漢)
 
 
@@ -141,7 +142,7 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-159/220/291
+142/215/286
 
 ---BlackList---
 
@@ -162,7 +163,12 @@ pbrian1002
 Miyacchiiko
 DarkSmaaall
 iMihaix
+DarkSmaaall
+pbrian1002
+Miyacchiiko
+DarkSmaaall
+pbrian1002
 
 -----
 Q1/Q2/Q3 quantile of time: 
-1.8, 2.7, 3.4
+1.9, 2.7, 3.4

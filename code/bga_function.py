@@ -142,7 +142,7 @@ def transparent_background(image_file):
     re.findall("(.*images)/(.*)",image_file)[0][1]
     
     rgba.save(new_image_file, 'PNG')
-    print('output image:', new_image_file)
+    print('output:', new_image_file)
     return new_image_file
 
 

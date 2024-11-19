@@ -7,9 +7,7 @@ layout: default
 
 
 ### Region standings
-🥇Japan(185) 🥈Taiwan(160) 🥉Philippines(150)
-
-
+🥇Japan(205) 🥈Taiwan(160) 🥉Argentina(160)
 <p>&nbsp;</p>
 
 ### Player standings
@@ -20,6 +18,26 @@ layout: default
 <p>&nbsp;</p>
 
 ### Tournament details
+
+- [Season 4](https://boardgamearena.com/tournament?id=320480)
+- Date: 09/30/2024 - 11/17/2024
+- Number of players: 80
+- Top origins of players: Japan 11% Russia 11% Australia 7% France 7% Germany 6%
+- Abandoned tables (reached duration limit): 14%
+- Cancelled tables (player left or got kicked): 6%
+- Q1/Q2/Q3 of player's Elo rating: 164/302/485
+- Q1/Q2/Q3 of table duration (days): 1.0/2.2/5.0
+- Winners(meta event points): webbi(100); Grizli1981(75); tEmNiy(50); Carquinyolis(50); spman2(10); kurikinton1124(10); maticarrizoc(10); Tarakanov28(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 4_Elo_20241119083813.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 4_Duration_20241119090806.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
 
 
 - [Season 3](https://boardgamearena.com/tournament?id=310296)
