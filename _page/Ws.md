@@ -6,7 +6,7 @@ layout: default
 ---
 
 ### Region standings
-🥇France(175) 🥈Australia(160) 🥉United States of America(160)
+🥇Australia(320) 🥈France(175) 🥉United States of America(160)
 
 <p>&nbsp;</p>
 
@@ -17,6 +17,27 @@ layout: default
 <p>&nbsp;</p>
 
 ### Tournament details
+
+- [Season 4](https://boardgamearena.com/tournament?id=320484)
+- Date: 10/07/2024 - 11/24/2024
+- Number of players: 80
+- Top origins of players: United States of America 16% Japan 13% Australia 8% France 8% Thailand 5%
+- Abandoned tables (reached duration limit): 6%
+- Cancelled tables (player left or got kicked): 2%
+- Q1/Q2/Q3 of player's Elo rating: 188/265/339
+- Q1/Q2/Q3 of table duration (days): 1.2/2.5/4.0
+- Winners(meta event points): Concretedonkey64(100); Bobocan(75); kiki1234555(50); Tom Traubert(50); DRKVK(10); y2_ysopet(10); Larsiocarpin(10); KingOfGames_GX(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 4_Elo_20241124200434.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 4_Duration_20241124211059.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 - [Season 3](https://boardgamearena.com/tournament?id=311708)
 - Date: 08/12/2024 - 09/26/2024
