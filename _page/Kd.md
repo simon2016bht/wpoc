@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Poland(310) 🥈France(145) 🥉United States of America(125)
+🥇Poland(360) 🥈United States of America(275) 🥉France(155)
 
 <p>&nbsp;</p>
 
@@ -21,6 +21,25 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 4](https://boardgamearena.com/tournament?id=320487)
+- Date: 10/14/2024 - 12/01/2024
+- Number of players: 80
+- Top origins of players: France 15% United States of America 10% Poland 6% Czechia 6% 
+- Abandoned tables (reached duration limit): 4%
+- Cancelled tables (player left or got kicked): 1%
+- Q1/Q2/Q3 of player's Elo rating: 196/291/378
+- Q1/Q2/Q3 of table duration (days): 1.1/2.0/3.5
+- Winners(meta event points): Doxsie(100); Kopretinka(75); SIeuth(50); LusiaKlusia(50); Vanyaztroi(10); Matmama(10); anacodam(10); Tock9710(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 4_Elo_20241202104747.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 4_Duration_20241202111704.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
 
 - [Season 3](https://boardgamearena.com/tournament?id=311714)
 - Date: 08/12/2024 - 10/02/2024

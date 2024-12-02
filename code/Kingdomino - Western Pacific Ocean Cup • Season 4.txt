@@ -1,103 +1,103 @@
 ---LocalPlayer---
 
 anacodam
-ailove
-minape
-candicequin
-TanYAnya
-JJLOVELOVE
-Kurtimus Prime
-Small Geezer
-sanukiudon3sei
 OdanobuGG
-DrewJCooper
-ohnihow
-kurohajoker
-Vladimir Goan
-Creamson
 simonrp
 Master Flower
+Creamson
+Vladimir Goan
+JJLOVELOVE
+candicequin
+ailove
+DrewJCooper
+sanukiudon3sei
+kurohajoker
+Kurtimus Prime
+ohnihow
+minape
+Small Geezer
+TanYAnya
 
 - Reputations:
 
 anacodam - 100%
-ailove - 100%
-minape - 100%
-candicequin - 100%
-TanYAnya - 100%
-JJLOVELOVE - 100%
-Kurtimus Prime - 100%
-Small Geezer - 99%
-sanukiudon3sei - 100%
 OdanobuGG - 100%
-DrewJCooper - 100%
-ohnihow - 100%
-kurohajoker - 100%
-Vladimir Goan - 100%
-Creamson - 100%
 simonrp - 100%
 Master Flower - 100%
+Creamson - 100%
+Vladimir Goan - 98%
+JJLOVELOVE - 100%
+candicequin - 100%
+ailove - 100%
+DrewJCooper - 100%
+sanukiudon3sei - 100%
+kurohajoker - 100%
+Kurtimus Prime - 100%
+ohnihow - 100%
+minape - 100%
+Small Geezer - 100%
+TanYAnya - 100%
 
 
 ---link of user page---
 
 https://boardgamearena.com/player?id=91852193
-https://boardgamearena.com/player?id=85411913
-https://boardgamearena.com/player?id=90842112
-https://boardgamearena.com/player?id=94143801
-https://boardgamearena.com/player?id=86638909
-https://boardgamearena.com/player?id=94579281
-https://boardgamearena.com/player?id=84110954
-https://boardgamearena.com/player?id=86890353
-https://boardgamearena.com/player?id=84680005
 https://boardgamearena.com/player?id=93674846
-https://boardgamearena.com/player?id=86250702
-https://boardgamearena.com/player?id=90664766
-https://boardgamearena.com/player?id=84219629
-https://boardgamearena.com/player?id=94688367
-https://boardgamearena.com/player?id=91565252
 https://boardgamearena.com/player?id=93333405
 https://boardgamearena.com/player?id=92626394
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=94688367
+https://boardgamearena.com/player?id=94579281
+https://boardgamearena.com/player?id=94143801
+https://boardgamearena.com/player?id=85411913
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=84219629
+https://boardgamearena.com/player?id=84110954
+https://boardgamearena.com/player?id=90664766
+https://boardgamearena.com/player?id=90842112
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=86638909
 
 ---Origin---
 
 Viet Nam
-Japan
-Japan
-Indonesia
-Kazakhstan
 Thailand
-New Zealand
-Australia
-Japan
-Thailand
-Australia
-Taiwan
-Japan
-India
-Singapore
 Australia
 China
+Singapore
+India
+Thailand
+Indonesia
+Japan
+Australia
+Japan
+Japan
+New Zealand
+Taiwan
+Japan
+Australia
+Kazakhstan
 
 ---Language---
 
 English
-日本語
-English, 日本語
+ไทย
 English
-English, Русский язык
+English, Français, 中文 (漢)
+English
+Русский язык
 English, ไทย
 English
+日本語
 English
 日本語
-ไทย
+English, 日本語
 English
 中文 (漢), 中文 (汉)
 English, 日本語
-Русский язык
 English
-English
-English, Français, 中文 (漢)
+English, Русский язык
 
 
 - Origins of players:
@@ -143,7 +143,7 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-199/289/395
+196/291/378
 
 ---BlackList---
 
@@ -161,4 +161,4 @@ Ansjovis02
 
 -----
 Q1/Q2/Q3 quantile of time: 
-1.1, 2.0, 3.6
+1.1, 2.0, 3.5
