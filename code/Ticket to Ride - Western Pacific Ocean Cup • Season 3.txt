@@ -1,0 +1,283 @@
+---LocalPlayer---
+
+5murf
+subbu05
+Da Pyrate
+Jevi07
+kallima0304
+JWitness
+Stitch_ohana
+reneeg09
+Meccy
+st60926
+windie_terry
+sevinaus
+e920528
+Strauss21
+katrina1232
+DrewJCooper
+Creamson
+iamsum1gr8
+chenxixiluo
+ScreenShot
+ever7ess
+heeee_gaeng
+a lele
+Fyyto
+dreemahn
+mmac753
+
+- Reputations:
+
+5murf - 100%
+doowhadoo - 51%
+subbu05 - 100%
+Da Pyrate - 100%
+Jevi07 - 100%
+kallima0304 - 100%
+JWitness - 100%
+Stitch_ohana - 100%
+reneeg09 - 100%
+Meccy - 100%
+st60926 - 100%
+windie_terry - 100%
+sevinaus - 100%
+e920528 - 100%
+Strauss21 - 100%
+katrina1232 - 100%
+DrewJCooper - 100%
+John Chan - 70%
+Creamson - 100%
+iamsum1gr8 - 100%
+chenxixiluo - 98%
+ScreenShot - 100%
+ever7ess - 100%
+heeee_gaeng - 100%
+a lele - 100%
+Fyyto - 97%
+dreemahn - 100%
+mmac753 - 99%
+Marinette0407 - 0%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=88202849
+https://boardgamearena.com/player?id=94945316
+https://boardgamearena.com/player?id=91182357
+https://boardgamearena.com/player?id=94800632
+https://boardgamearena.com/player?id=87285576
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=95753657
+https://boardgamearena.com/player?id=91841365
+https://boardgamearena.com/player?id=95263354
+https://boardgamearena.com/player?id=84279204
+https://boardgamearena.com/player?id=84800551
+https://boardgamearena.com/player?id=85962540
+https://boardgamearena.com/player?id=84231214
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=96344161
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=87956601
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=83909225
+https://boardgamearena.com/player?id=94867709
+https://boardgamearena.com/player?id=94890234
+https://boardgamearena.com/player?id=93196876
+https://boardgamearena.com/player?id=91583601
+https://boardgamearena.com/player?id=96267251
+https://boardgamearena.com/player?id=85238494
+https://boardgamearena.com/player?id=95325815
+https://boardgamearena.com/player?id=94405277
+https://boardgamearena.com/player?id=96055052
+
+---Origin---
+
+Australia
+Thailand
+India
+Indonesia
+Australia
+Taiwan
+Australia
+Australia
+Australia
+Australia
+Taiwan
+Hong Kong
+Australia
+Taiwan
+Hong Kong
+New Zealand
+Australia
+Hong Kong
+Singapore
+Australia
+China
+Thailand
+China
+South Korea
+China
+Australia
+New Zealand
+Japan
+India
+
+---Language---
+
+English
+English, ไทย
+English, தமிழ்
+English
+English
+English, 中文 (漢), 中文 (汉)
+English
+English
+English
+English
+English, 中文 (漢)
+English, 日本語, 中文 (漢)
+English
+中文 (漢)
+中文 (漢)
+English
+English
+中文 (漢)
+English
+English
+中文 (汉)
+English, ไทย
+English, 中文 (汉)
+한국어
+中文 (汉)
+English
+English
+日本語
+English, हिन्दी
+
+
+- Origins of players:
+
+0                          
+Australia                      13%
+United States of America       11%
+France                         11%
+China                           4%
+Czechia                         4%
+Taiwan                          4%
+Russia                          4%
+Hong Kong                       4%
+Thailand                        2%
+New Zealand                     2%
+Spain                           2%
+India                           2%
+Germany                         2%
+Canada                          2%
+Brazil                          2%
+Belgium                         2%
+Poland                          2%
+Ukraine                         1%
+United Kingdom                  1%
+South Korea                     1%
+Singapore                       1%
+Argentina                       1%
+Peru                            1%
+Netherlands                     1%
+Latvia                          1%
+Indonesia                       1%
+Hungary                         1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+Japan                           1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+136/184/238
+
+---BlackList---
+
+VitalikDS
+Ira_Infinitely_happy
+AlisonKerrUS
+Sapotille81
+impala12
+iamsum1gr8
+AlisonKerrUS
+Sapotille81
+MotoKüken
+MamCo
+NifftyEmpress
+impala12
+ValkyRaeKK
+Myiia
+Sapotille81
+Aintha_aintha
+Scarlet 93
+Jasonsj
+iamsum1gr8
+Vladimir101
+ScreenShot
+MotoKüken
+Ira_Infinitely_happy
+impala12
+Myiia
+ever7ess
+Thaty2022
+Vladimir101
+ScreenShot
+impala12
+Sapotille81
+Myiia
+AlisonKerrUS
+Lusi4
+Vladimir101
+impala12
+Sapotille81
+Aintha_aintha
+Fyyto
+John Chan
+HellowWorld12
+The Mom Twin
+leinad_02
+ArtPetroff
+mmac753
+sialiatje
+John Chan
+Fyyto
+Spax82
+FOLKS86
+chenxixiluo
+Marinette0407
+VITOOOOOR
+BHB87
+ArtPetroff
+sialiatje
+mmac753
+Spax82
+Meccy
+sialiatje
+VITOOOOOR
+theoooooo66
+HellowWorld12
+Spax82
+Meccy
+The Mom Twin
+leinad_02
+mmac753
+theoooooo66
+VITOOOOOR
+Spax82
+chenxixiluo
+BHB87
+Fyyto
+mmac753
+theoooooo66
+VITOOOOOR
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.5, 5.0, 7.0
