@@ -38,12 +38,6 @@ layout: default
 <p>&nbsp;</p>
 
 
-1. check last day of tournament from the tournament page
-(7Wonders) change the 4th player point to 25
-2. update Region standings of one specific game
-3. update Region standings of sum of all game
-4. move the elo and table duration figure to the corresponing folder
-
 - [Season 2](https://boardgamearena.com/tournament?id=314581)
 - Date: 08/19/2024 - 10/09/2024
 - Number of players: 72
