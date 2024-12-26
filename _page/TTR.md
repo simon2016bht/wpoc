@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Spain(160) 🥈France(110) 🥉Netherlands(100)
+🥇Spain(210) 🥈France(110) 🥉Netherlands(100) 🥉Ukraine(100) 🥉United States of America(100)
 
 <p>&nbsp;</p>
 
@@ -19,6 +19,26 @@ layout: default
 
 
 ### Tournament details
+- [Season 3](https://boardgamearena.com/tournament?id=320496)
+- Date: 10/28/2024 - 12/23/2024
+- Number of players: 72
+- Top origins of players: Australia 13% United States of America 11% France 11% 
+- Abandoned tables (reached duration limit): 29%
+- Cancelled tables (player left or got kicked): 6%
+- Q1/Q2/Q3 of player's Elo rating: 136/184/239
+- Q1/Q2/Q3 of table duration (days): 1.5/4.0/7.0
+- Winners(meta event points): VitalikDS(100); smartin23(75); Pinar88(50); Gregnr(50); subbu05(10); doowhadoo(10); Stejomeso(10); 5murf(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 3_Elo_20241226131352.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 3_Duration_20241226134001.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 - [Season 2](https://boardgamearena.com/tournament?id=314578)
 - Date: 08/19/2024 - 10/03/2024
