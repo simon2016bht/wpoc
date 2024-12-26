@@ -5,7 +5,8 @@ layout: default
 ---
 
 ### Region standings
-🥇France(135) 🥈Czechia(100) 🥉Sweden(100)
+🥇France(185) 🥈United States of America(150) 🥉Czechia(110)
+
 
 <p>&nbsp;</p>
 
@@ -17,6 +18,31 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 3](https://boardgamearena.com/tournament?id=320493)
+- Date: 11/04/2024 - 12/20/2024
+- Number of players: 72
+- Top origins of players: France 16% Germany 12% Russia 8% United States of America 6% Japan 6%
+- Abandoned tables (reached duration limit): 16%
+- Cancelled tables (player left or got kicked): 3%
+- Q1/Q2/Q3 of player's Elo rating: 171/249/312
+- Q1/Q2/Q3 of table duration (days): 0.9/2.9/6.0
+- Winners(meta event points): Pea Sprout(100); karasjok(75); nickolas_66(50); StayVegan(50); Lantaarn(10); Dzorden(10); Quin0404(10); ohyaku(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 3_Elo_20241226171255.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 3_Duration_20241226173955.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+1. check last day of tournament from the tournament page
+(7Wonders) change the 4th player point to 25
+2. update Region standings of one specific game
+3. update Region standings of sum of all game
+4. move the elo and table duration figure to the corresponing folder
 
 - [Season 2](https://boardgamearena.com/tournament?id=314581)
 - Date: 08/19/2024 - 10/09/2024

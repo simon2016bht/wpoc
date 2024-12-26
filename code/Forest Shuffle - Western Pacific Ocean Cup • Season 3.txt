@@ -1,0 +1,188 @@
+---LocalPlayer---
+
+karasjok
+Quin0404
+ohyaku
+michael202325
+troe665
+C0MMAND
+khalil1515
+Tigirl47
+sacchan310
+---B---
+selolog
+Murugan
+almighty fat
+Creamson
+chileth
+neocheetoz
+Grombek
+
+- Reputations:
+
+karasjok - 100%
+Quin0404 - 100%
+ohyaku - 100%
+michael202325 - 100%
+troe665 - 100%
+C0MMAND - 92%
+khalil1515 - 100%
+Tigirl47 - 100%
+doowhadoo - 84%
+sacchan310 - 100%
+---B--- - 100%
+selolog - 100%
+Murugan - 93%
+almighty fat - 100%
+Creamson - 100%
+chileth - 100%
+neocheetoz - 100%
+Grombek - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95955771
+https://boardgamearena.com/player?id=94954976
+https://boardgamearena.com/player?id=87750311
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=94080189
+https://boardgamearena.com/player?id=95664506
+https://boardgamearena.com/player?id=96569354
+https://boardgamearena.com/player?id=95581427
+https://boardgamearena.com/player?id=88202849
+https://boardgamearena.com/player?id=86445514
+https://boardgamearena.com/player?id=85774525
+https://boardgamearena.com/player?id=84706019
+https://boardgamearena.com/player?id=84467123
+https://boardgamearena.com/player?id=4603751
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=91646324
+https://boardgamearena.com/player?id=92854913
+https://boardgamearena.com/player?id=93299807
+
+---Origin---
+
+China
+Japan
+Japan
+China
+Kazakhstan
+Singapore
+China
+Japan
+Thailand
+Japan
+Australia
+Japan
+Indonesia
+New Zealand
+Singapore
+Thailand
+Indonesia
+Australia
+
+---Language---
+
+中文 (汉)
+日本語
+English, 日本語
+English, 中文 (汉)
+Русский язык
+English, 中文 (漢), 中文 (汉)
+English, 中文 (汉)
+English, 日本語
+English, ไทย
+English, 日本語
+English
+English, 日本語
+English, Bahasa Indonesia
+English, 中文 (汉)
+English
+ไทย
+English, Bahasa Indonesia
+English
+
+
+- Origins of players:
+
+France                      16%
+Germany                     12%
+Russia                       8%
+United States of America     6%
+Japan                        6%
+Canada                       4%
+China                        4%
+Czechia                      4%
+Belgium                      4%
+Thailand                     2%
+Spain                        2%
+Singapore                    2%
+Poland                       2%
+Australia                    2%
+Indonesia                    2%
+Denmark                      2%
+Italy                        2%
+Kazakhstan                   1%
+Mexico                       1%
+Netherlands                  1%
+New Zealand                  1%
+Hungary                      1%
+Estonia                      1%
+Croatia                      1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+171/249/312
+
+---BlackList---
+
+mikadooo34
+goughfy
+LadyCat87
+Grombek
+doowhadoo
+goughfy
+Fecki
+LadyCat87
+mikadooo34
+lostmycookie
+Grombek
+Dora702
+mikadooo34
+goughfy
+LadyCat87
+Dora702
+lostmycookie
+Linkx90
+sacchan310
+MichiMichii
+fonteintje
+chapi_croco
+Embe13
+fonteintje
+sacchan310
+Tigirl47
+fonteintje
+sacchan310
+Embe13
+Stricken103
+Larsiocarpin
+Fanto1819
+fonteintje
+Lumkins
+Larsiocarpin
+fonteintje
+Embe13
+Tigirl47
+TheChimiste
+sacchan310
+Fanto1819
+fonteintje
+
+-----
+Q1/Q2/Q3 quantile of time: 
+0.9, 2.9, 6.0
