@@ -1,0 +1,175 @@
+---LocalPlayer---
+
+fczzsc
+Da Pyrate
+simtt
+5murf
+JWitness
+e920528
+sevinaus
+Strauss21
+st60926
+katrina1232
+windie_terry
+Creamson
+cherish0102
+doowhadoo
+Stitch_ohana
+ScreenShot
+DrewJCooper
+heeee_gaeng
+jamie4815
+Fyyto
+subbu05
+chenxixiluo
+dreemahn
+UBIT2011
+mmac753
+
+- Reputations:
+
+fczzsc - 100%
+Da Pyrate - 100%
+simtt - 100%
+5murf - 100%
+JWitness - 100%
+e920528 - 100%
+sevinaus - 100%
+Strauss21 - 100%
+st60926 - 100%
+katrina1232 - 100%
+windie_terry - 100%
+Creamson - 100%
+cherish0102 - 100%
+doowhadoo - 88%
+Stitch_ohana - 100%
+ScreenShot - 100%
+DrewJCooper - 100%
+heeee_gaeng - 100%
+jamie4815 - 100%
+Fyyto - 97%
+subbu05 - 100%
+chenxixiluo - 100%
+dreemahn - 98%
+UBIT2011 - 96%
+mmac753 - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95863413
+https://boardgamearena.com/player?id=91182357
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=85362252
+https://boardgamearena.com/player?id=95573238
+https://boardgamearena.com/player?id=84231214
+https://boardgamearena.com/player?id=85962540
+https://boardgamearena.com/player?id=95025501
+https://boardgamearena.com/player?id=84279204
+https://boardgamearena.com/player?id=96344161
+https://boardgamearena.com/player?id=84800551
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=96219827
+https://boardgamearena.com/player?id=88202849
+https://boardgamearena.com/player?id=95753657
+https://boardgamearena.com/player?id=94890234
+https://boardgamearena.com/player?id=86250702
+https://boardgamearena.com/player?id=91583601
+https://boardgamearena.com/player?id=89973026
+https://boardgamearena.com/player?id=85238494
+https://boardgamearena.com/player?id=94945316
+https://boardgamearena.com/player?id=94867709
+https://boardgamearena.com/player?id=95325815
+https://boardgamearena.com/player?id=96380591
+https://boardgamearena.com/player?id=94405277
+
+---Origin---
+
+Thailand
+Indonesia
+Thailand
+Australia
+Australia
+Taiwan
+Australia
+Hong Kong
+Taiwan
+New Zealand
+Hong Kong
+Singapore
+South Korea
+Thailand
+Australia
+Thailand
+Australia
+South Korea
+Thailand
+Australia
+India
+China
+New Zealand
+Japan
+Japan
+
+---Language---
+
+English
+English
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+English
+English
+中文 (漢)
+English
+中文 (漢)
+English, 中文 (漢)
+English
+English, 日本語, 中文 (漢)
+English
+한국어
+English, ไทย
+English
+English, ไทย
+English
+한국어
+English
+English
+English, தமிழ்
+中文 (汉)
+English
+日本語
+日本語
+
+
+- Origins of players:
+
+United States of America       20%
+France                          9%
+Australia                       9%
+Thailand                        7%
+Germany                         6%
+Russia                          4%
+Japan                           3%
+Czechia                         3%
+Taiwan                          3%
+Spain                           3%
+South Korea                     3%
+New Zealand                     3%
+Italy                           3%
+Brazil                          3%
+Hong Kong                       3%
+Indonesia                       1%
+Portugal                        1%
+India                           1%
+Singapore                       1%
+Canada                          1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+United Kingdom                  1%
+China                           1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+153/188/238

@@ -1,0 +1,181 @@
+---LocalPlayer---
+
+jez610
+ximuuu
+quakednz
+Lwenyuan
+Kaepo
+amybomb
+Fran Cys
+Woffth
+Melisajane
+saizon
+superwhite210
+LeviTate
+Ozshark
+simtt
+CHathome
+Caera
+AlsoNotDave
+sylviakid
+shiroruru
+shilfee7409
+nickyloulou
+azusannu
+Golden tonton
+Chestnut Cat
+
+- Reputations:
+
+jez610 - 100%
+ximuuu - 100%
+quakednz - 100%
+Lwenyuan - 100%
+Kaepo - 100%
+amybomb - 100%
+Fran Cys - 100%
+Woffth - 100%
+Melisajane - 100%
+saizon - 100%
+superwhite210 - 100%
+LeviTate - 100%
+Ozshark - 100%
+simtt - 100%
+SilverD1 - 77%
+CHathome - 100%
+Caera - 100%
+AlsoNotDave - 100%
+sylviakid - 100%
+shiroruru - 100%
+shilfee7409 - 100%
+nickyloulou - 100%
+azusannu - 100%
+Golden tonton - 93%
+Chestnut Cat - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=96491511
+https://boardgamearena.com/player?id=95613598
+https://boardgamearena.com/player?id=94223051
+https://boardgamearena.com/player?id=91646996
+https://boardgamearena.com/player?id=89652790
+https://boardgamearena.com/player?id=92784495
+https://boardgamearena.com/player?id=92684904
+https://boardgamearena.com/player?id=2870728
+https://boardgamearena.com/player?id=94241028
+https://boardgamearena.com/player?id=91376048
+https://boardgamearena.com/player?id=90903355
+https://boardgamearena.com/player?id=84455523
+https://boardgamearena.com/player?id=87786050
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=84439898
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=85125657
+https://boardgamearena.com/player?id=91218696
+https://boardgamearena.com/player?id=89909333
+https://boardgamearena.com/player?id=95733850
+https://boardgamearena.com/player?id=86579805
+https://boardgamearena.com/player?id=85901862
+https://boardgamearena.com/player?id=90641812
+https://boardgamearena.com/player?id=93312017
+https://boardgamearena.com/player?id=90000048
+
+---Origin---
+
+China
+China
+New Zealand
+China
+Japan
+Australia
+Hong Kong
+Thailand
+Australia
+Japan
+Taiwan
+Australia
+Australia
+Thailand
+Indonesia
+China
+Taiwan
+Australia
+Taiwan
+Japan
+Japan
+Australia
+Japan
+Thailand
+China
+
+---Language---
+
+中文 (汉)
+中文 (汉)
+English
+中文 (汉)
+English, Français
+English
+English
+English, ไทย
+English
+English, 日本語
+中文 (漢)
+English
+English
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+English
+中文 (汉)
+English
+English
+English, 中文 (漢)
+日本語
+日本語
+English
+English, 日本語
+English, ไทย
+English, 中文 (汉)
+
+
+- Origins of players:
+
+United States of America                        10%
+France                                           7%
+Russia                                           7%
+Germany                                          6%
+Australia                                        6%
+China                                            5%
+Japan                                            5%
+Canada                                           4%
+United Kingdom                                   3%
+Thailand                                         3%
+Taiwan                                           3%
+Spain                                            3%
+Belgium                                          3%
+Poland                                           3%
+Peru                                             2%
+Portugal                                         2%
+Italy                                            2%
+Czechia                                          2%
+South Georgia and the South Sandwich Islands     1%
+San Marino                                       1%
+Netherlands                                      1%
+New Zealand                                      1%
+Austria                                          1%
+Indonesia                                        1%
+Hungary                                          1%
+Hong Kong                                        1%
+Holy See                                         1%
+Greece                                           1%
+Bolivia                                          1%
+Finland                                          1%
+Iran                                             1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+172/271/397

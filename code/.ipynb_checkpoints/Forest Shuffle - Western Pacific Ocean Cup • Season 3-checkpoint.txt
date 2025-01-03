@@ -8,6 +8,7 @@ troe665
 C0MMAND
 khalil1515
 Tigirl47
+doowhadoo
 sacchan310
 ---B---
 selolog
@@ -25,14 +26,14 @@ Quin0404 - 100%
 ohyaku - 100%
 michael202325 - 100%
 troe665 - 100%
-C0MMAND - 92%
+C0MMAND - 98%
 khalil1515 - 100%
 Tigirl47 - 100%
-doowhadoo - 84%
+doowhadoo - 88%
 sacchan310 - 100%
 ---B--- - 100%
 selolog - 100%
-Murugan - 93%
+Murugan - 100%
 almighty fat - 100%
 Creamson - 100%
 chileth - 100%
@@ -136,53 +137,4 @@ Name: count, dtype: object
 
 - Q1/Q2/Q3 of player's Elo rating:
 
-171/249/312
-
----BlackList---
-
-mikadooo34
-goughfy
-LadyCat87
-Grombek
-doowhadoo
-goughfy
-Fecki
-LadyCat87
-mikadooo34
-lostmycookie
-Grombek
-Dora702
-mikadooo34
-goughfy
-LadyCat87
-Dora702
-lostmycookie
-Linkx90
-sacchan310
-MichiMichii
-fonteintje
-chapi_croco
-Embe13
-fonteintje
-sacchan310
-Tigirl47
-fonteintje
-sacchan310
-Embe13
-Stricken103
-Larsiocarpin
-Fanto1819
-fonteintje
-Lumkins
-Larsiocarpin
-fonteintje
-Embe13
-Tigirl47
-TheChimiste
-sacchan310
-Fanto1819
-fonteintje
-
------
-Q1/Q2/Q3 quantile of time: 
-0.9, 2.9, 6.0
+177/246/325

@@ -1,0 +1,179 @@
+---LocalPlayer---
+
+nycla
+hakomugiko
+nafanya-star
+nickwoodward17
+crippler
+kiwi_liang
+razer1990
+zkklove123
+nondead
+Ina-hime
+Soundfield
+HeyHeyHeyHey
+simtt
+Podpolych
+Elm
+Golden tonton
+kevin555002
+bingman
+sumnortea
+evangelcc1
+Goat Bill Wang
+triangle790518
+Master Flower
+OdanobuGG
+acebook
+
+- Reputations:
+
+nycla - 100%
+hakomugiko - 100%
+nafanya-star - 100%
+nickwoodward17 - 100%
+crippler - 100%
+kiwi_liang - 97%
+razer1990 - 100%
+zkklove123 - 100%
+nondead - 100%
+Ina-hime - 100%
+Soundfield - 100%
+HeyHeyHeyHey - 100%
+simtt - 100%
+Podpolych - 100%
+Elm - 100%
+Golden tonton - 93%
+kevin555002 - 100%
+bingman - 100%
+sumnortea - 100%
+evangelcc1 - 100%
+Goat Bill Wang - 100%
+triangle790518 - 100%
+Master Flower - 100%
+OdanobuGG - 88%
+acebook - 97%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=88473695
+https://boardgamearena.com/player?id=83836609
+https://boardgamearena.com/player?id=91400048
+https://boardgamearena.com/player?id=84585778
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=94335958
+https://boardgamearena.com/player?id=83864817
+https://boardgamearena.com/player?id=4372327
+https://boardgamearena.com/player?id=94337858
+https://boardgamearena.com/player?id=92879444
+https://boardgamearena.com/player?id=14743929
+https://boardgamearena.com/player?id=85501906
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=90433233
+https://boardgamearena.com/player?id=30523622
+https://boardgamearena.com/player?id=93312017
+https://boardgamearena.com/player?id=93658154
+https://boardgamearena.com/player?id=28592574
+https://boardgamearena.com/player?id=94041458
+https://boardgamearena.com/player?id=96744947
+https://boardgamearena.com/player?id=96388420
+https://boardgamearena.com/player?id=84533993
+https://boardgamearena.com/player?id=92626394
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=85270634
+
+---Origin---
+
+Japan
+Japan
+Viet Nam
+Australia
+Taiwan
+Taiwan
+China
+Taiwan
+Kazakhstan
+Viet Nam
+Japan
+Hong Kong
+Thailand
+Kazakhstan
+Japan
+Thailand
+Taiwan
+Malaysia
+Taiwan
+China
+Japan
+Taiwan
+China
+Thailand
+China
+
+---Language---
+
+日本語
+English
+English, Русский язык, Türkçe
+English
+English, 中文 (漢)
+English, 中文 (漢)
+English, 中文 (漢)
+
+Русский язык
+English, Tiếng Việt
+English
+English, 中文 (漢)
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+
+English, 日本語
+English, ไทย
+English, 日本語, 中文 (漢)
+English
+English, 中文 (漢)
+中文 (汉)
+中文 (汉)
+English, 中文 (漢)
+English, Français, 中文 (漢)
+ไทย
+中文 (汉)
+
+
+- Origins of players:
+
+France                      11%
+United States of America    10%
+Italy                       10%
+Taiwan                       7%
+Poland                       7%
+Germany                      5%
+Japan                        5%
+China                        4%
+Netherlands                  3%
+Canada                       3%
+Thailand                     3%
+Kazakhstan                   2%
+Ukraine                      2%
+Russia                       2%
+Viet Nam                     2%
+Malaysia                     1%
+Belarus                      1%
+Hungary                      1%
+Portugal                     1%
+Romania                      1%
+Hong Kong                    1%
+Switzerland                  1%
+Greece                       1%
+Croatia                      1%
+Brazil                       1%
+United Kingdom               1%
+Belgium                      1%
+Australia                    1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+148/224/294
