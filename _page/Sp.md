@@ -8,7 +8,7 @@ layout: default
 
 
 ### Region standings
-🥇Japan(455) 🥈China(190) 🥉South Korea(125)
+🥇Japan(625) 🥈China(190) 🥉Hong Kong(175)
 <p>&nbsp;</p>
 
 
@@ -22,6 +22,25 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 4](https://boardgamearena.com/tournament?id=331208)
+- Date: 11/25/2024 - 01/10/2024
+- Number of players: 88
+- Top origins of players: Japan 14% Taiwan 9% United States of America 7% China 6% France 6%
+- Abandoned tables (reached duration limit): 12%
+- Cancelled tables (player left or got kicked): 6%
+- Q1/Q2/Q3 of player's Elo rating: 158/268/383
+- Q1/Q2/Q3 of table duration (days): 1.1/2.4/5.0
+- Winners(meta event points): akkyu39(100); KevSung(75); JQE(50); amato_ixxi(50); typeDD(10); am_demonhunter(10); captain_RO(10); Mahaos(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 4_Elo_20250111092000.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 4_Duration_20250111102041.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
 
 - [Season 3](https://boardgamearena.com/tournament?id=320473)
 - Date: 09/23/2024 - 11/14/2024
