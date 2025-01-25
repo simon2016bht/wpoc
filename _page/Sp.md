@@ -24,7 +24,7 @@ layout: default
 ### Tournament details
 
 - [Season 4](https://boardgamearena.com/tournament?id=331208)
-- Date: 11/25/2024 - 01/10/2024
+- Date: 11/25/2024 - 01/10/2025
 - Number of players: 88
 - Top origins of players: Japan 14% Taiwan 9% United States of America 7% China 6% France 6%
 - Abandoned tables (reached duration limit): 12%
