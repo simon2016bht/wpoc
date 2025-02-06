@@ -1,0 +1,164 @@
+---LocalPlayer---
+
+Master Flower
+OdanobuGG
+simonrp
+Grombek
+KirstieKK
+anacodam
+Creamson
+minape
+ohnihow
+simtt
+sanukiudon3sei
+batmanrx7
+kurohajoker
+flancy
+Kurtimus Prime
+Small Geezer
+DrewJCooper
+
+- Reputations:
+
+Master Flower - 100%
+OdanobuGG - 100%
+simonrp - 100%
+Grombek - 100%
+KirstieKK - 100%
+anacodam - 100%
+Creamson - 100%
+minape - 94%
+ohnihow - 96%
+simtt - 97%
+sanukiudon3sei - 97%
+batmanrx7 - 100%
+kurohajoker - 100%
+flancy - 100%
+Kurtimus Prime - 100%
+Small Geezer - 98%
+DrewJCooper - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=92626394
+https://boardgamearena.com/player?id=93674846
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=93299807
+https://boardgamearena.com/player?id=93050911
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=90842112
+https://boardgamearena.com/player?id=90664766
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=84680005
+https://boardgamearena.com/player?id=84510173
+https://boardgamearena.com/player?id=84219629
+https://boardgamearena.com/player?id=84171640
+https://boardgamearena.com/player?id=84110954
+https://boardgamearena.com/player?id=86890353
+https://boardgamearena.com/player?id=86250702
+
+---Origin---
+
+China
+Thailand
+Australia
+Australia
+Australia
+Viet Nam
+Singapore
+Japan
+Taiwan
+Thailand
+Japan
+New Zealand
+Japan
+Japan
+New Zealand
+Australia
+Australia
+
+---Language---
+
+English, Français, 中文 (漢)
+ไทย
+English
+English
+English
+English
+English
+English, 日本語
+中文 (漢), 中文 (汉)
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+日本語
+English
+English, 日本語
+English, 日本語
+English
+English
+English
+
+
+- Origins of players:
+
+France                      14%
+United States of America     7%
+Poland                       7%
+Australia                    5%
+Canada                       5%
+Japan                        4%
+Czechia                      4%
+Italy                        4%
+Russia                       4%
+Spain                        3%
+Hungary                      2%
+Switzerland                  2%
+Thailand                     2%
+New Zealand                  2%
+United Kingdom               2%
+Belgium                      2%
+Belarus                      2%
+Finland                      2%
+Argentina                    1%
+Sweden                       1%
+Taiwan                       1%
+Ukraine                      1%
+Singapore                    1%
+Mexico                       1%
+Portugal                     1%
+Peru                         1%
+Netherlands                  1%
+Luxembourg                   1%
+Lithuania                    1%
+Germany                      1%
+China                        1%
+Brazil                       1%
+Austria                      1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+177/253/385
+
+---BlackList---
+
+FunWithFlags
+Kopretinka
+Kopretinka
+callesuav
+Kopretinka
+Kopretinka
+callesuav
+Catalina308
+Kopretinka
+Samk12
+jimjam1126
+Grombek
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.2, 2.0, 3.4

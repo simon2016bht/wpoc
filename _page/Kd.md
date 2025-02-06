@@ -7,7 +7,8 @@ layout: default
 ---
 
 ### Region standings
-🥇Poland(360) 🥈United States of America(275) 🥉France(155)
+🥇Poland(460) 🥈United States of America(285) 🥉France(205)
+
 
 <p>&nbsp;</p>
 
@@ -21,6 +22,33 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 5](https://boardgamearena.com/tournament?id=342646)
+- Date: 12/16/2024 - 02/03/2025
+- Number of players: 88
+- Top origins of players: France 14% United States of America 7% Poland 7%
+- Abandoned tables (reached duration limit): 4%
+- Cancelled tables (player left or got kicked): 0%
+- Q1/Q2/Q3 of player's Elo rating: 177/253/385
+- Q1/Q2/Q3 of table duration (days): 1.2/2.0/3.4
+- Winners(meta event points): Lord_Serek(100); Jokkeboyz(75); nacsong99(50); Ligardes(50); Scarlet 93(10); Doxsie(10); CRI76(10); Eli2006(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 5_Elo_20250206190922.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 5_Duration_20250206194228.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+1. check last day of tournament from the tournament page
+(7Wonders) change the 4th player point to 25
+2. update Region standings of one specific game
+3. update Region standings of sum of all game
+4. move the elo and table duration figure to the corresponing folder
+
+
 
 - [Season 4](https://boardgamearena.com/tournament?id=320487)
 - Date: 10/14/2024 - 12/01/2024
