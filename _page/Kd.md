@@ -42,13 +42,6 @@ layout: default
 <p>&nbsp;</p>
 
 
-1. check last day of tournament from the tournament page
-(7Wonders) change the 4th player point to 25
-2. update Region standings of one specific game
-3. update Region standings of sum of all game
-4. move the elo and table duration figure to the corresponing folder
-
-
 
 - [Season 4](https://boardgamearena.com/tournament?id=320487)
 - Date: 10/14/2024 - 12/01/2024
