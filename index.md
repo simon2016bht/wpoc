@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div align="center">
-
+	<h1> WPOC 2024/25 </h1>
 	<a href="{{ site.baseurl }}{% link _page/Ccs.md %}">
 		<img src="/wpoc/assets/images/LowResIcon/Ccs.jpg" height="60" style="display: inline-block; margin-left: 2px; margin-right: 2px; margin-bottom: 5px; margin-top:5px"/>
 	</a>
