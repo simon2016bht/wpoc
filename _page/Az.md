@@ -8,7 +8,8 @@ layout: default
 
 
 ### Region standings
-🥇China(320) 🥈Japan(220) 🥉Holy See(200)
+🥇China(405) 🥈Holy See(300) 🥉Japan(230)
+
 
 
 <p>&nbsp;</p>
@@ -24,6 +25,25 @@ layout: default
 
 
 ### Tournament details
+- [Season 5](https://boardgamearena.com/tournament?id=342650)
+- Date: 12/23/2024 - 02/14/2025
+- Number of players: 88
+- Top origins of players: United States of America 10% France 7% Russia 7% Germany 6% Australia 6%
+- Abandoned tables (reached duration limit): 10%
+- Cancelled tables (player left or got kicked): 2%
+- Q1/Q2/Q3 of player's Elo rating: 164/270/413
+- Q1/Q2/Q3 of table duration (days): 1.4/2.8/4.0
+- Winners(meta event points): Mysterious Gatsby(100); ximuuu(75); quakednz(50); m1w1(50); manish81(10); MayMay0000(10); jez610(10); saizon(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 5_Elo_20250215085526.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 5_Duration_20250215093018.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
 
 - [Season 4](https://boardgamearena.com/tournament?id=320490)
 - Date: 10/21/2024 - 12/14/2024
