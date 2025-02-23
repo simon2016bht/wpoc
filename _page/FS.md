@@ -5,7 +5,7 @@ layout: default
 ---
 
 ### Region standings
-🥇France(185) 🥈United States of America(150) 🥉Czechia(110)
+🥇France(295) 🥈United States of America(250) 🥉Sweden(175)
 
 
 <p>&nbsp;</p>
@@ -18,6 +18,26 @@ layout: default
 
 
 ### Tournament details
+- [Season 4](https://boardgamearena.com/tournament?id=342658)
+- Date: 01/06/2025 - 02/23/2025
+- Number of players: 64
+- Top origins of players: United States of America 21% France 17% Germany 14% Japan 4%
+- Abandoned tables (reached duration limit): 16%
+- Cancelled tables (player left or got kicked): 5%
+- Q1/Q2/Q3 of player's Elo rating: 184/263/341
+- Q1/Q2/Q3 of table duration (days): 1.4/2.7/5.0
+- Winners(meta event points): english10010(100); StArvid(75); AJT - Spartacus(50); StayVegan(50); pavline(10); podo78(10); Larsiocarpin(10); magicphil(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 4_Elo_20250223202448.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 4_Duration_20250223205150.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 - [Season 3](https://boardgamearena.com/tournament?id=320493)
 - Date: 11/04/2024 - 12/20/2024

@@ -1,0 +1,150 @@
+---LocalPlayer---
+
+simtt
+C0MMAND
+Quin0404
+michael202325
+Tigirl47
+sabafa2315
+---B---
+sacchan310
+Creamson
+chileth
+troe665
+
+- Reputations:
+
+simtt - 97%
+C0MMAND - 100%
+Quin0404 - 100%
+michael202325 - 100%
+Tigirl47 - 100%
+sabafa2315 - 100%
+---B--- - 100%
+sacchan310 - 100%
+Creamson - 97%
+chileth - 95%
+troe665 - 98%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=95664506
+https://boardgamearena.com/player?id=94954976
+https://boardgamearena.com/player?id=94534363
+https://boardgamearena.com/player?id=95581427
+https://boardgamearena.com/player?id=96401007
+https://boardgamearena.com/player?id=85774525
+https://boardgamearena.com/player?id=86445514
+https://boardgamearena.com/player?id=91565252
+https://boardgamearena.com/player?id=91646324
+https://boardgamearena.com/player?id=94080189
+
+---Origin---
+
+Thailand
+Singapore
+Japan
+China
+Japan
+China
+Australia
+Japan
+Singapore
+Thailand
+Kazakhstan
+
+---Language---
+
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+English, 中文 (漢), 中文 (汉)
+日本語
+English, 中文 (汉)
+English, 日本語
+中文 (汉)
+English
+English, 日本語
+English
+ไทย
+Русский язык
+
+
+- Origins of players:
+
+United States of America    21%
+France                      17%
+Germany                     14%
+Japan                        4%
+Canada                       3%
+Italy                        3%
+Thailand                     3%
+Singapore                    3%
+Russia                       3%
+China                        3%
+Netherlands                  3%
+Belgium                      3%
+Czechia                      3%
+Austria                      1%
+Kazakhstan                   1%
+Belarus                      1%
+Poland                       1%
+Estonia                      1%
+Spain                        1%
+Sweden                       1%
+United Kingdom               1%
+Australia                    1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+184/263/341
+
+---BlackList---
+
+Kelber
+TrudyIJ
+hotcoco_iorek
+ilyalaptev2009
+venzam
+venzam
+Kelber
+Tostaky16
+Nihmue000
+Sommer Dusk of Roses
+venzam
+ThoBad11
+ThoBad11
+Tostaky16
+BMurphy
+venzam
+Fanto1819
+KatDic
+Cmbfam
+ikonoclasm
+kleiner König
+Aetius21
+teertu
+Fanto1819
+Rubinea
+Aetius21
+ikonoclasm
+kleiner König
+teertu
+Fecki
+Aetius21
+ikonoclasm
+sesselfussel
+KatDic
+teertu
+Fanto1819
+ikonoclasm
+kleiner König
+Aetius21
+ikonoclasm
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.4249999999999998, 2.7, 5.0
