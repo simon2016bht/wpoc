@@ -7,7 +7,8 @@ layout: default
 ---
 
 ### Region standings
-🥇Spain(210) 🥈France(110) 🥉Netherlands(100) 🥉Ukraine(100) 🥉United States of America(100)
+🥇Spain(285) 🥈United States of America(210) 🥉Denmark(175)
+
 
 <p>&nbsp;</p>
 
@@ -19,6 +20,27 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 4](https://en.boardgamearena.com/tournament?id=342655)
+- Date: 12/30/2024 - 02/23/2025
+- Number of players: 64
+- Top origins of players: United States of America 20% France 9% Australia 9% Thailand 6% Germany 6%
+- Abandoned tables (reached duration limit): 17%
+- Cancelled tables (player left or got kicked): 16%
+- Q1/Q2/Q3 of player's Elo rating: 135/201/243
+- Q1/Q2/Q3 of table duration (days): 1.7/3.6/6.0
+- Winners(meta event points): smartin23(100); Pinar88(75); Delvro(50); TentacleKitty(50); Kirw(10); Dustin7564(10); chenxixiluo(10); mouseymouseymouse(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 4_Elo_20250223173758.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 4_Duration_20250223180811.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 - [Season 3](https://boardgamearena.com/tournament?id=320496)
 - Date: 10/28/2024 - 12/23/2024
 - Number of players: 72

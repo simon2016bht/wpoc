@@ -1,0 +1,247 @@
+---LocalPlayer---
+
+chenxixiluo
+Stitch_ohana
+ScreenShot
+subbu05
+Strauss21
+mmac753
+simtt
+dreemahn
+JWitness
+fczzsc
+cherish0102
+katrina1232
+UBIT2011
+e920528
+windie_terry
+Fyyto
+5murf
+sevinaus
+DrewJCooper
+doowhadoo
+jamie4815
+Da Pyrate
+Creamson
+heeee_gaeng
+
+- Reputations:
+
+chenxixiluo - 100%
+Stitch_ohana - 100%
+ScreenShot - 100%
+subbu05 - 88%
+Strauss21 - 100%
+mmac753 - 100%
+simtt - 94%
+dreemahn - 100%
+JWitness - 100%
+fczzsc - 92%
+cherish0102 - 99%
+katrina1232 - 100%
+UBIT2011 - 100%
+e920528 - 100%
+st60926 - 80%
+windie_terry - 100%
+Fyyto - 93%
+5murf - 100%
+sevinaus - 100%
+DrewJCooper - 100%
+doowhadoo - 100%
+jamie4815 - 94%
+Da Pyrate - 100%
+Creamson - 97%
+heeee_gaeng - 100%
+
+
+---link of user page---
+
+https://en.boardgamearena.com/player?id=94867709
+https://en.boardgamearena.com/player?id=95753657
+https://en.boardgamearena.com/player?id=94890234
+https://en.boardgamearena.com/player?id=94945316
+https://en.boardgamearena.com/player?id=95025501
+https://en.boardgamearena.com/player?id=94405277
+https://en.boardgamearena.com/player?id=95235509
+https://en.boardgamearena.com/player?id=95325815
+https://en.boardgamearena.com/player?id=95573238
+https://en.boardgamearena.com/player?id=95863413
+https://en.boardgamearena.com/player?id=96219827
+https://en.boardgamearena.com/player?id=96344161
+https://en.boardgamearena.com/player?id=96380591
+https://en.boardgamearena.com/player?id=84231214
+https://en.boardgamearena.com/player?id=84279204
+https://en.boardgamearena.com/player?id=84800551
+https://en.boardgamearena.com/player?id=85238494
+https://en.boardgamearena.com/player?id=85362252
+https://en.boardgamearena.com/player?id=85962540
+https://en.boardgamearena.com/player?id=86250702
+https://en.boardgamearena.com/player?id=88202849
+https://en.boardgamearena.com/player?id=89973026
+https://en.boardgamearena.com/player?id=91182357
+https://en.boardgamearena.com/player?id=91565252
+https://en.boardgamearena.com/player?id=91583601
+
+---Origin---
+
+China
+Australia
+Thailand
+India
+Hong Kong
+Japan
+Thailand
+New Zealand
+Australia
+Thailand
+South Korea
+New Zealand
+Japan
+Taiwan
+Taiwan
+Hong Kong
+Australia
+Australia
+Australia
+Australia
+Thailand
+New Zealand
+Indonesia
+Singapore
+South Korea
+
+---Language---
+
+中文 (汉)
+English
+English, ไทย
+English, தமிழ்
+中文 (漢)
+日本語
+English, 日本語, ไทย, 中文 (漢), 中文 (汉)
+English
+English
+English
+한국어
+English
+日本語
+中文 (漢)
+English, 中文 (漢)
+English, 日本語, 中文 (漢)
+English
+English
+English
+English
+English, ไทย
+English
+English
+English
+한국어
+
+
+- Origins of players:
+
+United States of America       20%
+France                          9%
+Australia                       9%
+Thailand                        6%
+Germany                         6%
+Russia                          4%
+New Zealand                     4%
+Japan                           3%
+Czechia                         3%
+Taiwan                          3%
+Spain                           3%
+South Korea                     3%
+Italy                           3%
+Brazil                          3%
+Hong Kong                       3%
+Indonesia                       1%
+Portugal                        1%
+India                           1%
+Singapore                       1%
+Canada                          1%
+Falkland Islands (Malvinas)     1%
+Denmark                         1%
+United Kingdom                  1%
+China                           1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+135/201/243
+
+---BlackList---
+
+wineguy77654
+subbu05
+scarlettb
+mmac753
+JustbePro
+Carlitafere
+Ilrugge
+scarlettb
+subbu05
+JustbePro
+Ilrugge
+mmac753
+kung fu pandours
+scarlettb
+subbu05
+Stitch_ohana
+kung fu pandours
+mmac753
+JustbePro
+scarlettb
+JustbePro
+wineguy77654
+subbu05
+scarlettb
+Mag_gie
+Ilrugge
+kung fu pandours
+subbu05
+JustbePro
+scarlettb
+ggg_igante
+Drititinha
+UBIT2011
+MomPurtell
+aripua_pb
+Scarlet 93
+ScreenShot
+heeee_gaeng
+ggg_igante
+aripua_pb
+jamie4815
+spyfall23
+Fyyto
+heeee_gaeng
+UBIT2011
+aripua_pb
+jamie4815
+Pinar88
+Scarlet 93
+spyfall23
+Fyyto
+MomPurtell
+aripua_pb
+heeee_gaeng
+GroZours
+Drititinha
+Fyyto
+UBIT2011
+aripua_pb
+GroZours
+st60926
+MomPurtell
+spyfall23
+GStubbs24
+aripua_pb
+mouseymouseymouse
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.7, 3.6, 6.0
