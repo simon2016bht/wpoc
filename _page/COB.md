@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇China(350) 🥈United States of America(120) 🥉France(50) 🥉Poland(50)
+🥇China(475) 🥈United States of America(180) 🥉Japan(110)
 
 
 <p>&nbsp;</p>
@@ -22,6 +22,26 @@ layout: default
 
 
 ### Tournament details
+- [Season 3](https://boardgamearena.com/tournament?id=344665)
+- Date: 01/13/2025 - 03/06/2025
+- Number of players: 88
+- Top origins of players: China 18% United States of America 12% France 10% Taiwan 6% Poland 5%
+- Abandoned tables (reached duration limit): 4%
+- Cancelled tables (player left or got kicked): 4%
+- Q1/Q2/Q3 of player's Elo rating: 217/287/392
+- Q1/Q2/Q3 of table duration (days): 1.5/2.6/4.0
+- Winners(meta event points): Hikaru Tsuchikawa(100); liuqa1232(75); Monkeys2048(50); HayateU3(50); GlenDavis22(10); bociek13(10); SmilingSimon(10); Powerhouse(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_The Castles of BurgundyWestern Pacific Ocean Cup • Season 3_Elo_20250308122444.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_The Castles of BurgundyWestern Pacific Ocean Cup • Season 3_Duration_20250308132913.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 - [Season 2](https://boardgamearena.com/tournament?id=331204)
 - Date: 11/11/2024 - 01/02/2025
