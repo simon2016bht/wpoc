@@ -1,0 +1,57 @@
+---LocalPlayer---
+
+0TaroTaro0
+twistedsciences86
+Volts210
+
+- Reputations:
+
+0TaroTaro0 - 100%
+twistedsciences86 - 100%
+Volts210 - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=96928615
+https://boardgamearena.com/player?id=96227094
+https://boardgamearena.com/player?id=95464374
+
+---Origin---
+
+Japan
+Australia
+China
+
+---Language---
+
+English, 日本語
+English
+English, 中文 (汉)
+
+
+- Origins of players:
+
+0                       
+Canada                      13%
+France                      13%
+Spain                       13%
+Czechia                     10%
+Germany                     10%
+Poland                       6%
+Russia                       6%
+Argentina                    3%
+Australia                    3%
+China                        3%
+Hungary                      3%
+Japan                        3%
+Peru                         3%
+Ukraine                      3%
+United States of America     3%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+139/221/292
