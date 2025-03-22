@@ -60,6 +60,7 @@ layout: default
 
 
 
+
 <p>&nbsp;</p>
 
 ### Player standings of all games

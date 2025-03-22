@@ -8,7 +8,8 @@ layout: default
 
 ### Region standings
 
-🥇Japan(215) 🥈Palau(200) 🥉Taiwan(170)
+🥇Japan(215) 🥈Palau(210) 🥉Argentina(210)
+
 
 <p>&nbsp;</p>
 
@@ -20,6 +21,29 @@ layout: default
 <p>&nbsp;</p>
 
 ### Tournament details
+
+
+- [Season 6](https://boardgamearena.com/tournament?id=352895)
+- Date: 02/03/2025 - 03/21/2025
+- Number of players: 88
+- Top origins of players: Japan 12% Russia 10% Taiwan 9% Argentina 5% Italy 4%
+- Abandoned tables (reached duration limit): 11%
+- Cancelled tables (player left or got kicked): 6%
+- Q1/Q2/Q3 of player's Elo rating: 234/364/486
+- Q1/Q2/Q3 of table duration (days): 1.4/2.6/5.0
+- Winners(meta event points): Adanlasheras(100); Ext4ur(75); webbi(50); amires21(50); chengfengtsai(10); Heinrich Shen(10); bart182(10); Carquinyolis(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 6_Elo_20250322193346.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_CarcassonneWestern Pacific Ocean Cup • Season 6_Duration_20250322200822.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
+
 
 - [Season 5](https://boardgamearena.com/tournament?id=331211)
 - Date: 12/02/2024 - 01/24/2025

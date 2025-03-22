@@ -1,0 +1,284 @@
+---LocalPlayer---
+
+chengfengtsai
+Heinrich Shen
+NZTawa56
+narelle_s
+CHIHIRO03
+simonrp
+adrianalex86
+Kuya Boards
+PushkinBLR
+Ezekiel85
+HaruKuma
+yuchi1218
+frogman88
+marusingfire
+PeterRabbit
+craig_shoji
+Chris_TRAPS
+fuzisawa
+people66
+Allen5288
+nigirie
+crippler
+0607
+portgard
+wildfighter
+ykit244
+wara a
+Grassmate
+Mrwan1
+mitsuya_8974
+Klarikiwi
+nekoTencho
+deported
+
+- Reputations:
+
+chengfengtsai - 100%
+Heinrich Shen - 100%
+NZTawa56 - 100%
+narelle_s - 100%
+CHIHIRO03 - 100%
+simonrp - 100%
+adrianalex86 - 100%
+Kuya Boards - 99%
+PushkinBLR - 100%
+Ezekiel85 - 100%
+HaruKuma - 100%
+yuchi1218 - 100%
+frogman88 - 100%
+marusingfire - 100%
+PeterRabbit - 100%
+craig_shoji - 100%
+Chris_TRAPS - 100%
+fuzisawa - 100%
+people66 - 100%
+Allen5288 - 100%
+nigirie - 100%
+st60926 - 80%
+crippler - 100%
+0607 - 100%
+portgard - 100%
+wildfighter - 100%
+ykit244 - 100%
+wara a - 97%
+Grassmate - 100%
+Mrwan1 - 100%
+mitsuya_8974 - 100%
+Klarikiwi - 100%
+nekoTencho - 100%
+deported - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=87821537
+https://boardgamearena.com/player?id=87659725
+https://boardgamearena.com/player?id=93100272
+https://boardgamearena.com/player?id=94208106
+https://boardgamearena.com/player?id=93290927
+https://boardgamearena.com/player?id=93333405
+https://boardgamearena.com/player?id=92725714
+https://boardgamearena.com/player?id=92340868
+https://boardgamearena.com/player?id=91930519
+https://boardgamearena.com/player?id=91168364
+https://boardgamearena.com/player?id=28967743
+https://boardgamearena.com/player?id=96631685
+https://boardgamearena.com/player?id=96537342
+https://boardgamearena.com/player?id=94240965
+https://boardgamearena.com/player?id=84791748
+https://boardgamearena.com/player?id=85536907
+https://boardgamearena.com/player?id=85378606
+https://boardgamearena.com/player?id=85289074
+https://boardgamearena.com/player?id=85270972
+https://boardgamearena.com/player?id=84508254
+https://boardgamearena.com/player?id=84346952
+https://boardgamearena.com/player?id=84279204
+https://boardgamearena.com/player?id=84065868
+https://boardgamearena.com/player?id=83998002
+https://boardgamearena.com/player?id=83927465
+https://boardgamearena.com/player?id=30865651
+https://boardgamearena.com/player?id=90533550
+https://boardgamearena.com/player?id=89451467
+https://boardgamearena.com/player?id=88406417
+https://boardgamearena.com/player?id=88382620
+https://boardgamearena.com/player?id=90555873
+https://boardgamearena.com/player?id=87111029
+https://boardgamearena.com/player?id=86947719
+https://boardgamearena.com/player?id=86120726
+
+---Origin---
+
+Taiwan
+Taiwan
+New Zealand
+Australia
+Japan
+Australia
+Malaysia
+Philippines
+North Korea
+Australia
+South Korea
+Japan
+Japan
+Japan
+Hong Kong
+Japan
+Japan
+Japan
+Taiwan
+Taiwan
+Japan
+Taiwan
+Taiwan
+Taiwan
+Viet Nam
+Hong Kong
+Malaysia
+Japan
+Hong Kong
+Taiwan
+Japan
+New Zealand
+Japan
+Singapore
+
+---Language---
+
+中文 (漢)
+中文 (漢)
+English
+English
+日本語
+English
+English
+English
+беларуская мова, English, Русский язык
+English
+English, 日本語, 한국어
+日本語
+日本語
+日本語
+中文 (漢)
+English, 日本語
+日本語
+日本語
+Twi
+中文 (漢)
+English, 日本語
+English, 中文 (漢)
+English, 中文 (漢)
+English, 中文 (漢)
+English, Tiếng Việt
+English, 中文 (漢)
+English
+日本語
+中文 (漢)
+English, 中文 (漢)
+日本語
+English, Magyar
+日本語
+English
+
+
+- Origins of players:
+
+Japan                          12%
+Russia                         10%
+Taiwan                          9%
+Argentina                       5%
+Italy                           4%
+Spain                           3%
+Australia                       3%
+Germany                         3%
+Hong Kong                       3%
+Ukraine                         3%
+Chile                           3%
+France                          2%
+Greece                          2%
+Colombia                        2%
+Malaysia                        2%
+United States of America        2%
+New Zealand                     2%
+Brazil                          2%
+Belgium                         2%
+Romania                         2%
+Portugal                        1%
+Switzerland                     1%
+South Korea                     1%
+Singapore                       1%
+Netherlands                     1%
+Poland                          1%
+Pitcairn                        1%
+Philippines                     1%
+Palau                           1%
+North Korea                     1%
+Mexico                          1%
+Finland                         1%
+Falkland Islands (Malvinas)     1%
+Canada                          1%
+Viet Nam                        1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+234/364/486
+
+---BlackList---
+
+torenkraai
+st60926
+-RB-
+Nektarrr
+Lady Pendy
+st60926
+Grassmate
+annchaaa
+Trompowsky
+Erva Atol
+Nektarrr
+torenkraai
+Zoliszka
+-RB-
+st60926
+Trompowsky
+Grassmate
+annchaaa
+Erva Atol
+Nektarrr
+webbi
+st60926
+torenkraai
+annchaaa
+Nektarrr
+CHIHIRO03
+Trompowsky
+Erva Atol
+punkmonkac
+nekoTencho
+st60926
+Nektarrr
+Danelux68
+fernflower27
+molodoi64
+wildfighter
+DraconianKing
+crippler
+maticarrizoc
+fernflower27
+DraconianKing
+serafeimpl
+zeroduel
+El_Fernando
+mitsuya_8974
+Danelux68
+DraconianKing
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.4249999999999998, 2.55, 5.0
