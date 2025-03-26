@@ -8,7 +8,12 @@ layout: default
 
 
 ### Region standings
-🥇Japan(625) 🥈China(190) 🥉Hong Kong(175)
+
+
+🥇Japan(825) 🥈China(200) 🥉Hong Kong(175)
+
+
+
 <p>&nbsp;</p>
 
 
@@ -22,6 +27,26 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 5](https://en.boardgamearena.com/tournament?id=344680)
+- Date: 01/27/2025 - 03/15/2025
+- Number of players: 96
+- Top origins of players: Japan 10% Hong Kong 9% China 7% Poland 7% Taiwan 7%
+- Abandoned tables (reached duration limit): 12%
+- Cancelled tables (player left or got kicked): 6%
+- Q1/Q2/Q3 of player's Elo rating: 150/244/344
+- Q1/Q2/Q3 of table duration (days): 1.3/2.4/5.0
+- Winners(meta event points): Fonnonnn(100); LixiP(75); bousi(50); akkyu39(50); e920528(10); Takemehigher(10); pikaqiu10086(10); jphkjw(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 5_Elo_20250326090616.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 5_Duration_20250326094507.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
 
 - [Season 4](https://boardgamearena.com/tournament?id=331208)
 - Date: 11/25/2024 - 01/10/2025
