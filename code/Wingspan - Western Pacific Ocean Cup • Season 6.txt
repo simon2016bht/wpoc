@@ -1,0 +1,151 @@
+---LocalPlayer---
+
+VAB WRX
+D-DLee
+Dads MG
+Coglistro
+twistedsciences86
+wolf_naga
+kakyou1
+Silent_Songs
+saizon
+
+- Reputations:
+
+VAB WRX - 100%
+D-DLee - 100%
+YoEyeNga - 59%
+Dads MG - 100%
+Coglistro - 100%
+twistedsciences86 - 100%
+Caera - 56%
+wolf_naga - 100%
+kakyou1 - 100%
+Silent_Songs - 100%
+saizon - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=94352586
+https://boardgamearena.com/player?id=96621923
+https://boardgamearena.com/player?id=96269816
+https://boardgamearena.com/player?id=96248963
+https://boardgamearena.com/player?id=96227094
+https://boardgamearena.com/player?id=85125657
+https://boardgamearena.com/player?id=87757763
+https://boardgamearena.com/player?id=83869954
+https://boardgamearena.com/player?id=93203893
+https://boardgamearena.com/player?id=91376048
+
+---Origin---
+
+Japan
+China
+Thailand
+Australia
+Australia
+Australia
+Taiwan
+Japan
+South Korea
+China
+Japan
+
+---Language---
+
+日本語
+中文 (汉)
+English, ไทย
+English
+English
+English
+English
+日本語
+English, 日本語
+English, 中文 (漢), 中文 (汉)
+English, 日本語
+
+
+- Origins of players:
+
+United States of America    27%
+Germany                     11%
+United Kingdom               6%
+Ukraine                      5%
+Belgium                      4%
+France                       4%
+Russia                       3%
+Australia                    3%
+Japan                        3%
+Netherlands                  3%
+Canada                       3%
+Brazil                       3%
+Poland                       2%
+China                        2%
+Spain                        2%
+Denmark                      1%
+Latvia                       1%
+Mexico                       1%
+Colombia                     1%
+Portugal                     1%
+Romania                      1%
+South Korea                  1%
+Sweden                       1%
+Taiwan                       1%
+Thailand                     1%
+Antarctica                   1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+140/229/360
+
+---BlackList---
+
+Cstcstcst
+Caleb Leung
+WittyName
+BurdKang
+narkusmaslund
+Cstcstcst
+HickoryHamHank
+twistedsciences86
+ShadOwl72
+FaroInDisguise
+BurdKang
+Kagelia
+HickoryHamHank
+Coglistro
+Caera
+FaroInDisguise
+RedBamboo
+Kagelia
+HickoryHamHank
+1968nico
+brionysmith
+BurdKang
+Caera
+1968nico
+Kagelia
+HickoryHamHank
+Quickthinker
+Dads MG
+Quickthinker
+NaLo13
+jsantillansa
+Emmap05
+bigt_420
+Treysland
+Emmap05
+Mokakami
+Emmap05
+YoEyeNga
+Emmap05
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.4, 2.6, 4.0

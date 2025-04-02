@@ -6,7 +6,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Australia(370) 🥈United States of America(220) 🥉France(185)
+🥇Australia(370) 🥈United States of America(320) 🥉Germany(210)
 
 
 <p>&nbsp;</p>
@@ -18,6 +18,27 @@ layout: default
 <p>&nbsp;</p>
 
 ### Tournament details
+
+- [Season 6](https://boardgamearena.com/tournament?id=352899)
+- Date: 02/10/2025 - 04/01/2025
+- Number of players: 88
+- Top origins of players: United States of America 27% Germany 11% United Kingdom 6% Ukraine 5% Belgium 4%
+- Abandoned tables (reached duration limit): 10%
+- Cancelled tables (player left or got kicked): 4%
+- Q1/Q2/Q3 of player's Elo rating: 140/229/360
+- Q1/Q2/Q3 of table duration (days): 1.4/2.6/4.0
+- Winners(meta event points): play4fun71139(100); Vincent434(75); cmatt88(50); alejandro_sugar(50); Oleksiipol(10); ReeG0dlevska(10); piqui(10); Gugson(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 6_Elo_20250402112008.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_WingspanWestern Pacific Ocean Cup • Season 6_Duration_20250402115348.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 - [Season 5](https://boardgamearena.com/tournament?id=331214)
 - Date: 12/09/2024 - 01/24/2025
