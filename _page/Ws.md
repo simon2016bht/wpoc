@@ -40,7 +40,7 @@ layout: default
 
 
 
-- [Season 5](https://boardgamearena.com/tournament?id=331214)
+#### [Season 5](https://boardgamearena.com/tournament?id=331214)
 - Date: 12/09/2024 - 01/24/2025
 - Number of players: 88
 - Top origins of players: United States of America 18% Japan 10% Thailand 6% France 5% United Kingdom 5%
