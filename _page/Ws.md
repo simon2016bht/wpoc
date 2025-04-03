@@ -19,7 +19,7 @@ layout: default
 
 ### Tournament details
 
-- [Season 6](https://boardgamearena.com/tournament?id=352899)
+### [Season 6](https://boardgamearena.com/tournament?id=352899)
 - Date: 02/10/2025 - 04/01/2025
 - Number of players: 88
 - Top origins of players: United States of America 27% Germany 11% United Kingdom 6% Ukraine 5% Belgium 4%
