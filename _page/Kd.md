@@ -23,7 +23,7 @@ layout: default
 
 ### Tournament details
 
-- [Season 5](https://boardgamearena.com/tournament?id=342646)
+#### [Season 5](https://boardgamearena.com/tournament?id=342646)
 - Date: 12/16/2024 - 02/03/2025
 - Number of players: 88
 - Top origins of players: France 14% United States of America 7% Poland 7%
@@ -43,7 +43,7 @@ layout: default
 
 
 
-- [Season 4](https://boardgamearena.com/tournament?id=320487)
+#### [Season 4](https://boardgamearena.com/tournament?id=320487)
 - Date: 10/14/2024 - 12/01/2024
 - Number of players: 80
 - Top origins of players: France 15% United States of America 10% Poland 6% Czechia 6% 
@@ -62,7 +62,7 @@ layout: default
 <p>&nbsp;</p>
 
 
-- [Season 3](https://boardgamearena.com/tournament?id=311714)
+#### [Season 3](https://boardgamearena.com/tournament?id=311714)
 - Date: 08/12/2024 - 10/02/2024
 - Number of players: 72
 - Top origins of players: France 16% Poland 11% United States of America 8% Australia 8% 
@@ -81,7 +81,7 @@ layout: default
 <p>&nbsp;</p>
 
 
-- [Season 2](https://boardgamearena.com/tournament?id=298135)
+#### [Season 2](https://boardgamearena.com/tournament?id=298135)
 - Date: 06/24/2024 - 08/01/2024
 - Number of players: 64
 - Top origins of players: Poland 10% France 10% United States of America 7% Russia 7% Italy 7%
@@ -102,7 +102,7 @@ layout: default
 
 
 
-- [Season 1](https://boardgamearena.com/tournament?id=284814)
+#### [Season 1](https://boardgamearena.com/tournament?id=284814)
 - Date: 05/06/2024 - 06/06/2024
 - Number of players: 64
 - Top origins of players: France 18% USA 7% Australia 6% Japan 6%

@@ -23,7 +23,7 @@ layout: default
 ### Tournament details
 
 
-- [Season 6](https://boardgamearena.com/tournament?id=352895)
+#### [Season 6](https://boardgamearena.com/tournament?id=352895)
 - Date: 02/03/2025 - 03/21/2025
 - Number of players: 88
 - Top origins of players: Japan 12% Russia 10% Taiwan 9% Argentina 5% Italy 4%
@@ -45,7 +45,7 @@ layout: default
 
 
 
-- [Season 5](https://boardgamearena.com/tournament?id=331211)
+#### [Season 5](https://boardgamearena.com/tournament?id=331211)
 - Date: 12/02/2024 - 01/24/2025
 - Number of players: 88
 - Top origins of players: Japan 14% Taiwan 7% Argentina 5% Spain 5% France 5%
@@ -66,7 +66,7 @@ layout: default
 
 
 
-- [Season 4](https://boardgamearena.com/tournament?id=320480)
+#### [Season 4](https://boardgamearena.com/tournament?id=320480)
 - Date: 09/30/2024 - 11/17/2024
 - Number of players: 80
 - Top origins of players: Japan 11% Russia 11% Australia 7% France 7%
@@ -87,7 +87,7 @@ layout: default
 
 
 
-- [Season 3](https://boardgamearena.com/tournament?id=310296)
+#### [Season 3](https://boardgamearena.com/tournament?id=310296)
 - Date: 07/29/2024 - 09/19/2024
 - Number of players: 70
 - Top origins of players: Japan 17% Taiwan 8% Australia 7% Czechia 7% 
@@ -107,7 +107,7 @@ layout: default
 
 
 
-- [Season 2](https://boardgamearena.com/tournament?id=297014)
+#### [Season 2](https://boardgamearena.com/tournament?id=297014)
 - Date: 06/10/2024 - 07/26/2024
 - Number of players: 64
 - Top origins of players: Spain 12% Japan 9% Australia 7% Ukraine 7%
@@ -128,7 +128,7 @@ layout: default
 
 
 
-- [Season 1](https://boardgamearena.com/tournament?id=282971)
+#### [Season 1](https://boardgamearena.com/tournament?id=282971)
 - Date: 04/22/2024 - 06/02/2024
 - Number of players: 64
 - Top origins of players: Spain 10% Japan 9% Poland 9% Australia 7% 

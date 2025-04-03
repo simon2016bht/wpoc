@@ -21,7 +21,7 @@ layout: default
 
 ### Tournament details
 
-- [Season 4](https://en.boardgamearena.com/tournament?id=342655)
+#### [Season 4](https://en.boardgamearena.com/tournament?id=342655)
 - Date: 12/30/2024 - 02/23/2025
 - Number of players: 64
 - Top origins of players: United States of America 20% France 9% Australia 9% Thailand 6% Germany 6%
@@ -41,7 +41,7 @@ layout: default
 
 
 
-- [Season 3](https://boardgamearena.com/tournament?id=320496)
+#### [Season 3](https://boardgamearena.com/tournament?id=320496)
 - Date: 10/28/2024 - 12/23/2024
 - Number of players: 72
 - Top origins of players: Australia 13% United States of America 11% France 11% 
@@ -62,7 +62,7 @@ layout: default
 
 
 
-- [Season 2](https://boardgamearena.com/tournament?id=314578)
+#### [Season 2](https://boardgamearena.com/tournament?id=314578)
 - Date: 08/19/2024 - 10/03/2024
 - Number of players: 72
 - Top origins of players: United States of America 13% Australia 9% France 9% Thailand 5% Hong Kong 5%
@@ -83,7 +83,7 @@ layout: default
 
 
 
-- [Season 1](https://boardgamearena.com/tournament?id=303099)
+#### [Season 1](https://boardgamearena.com/tournament?id=303099)
 - Date: 07/01/2024 - 08/16/2024
 - Number of players: 63
 - Top origins of players: Australia 12% Hong Kong 9% United States of America 7% Thailand 6% France 6%
