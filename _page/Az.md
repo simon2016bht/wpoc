@@ -34,10 +34,10 @@ layout: default
 - Winners(meta event points): manish81(100); Mysterious Gatsby(75); ludi13090(50); MayMay0000(50); Woffth(10); jsantillansa(10); NefariousBot(10); pikaqiu10086(10)
 
 <div>
- <img src="/wpoc/assets/images/tournament/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Elo_20250411143710.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Elo_20250411143710.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
 </div>
 <div>
- <img src="/wpoc/assets/images/tournament/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Duration_20250411153511.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+ <img src="/wpoc/assets/images/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Duration_20250411153511.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
 </div>
 <p>&nbsp;</p>
 
