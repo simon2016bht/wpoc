@@ -8,9 +8,7 @@ layout: default
 
 
 ### Region standings
-🥇China(405) 🥈Holy See(300) 🥉Japan(230)
-
-
+🥇China(415) 🥈Holy See(375) 🥉Japan(230) 🥉France(230)
 
 <p>&nbsp;</p>
 
@@ -25,6 +23,26 @@ layout: default
 
 
 ### Tournament details
+- [Season 6](https://boardgamearena.com/tournament?id=352905)
+- Date: 02/24/2025 - 04/09/2025
+- Number of players: 88
+- Top origins of players: United States of America 17% France 11% Canada 9% United Kingdom 6% Germany 4%
+- Abandoned tables (reached duration limit): 5%
+- Cancelled tables (player left or got kicked): 3%
+- Q1/Q2/Q3 of player's Elo rating: 135/226/393
+- Q1/Q2/Q3 of table duration (days): 1.5/2.5/3.7
+- Winners(meta event points): manish81(100); Mysterious Gatsby(75); ludi13090(50); MayMay0000(50); Woffth(10); jsantillansa(10); NefariousBot(10); pikaqiu10086(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Elo_20250411143710.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/tournament/t_AzulWestern Pacific Ocean Cup • Season 6_Duration_20250411153511.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 #### [Season 5](https://boardgamearena.com/tournament?id=342650)
 - Date: 12/23/2024 - 02/14/2025
 - Number of players: 88

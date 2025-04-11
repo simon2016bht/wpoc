@@ -1,0 +1,140 @@
+---LocalPlayer---
+
+Woffth
+pikaqiu10086
+simtt
+korany
+ChaiAddict13inAu
+jez610
+DD1025
+CHathome
+Melisajane
+Ezekiel85
+muffinile
+
+- Reputations:
+
+Woffth - 100%
+pikaqiu10086 - 92%
+simtt - 100%
+korany - 100%
+ChaiAddict13inAu - 100%
+jez610 - 100%
+DD1025 - 100%
+CHathome - 100%
+Melisajane - 100%
+Ezekiel85 - 100%
+muffinile - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=2870728
+https://boardgamearena.com/player?id=96141851
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=94958239
+https://boardgamearena.com/player?id=96848138
+https://boardgamearena.com/player?id=96491511
+https://boardgamearena.com/player?id=84900282
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=94241028
+https://boardgamearena.com/player?id=91168364
+https://boardgamearena.com/player?id=90162723
+
+---Origin---
+
+Thailand
+China
+Thailand
+South Korea
+Australia
+China
+Taiwan
+China
+Australia
+Australia
+New Zealand
+
+---Language---
+
+English, ไทย
+中文 (漢)
+English, 中文 (漢), 中文 (汉)
+한국어
+English
+中文 (汉)
+中文 (漢)
+中文 (汉)
+English
+English
+English, Español, 中文 (漢)
+
+
+- Origins of players:
+
+United States of America    17%
+France                      11%
+Canada                       9%
+United Kingdom               6%
+Germany                      4%
+Spain                        4%
+Russia                       4%
+Switzerland                  3%
+Poland                       3%
+Australia                    3%
+China                        3%
+Czechia                      2%
+Brazil                       2%
+Thailand                     2%
+Italy                        2%
+Belgium                      2%
+Greece                       1%
+Taiwan                       1%
+Croatia                      1%
+South Korea                  1%
+San Marino                   1%
+French Guiana                1%
+Portugal                     1%
+Holy See                     1%
+Peru                         1%
+Norway                       1%
+New Zealand                  1%
+Netherlands                  1%
+Iran                         1%
+Hungary                      1%
+Mexico                       1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+135/226/393
+
+---BlackList---
+
+aryal59
+Evarita
+The Mom Twin
+Emalea03
+DebbMac
+GraniteFistmeat
+NanaB62
+pensive-squirrel817
+Emalea03
+Kat_Tastrophe23
+huwrees
+naferlu
+pensive-squirrel817
+Kat_Tastrophe23
+Evgenia_13
+pensive-squirrel817
+Bitzbabe
+naferlu
+Kat_Tastrophe23
+GraniteFistmeat
+pensive-squirrel817
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.5, 2.5, 3.7
