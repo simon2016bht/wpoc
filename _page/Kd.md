@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Poland(460) 🥈United States of America(285) 🥉France(205)
+🥇Poland(510) 🥈France(305) 🥉United States of America(285)
 
 
 <p>&nbsp;</p>
@@ -22,6 +22,27 @@ layout: default
 
 
 ### Tournament details
+
+- [Season 6](https://boardgamearena.com/tournament?id=352902)
+- Date: 02/17/2025 - 04/09/2025
+- Number of players: 88
+- Top origins of players: France 17% United States of America 9% Italy 9% Russia 7% Germany 5%
+- Abandoned tables (reached duration limit): 0%
+- Cancelled tables (player left or got kicked): 0%
+- Q1/Q2/Q3 of player's Elo rating: 179/272/427
+- Q1/Q2/Q3 of table duration (days): 1.6/1.7/2.5
+- Winners(meta event points): JulYeah(100); nacsong99(75); Lord_Serek(50); Eddi-FC(50); Uekm-Rehksr7878(10); Jokkeboyz(10); kl_escape(10); Rubeus Fabian(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 6_Elo_20250411111558.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_KingdominoWestern Pacific Ocean Cup • Season 6_Duration_20250411113438.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 #### [Season 5](https://boardgamearena.com/tournament?id=342646)
 - Date: 12/16/2024 - 02/03/2025

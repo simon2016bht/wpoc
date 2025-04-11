@@ -129,17 +129,10 @@ def transparent_background(image_file):
            newData.append((255, 255, 255, 0))
        else:
           newData.append(item)
-    rgba.putdata(newData)
-    
-    # new_image_file = 't_' + image_file  
-    # new_image_file = '../assets/t_' + re.findall("assets/(.*)",image_file)[0]
-    # new_image_file = re.findall("(.*assets)/(.*)",image_file)[0][0] + \
-    # '/t_' + \
-    # re.findall("(.*assets)/(.*)",image_file)[0][1]
-    
-    new_image_file = re.findall("(.*images)/(.*)",image_file)[0][0] + \
+    rgba.putdata(newData)   
+    new_image_file = re.findall("(.*tournament)/(.*)",image_file)[0][0] + \
     '/t_' + \
-    re.findall("(.*images)/(.*)",image_file)[0][1]
+    re.findall("(.*tournament)/(.*)",image_file)[0][1]
     
     rgba.save(new_image_file, 'PNG')
     print('output:', new_image_file)
@@ -148,7 +141,6 @@ def transparent_background(image_file):
 
 def time_converstion(table_times):
     converted_table_times = []
-    # print(table_times[:4])
     for i in table_times:
         # print(i)
         if re.findall('days', i):
@@ -224,13 +216,10 @@ def PlayerRankingChart(GameName):
     selected_data["PlayerName.Upper"] = selected_data["PlayerName"].str.upper()
     selected_data = selected_data.sort_values(['MetaPoint', 'PlayerName.Upper'], ascending=[True,False])
     
-    
-    
     # Setup plot size.
     # fig, ax = plt.subplots()
     vertical_size = len(selected_data) / 3.5
     fig, ax = plt.subplots(figsize=(5,vertical_size))
-    
 
     # Create grid
     # Zorder tells it which layer to put it on. We are setting this to 1 and our data to 2 so the grid is behind the data.
