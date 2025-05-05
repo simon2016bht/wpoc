@@ -5,7 +5,7 @@ layout: default
 ---
 
 ### Region standings
-🥇France(295) 🥈United States of America(250) 🥉Sweden(175)
+🥇France(430) 🥈Sweden(275) 🥉United States of America(250)
 
 
 <p>&nbsp;</p>
@@ -18,6 +18,24 @@ layout: default
 
 
 ### Tournament details
+#### [Season 5](https://boardgamearena.com/tournament?id=352933)
+- Date: 03/10/2025 - 04/30/2025
+- Number of players: 64
+- Top origins of players: France 15% Germany 14% United States of America 10% China 9% Russia 7%
+- Abandoned tables (reached duration limit): 24%
+- Cancelled tables (player left or got kicked): 12%
+- Q1/Q2/Q3 of player's Elo rating: 207/310/374
+- Q1/Q2/Q3 of table duration (days): 1.4/3.6/7.0
+- Winners(meta event points): StArvid(100); TumTum19(75); Llorent(50); sentimental1spica(50); FaeNena(10); RalfZ(10); ilyalaptev2009(10); Alden88(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 5_Elo_20250505164424.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Forest ShuffleWestern Pacific Ocean Cup • Season 5_Duration_20250505203735.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
 #### [Season 4](https://boardgamearena.com/tournament?id=342658)
 - Date: 01/06/2025 - 02/23/2025
 - Number of players: 64

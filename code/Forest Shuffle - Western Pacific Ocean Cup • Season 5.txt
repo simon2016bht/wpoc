@@ -1,0 +1,183 @@
+---LocalPlayer---
+
+sentimental1spica
+RalfZ
+Alden88
+RonnieMcDronnie
+simtt
+mmry1128
+sabafa2315
+rainyfirefly
+Ray116
+Opanpansan
+
+- Reputations:
+
+sentimental1spica - 100%
+RalfZ - 99%
+Alden88 - 100%
+xiaowangwang - 34%
+RonnieMcDronnie - 100%
+simtt - 100%
+mmry1128 - 85%
+sabafa2315 - 100%
+rainyfirefly - 85%
+Ray116 - 100%
+Opanpansan - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=96717433
+https://boardgamearena.com/player?id=84199044
+https://boardgamearena.com/player?id=95689907
+https://boardgamearena.com/player?id=95881669
+https://boardgamearena.com/player?id=95249224
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=96227419
+https://boardgamearena.com/player?id=96401007
+https://boardgamearena.com/player?id=96735819
+https://boardgamearena.com/player?id=91220499
+https://boardgamearena.com/player?id=94178392
+
+---Origin---
+
+China
+China
+Malaysia
+China
+Australia
+Thailand
+China
+China
+China
+Taiwan
+Japan
+
+---Language---
+
+中文 (汉)
+English, 中文 (漢)
+English, 中文 (汉)
+
+Afrikaans, English
+English, 中文 (漢), 中文 (汉)
+中文 (汉)
+中文 (汉)
+中文 (汉)
+中文 (漢)
+English, 日本語
+
+
+- Origins of players:
+
+France                      15%
+Germany                     14%
+United States of America    10%
+China                        9%
+Russia                       7%
+Belgium                      4%
+Canada                       3%
+Czechia                      3%
+Spain                        3%
+Netherlands                  3%
+Romania                      1%
+United Kingdom               1%
+Türkiye                      1%
+Thailand                     1%
+Taiwan                       1%
+Sweden                       1%
+Australia                    1%
+Poland                       1%
+Malaysia                     1%
+Japan                        1%
+Italy                        1%
+Iran                         1%
+Denmark                      1%
+Bulgaria                     1%
+Bosnia and Herzegovina       1%
+Lithuania                    1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+207/310/374
+
+---BlackList---
+
+venzam
+muggel_b
+TrudyIJ
+Cemelo
+Hope3006
+Fanto1819
+Albion_Shadow
+goughfy
+Fanto1819
+TrudyIJ
+venzam
+bast78
+Hansi Schnoor
+Albion_Shadow
+Fanto1819
+TrudyIJ
+Jason is a Noob
+venzam
+mmry1128
+Steinilein
+Albion_Shadow
+TrudyIJ
+Cemelo
+bast78
+Steinilein
+Jason is a Noob
+goughfy
+Albion_Shadow
+geepol
+TrudyIJ
+Orimonk
+Alina2022
+Lantaarn
+fonteintje
+Elena_24
+FaeRowan
+ThoBad11
+Takashi84
+Emirhan Boya
+Voight
+fonteintje
+FaeRowan
+ThoBad11
+Alina2022
+kleiner König
+lostmycookie
+cwt3
+fonteintje
+Alina2022
+ilyalaptev2009
+Takashi84
+Elena_24
+wiseangel2001
+FaeRowan
+cwt3
+Alina2022
+Emirhan Boya
+rainyfirefly
+kleiner König
+Takashi84
+ThoBad11
+lostmycookie
+fonteintje
+Alina2022
+sabafa2315
+rainyfirefly
+kleiner König
+Emirhan Boya
+fonteintje
+Alina2022
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.4, 3.6500000000000004, 7.0
