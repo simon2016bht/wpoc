@@ -56,8 +56,8 @@ layout: default
 
 
 ### Region standings of all games 
-🥇Japan(1700) 🥈France(1390) 🥉United States of America(1335)
 
+🥇Japan(1700) 🥈United States of America(1570) 🥉France(1390)
 
 
 <p>&nbsp;</p>

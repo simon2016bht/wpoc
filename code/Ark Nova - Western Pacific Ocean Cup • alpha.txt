@@ -1,0 +1,118 @@
+---LocalPlayer---
+
+jolteon_sun
+ningning1031
+Xrashmy
+morsocute
+adx07
+simtt
+and1bro
+KingOfGames_GX
+anna12321
+BruceChen
+yhlhebe
+i am the gull
+FlameOfTheSouth
+
+- Reputations:
+
+jolteon_sun - 100%
+ningning1031 - 100%
+Xrashmy - 100%
+morsocute - 100%
+adx07 - 100%
+simtt - 100%
+and1bro - 100%
+KingOfGames_GX - 100%
+anna12321 - 100%
+BruceChen - 100%
+yhlhebe - 92%
+i am the gull - 100%
+FlameOfTheSouth - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95597255
+https://boardgamearena.com/player?id=95424549
+https://boardgamearena.com/player?id=96397222
+https://boardgamearena.com/player?id=96882448
+https://boardgamearena.com/player?id=95535531
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=96469758
+https://boardgamearena.com/player?id=95664385
+https://boardgamearena.com/player?id=88626936
+https://boardgamearena.com/player?id=84311483
+https://boardgamearena.com/player?id=96424787
+https://boardgamearena.com/player?id=88432524
+https://boardgamearena.com/player?id=95232046
+
+---Origin---
+
+China
+China
+China
+China
+China
+Thailand
+China
+Australia
+Australia
+Taiwan
+China
+Australia
+Australia
+
+---Language---
+
+中文 (汉)
+中文 (汉)
+English, 中文 (汉)
+中文 (汉)
+中文 (汉)
+English, 中文 (漢), 中文 (汉)
+中文 (汉)
+English
+English
+中文 (漢), 中文 (汉)
+中文 (汉)
+English
+English
+
+
+- Origins of players:
+
+China                       21%
+United States of America    18%
+Australia                   12%
+Germany                      6%
+Russia                       6%
+Spain                        6%
+United Kingdom               6%
+Antarctica                   3%
+Bonaire                      3%
+Colombia                     3%
+France                       3%
+Hungary                      3%
+Taiwan                       3%
+Thailand                     3%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+142/218/288
+
+---BlackList---
+
+Xrashmy
+Dannyelf
+DrPhil19
+vlaprohor
+Dannyelf
+damjuf18
+
+-----
+Q1/Q2/Q3 quantile of time: 
+2.5, 3.6, 5.0

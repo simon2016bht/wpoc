@@ -1,0 +1,117 @@
+---LocalPlayer---
+
+aiber
+simtt
+tourya
+RENTA12
+twistedsciences86
+nondead
+borini81
+Volts210
+
+- Reputations:
+
+aiber - 100%
+simtt - 100%
+tourya - 100%
+RENTA12 - 100%
+twistedsciences86 - 100%
+nondead - 100%
+borini81 - 100%
+Volts210 - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=93263914
+https://boardgamearena.com/player?id=95235509
+https://boardgamearena.com/player?id=95215044
+https://boardgamearena.com/player?id=96214736
+https://boardgamearena.com/player?id=96227094
+https://boardgamearena.com/player?id=94337858
+https://boardgamearena.com/player?id=93053394
+https://boardgamearena.com/player?id=95464374
+
+---Origin---
+
+Japan
+Thailand
+Japan
+Japan
+Australia
+Kazakhstan
+South Korea
+China
+
+---Language---
+
+English, 日本語
+English, 中文 (漢), 中文 (汉)
+日本語
+日本語
+English
+Русский язык
+한국어
+English, 中文 (汉)
+
+
+- Origins of players:
+
+United States of America    12%
+Germany                      9%
+Spain                        9%
+Hungary                      9%
+Japan                        9%
+Czechia                      6%
+Belgium                      6%
+Poland                       6%
+Canada                       6%
+France                       3%
+China                        3%
+Kazakhstan                   3%
+Netherlands                  3%
+Russia                       3%
+South Korea                  3%
+Thailand                     3%
+Australia                    3%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+204/262/313
+
+---BlackList---
+
+MichielM1993
+BFK763
+blinder11
+DanielausDZ
+DRELICH
+Sz0lt4n
+FarangCZ
+blinder11
+DanielausDZ
+Sz0lt4n
+Ashe8
+Salt_Archer
+blinder11
+MichielM1993
+DRELICH
+DanielausDZ
+Sz0lt4n
+FarangCZ
+blinder11
+tourya
+JustinVanB
+Waylin11
+borini81
+FarangCZ
+Sz0lt4n
+MichielM1993
+blinder11
+
+-----
+Q1/Q2/Q3 quantile of time: 
+2.65, 5.0, 7.0

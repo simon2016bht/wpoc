@@ -1,0 +1,116 @@
+---LocalPlayer---
+
+e920528
+fczzsc
+dreemahn
+
+- Reputations:
+
+e920528 - 100%
+fczzsc - 96%
+dreemahn - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=84231214
+https://boardgamearena.com/player?id=95863413
+https://boardgamearena.com/player?id=95325815
+
+---Origin---
+
+Taiwan
+Thailand
+New Zealand
+
+---Language---
+
+中文 (漢)
+English
+English
+
+
+- Origins of players:
+
+United States of America       19%
+France                         19%
+Poland                          7%
+Germany                         7%
+Canada                          4%
+United Kingdom                  4%
+Spain                           4%
+Portugal                        4%
+Greece                          3%
+Thailand                        1%
+Taiwan                          1%
+Switzerland                     1%
+San Marino                      1%
+Russia                          1%
+Argentina                       1%
+New Zealand                     1%
+Bulgaria                        1%
+Lithuania                       1%
+Italy                           1%
+Hungary                         1%
+Falkland Islands (Malvinas)     1%
+Czechia                         1%
+Curaçao                         1%
+Mexico                          1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+128/196/276
+
+---BlackList---
+
+Elasiss
+pygalle
+Rubinea
+Joyeous
+LineM88
+elg76
+pygalle
+kozzochka
+Elasiss
+pygalle
+MotoKüken
+Nostrike
+Elasiss
+pygalle
+kozzochka
+Unagi8
+LineM88
+Elasiss
+MotoKüken
+pygalle
+Elasiss
+miss221
+BHB87
+ciongolid
+VeCha13
+cheelo27
+charlieshuman
+VeCha13
+almclark
+charlieshuman
+VeCha13
+Xis06
+Greensky09
+NanaB62
+charlieshuman
+cheelo27
+chloécaca
+Xis06
+YannisKef
+Greensky09
+VeCha13
+cheelo27
+Xis06
+gagatek13
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.4, 3.7, 6.0

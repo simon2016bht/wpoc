@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇Spain(285) 🥈United States of America(210) 🥉Denmark(175)
+🥇United States of America(445) 🥈Spain(285) 🥉Denmark(175)
 
 
 <p>&nbsp;</p>
@@ -20,6 +20,25 @@ layout: default
 
 
 ### Tournament details
+#### [Season 5](https://boardgamearena.com/tournament?id=352908)
+- Date: 03/03/2025 - 04/28/2025
+- Number of players: 64
+- Top origins of players: United States of America 19% France 19% Poland 7% Germany 7% Canada 4%
+- Abandoned tables (reached duration limit): 16%
+- Cancelled tables (player left or got kicked): 7%
+- Q1/Q2/Q3 of player's Elo rating: 128/196/276
+- Q1/Q2/Q3 of table duration (days): 1.4/3.7/6.0
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 5_Elo_20250505160139.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_Ticket to RideWestern Pacific Ocean Cup • Season 5_Duration_20250505162554.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 #### [Season 4](https://en.boardgamearena.com/tournament?id=342655)
 - Date: 12/30/2024 - 02/23/2025
