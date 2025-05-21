@@ -1,0 +1,149 @@
+---LocalPlayer---
+
+selinabox
+odengamermee
+Bakkomi
+xsheng
+tmjenkins1
+Kithira
+Yeibus
+epton-epton
+violetxc
+kakyou1
+Horo_Pauleta
+wd77222
+bennerzzz
+kingdracometeor
+
+- Reputations:
+
+selinabox - 100%
+odengamermee - 100%
+Bakkomi - 96%
+xsheng - 100%
+tmjenkins1 - 100%
+Kithira - 100%
+Yeibus - 89%
+epton-epton - 100%
+violetxc - 100%
+kakyou1 - 100%
+Horo_Pauleta - 100%
+wd77222 - 100%
+bennerzzz - 100%
+kingdracometeor - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=94747933
+https://boardgamearena.com/player?id=94579348
+https://boardgamearena.com/player?id=95246396
+https://boardgamearena.com/player?id=93954220
+https://boardgamearena.com/player?id=88478262
+https://boardgamearena.com/player?id=85369864
+https://boardgamearena.com/player?id=88567122
+https://boardgamearena.com/player?id=84373660
+https://boardgamearena.com/player?id=83889611
+https://boardgamearena.com/player?id=83869954
+https://boardgamearena.com/player?id=93772486
+https://boardgamearena.com/player?id=6847728
+https://boardgamearena.com/player?id=91610859
+https://boardgamearena.com/player?id=93867360
+
+---Origin---
+
+Hong Kong
+Japan
+South Korea
+China
+Hong Kong
+China
+South Korea
+Taiwan
+South Korea
+South Korea
+Taiwan
+China
+New Zealand
+New Zealand
+
+---Language---
+
+English
+日本語
+한국어, Русский язык
+中文 (汉)
+English, 中文 (漢)
+中文 (汉)
+English
+中文 (漢)
+English, 日本語
+English
+English
+中文 (汉)
+English
+English, Español, 中文 (漢)
+
+
+- Origins of players:
+
+United States of America    18%
+Russia                      10%
+France                       8%
+Spain                        8%
+Canada                       6%
+Germany                      6%
+Poland                       5%
+South Korea                  4%
+United Kingdom               4%
+China                        3%
+Hong Kong                    2%
+Taiwan                       2%
+Belgium                      2%
+New Zealand                  2%
+Ukraine                      1%
+Sweden                       1%
+United Arab Emirates         1%
+Belarus                      1%
+Slovakia                     1%
+Latvia                       1%
+Japan                        1%
+Italy                        1%
+Hungary                      1%
+Brazil                       1%
+Montserrat                   1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+166/246/398
+
+---BlackList---
+
+Kro42
+wd77222
+Armada23
+Nai Wordwood
+hansGoris
+tmjenkins1
+Bozley47
+Encarnieff
+Fulvio77
+palerider11168
+Kro42
+tiennordaphne
+Chatelain
+RJamro15
+DovyKeuken159
+RJamro15
+Tatiana2011
+mayling
+Bakkomi
+SamuraiPhat
+cnll0075
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.6, 2.6, 4.0

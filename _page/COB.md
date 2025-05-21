@@ -7,7 +7,7 @@ layout: default
 ---
 
 ### Region standings
-🥇China(475) 🥈United States of America(180) 🥉Japan(110)
+🥇China(475) 🥈United States of America(200) 🥉Germany(110) 🥉Japan(110)
 
 
 <p>&nbsp;</p>
@@ -22,6 +22,26 @@ layout: default
 
 
 ### Tournament details
+
+#### [Season 4](https://boardgamearena.com/tournament?id=352936)
+- Date: 03/17/2025 - 05/16/2025
+- Number of players: 87
+- Top origins of players: United States of America 18% Russia 10% France 8% Spain 8% Canada 6%
+- Abandoned tables (reached duration limit): 6%
+- Cancelled tables (player left or got kicked): 2%
+- Q1/Q2/Q3 of player's Elo rating: 166/246/398
+- Q1/Q2/Q3 of table duration (days): 1.6/2.6/4.0
+- Winners(meta event points): Wichtlmann(100); cnll0075(75); Galtana(10); mayling(10); Marc Sixste(10); Charmanda86(10);
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_The Castles of BurgundyWestern Pacific Ocean Cup • Season 4_Elo_20250521201229.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_The Castles of BurgundyWestern Pacific Ocean Cup • Season 4_Duration_20250521211057.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
 #### [Season 3](https://boardgamearena.com/tournament?id=344665)
 - Date: 01/13/2025 - 03/06/2025
 - Number of players: 88
