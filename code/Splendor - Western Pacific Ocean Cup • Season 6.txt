@@ -1,0 +1,221 @@
+---LocalPlayer---
+
+am_demonhunter
+JQE
+Kunijeel
+228930665
+Feisty Flamingo
+Alden88
+captain_RO
+ph1988
+VAB WRX
+ssunry
+PingPing_love
+GunRoseNight
+The72
+samikipen
+heyvan2024
+CHathome
+vishal41
+MIKIRERA
+anacodam
+muffinile
+
+- Reputations:
+
+am_demonhunter - 100%
+JQE - 100%
+Kunijeel - 100%
+228930665 - 100%
+Feisty Flamingo - 100%
+Alden88 - 100%
+captain_RO - 100%
+ph1988 - 100%
+VAB WRX - 100%
+ssunry - 92%
+PingPing_love - 92%
+GunRoseNight - 100%
+The72 - 100%
+samikipen - 100%
+heyvan2024 - 100%
+CHathome - 100%
+vishal41 - 100%
+MIKIRERA - 100%
+anacodam - 100%
+muffinile - 100%
+
+
+---link of user page---
+
+https://boardgamearena.com/player?id=95529385
+https://boardgamearena.com/player?id=17494295
+https://boardgamearena.com/player?id=96858177
+https://boardgamearena.com/player?id=97294476
+https://boardgamearena.com/player?id=97241758
+https://boardgamearena.com/player?id=95689907
+https://boardgamearena.com/player?id=95541268
+https://boardgamearena.com/player?id=95853795
+https://boardgamearena.com/player?id=94771602
+https://boardgamearena.com/player?id=97576843
+https://boardgamearena.com/player?id=97359842
+https://boardgamearena.com/player?id=97177161
+https://boardgamearena.com/player?id=96740270
+https://boardgamearena.com/player?id=96454649
+https://boardgamearena.com/player?id=95956343
+https://boardgamearena.com/player?id=93503949
+https://boardgamearena.com/player?id=92884603
+https://boardgamearena.com/player?id=92077328
+https://boardgamearena.com/player?id=91852193
+https://boardgamearena.com/player?id=90162723
+
+---Origin---
+
+Australia
+Hong Kong
+South Korea
+China
+Australia
+Malaysia
+Japan
+Thailand
+Japan
+Japan
+China
+Japan
+Taiwan
+South Korea
+China
+China
+India
+Japan
+Viet Nam
+New Zealand
+
+---Language---
+
+中文 (漢)
+English, 中文 (漢), 中文 (汉)
+한국어
+English, 中文 (漢), 中文 (汉)
+English
+English, 中文 (汉)
+日本語
+ไทย
+日本語
+中文 (漢)
+中文 (汉)
+中文 (汉)
+中文 (漢)
+
+
+中文 (汉)
+English
+日本語
+English
+English, Español, 中文 (漢)
+
+
+- Origins of players:
+
+France                      16%
+United States of America    15%
+Poland                      10%
+Canada                       5%
+Japan                        5%
+China                        4%
+Germany                      4%
+Belgium                      3%
+Mexico                       3%
+Spain                        3%
+Australia                    2%
+United Kingdom               2%
+Russia                       2%
+South Korea                  2%
+Iran                         2%
+Italy                        2%
+Armenia                      1%
+Taiwan                       1%
+Romania                      1%
+Türkiye                      1%
+Thailand                     1%
+Malaysia                     1%
+Portugal                     1%
+New Zealand                  1%
+Moldova                      1%
+India                        1%
+Hungary                      1%
+Hong Kong                    1%
+Czechia                      1%
+Colombia                     1%
+Bolivia                      1%
+Viet Nam                     1%
+Name: count, dtype: object
+
+
+
+- Q1/Q2/Q3 of player's Elo rating:
+
+117/187/274
+
+---BlackList---
+
+samikipen
+Shugun
+ssunry
+Emirhan Boya
+trefoil
+samikipen
+Csciencec
+ssunry
+dove8739
+dsgirl12
+Emirhan Boya
+Shugun
+hrabia delete
+ssunry
+Heylord
+salmacp
+ScaredyCat2811
+Jmaurer93
+dsgirl12
+samikipen
+ssunry
+fifi-sarah
+Heylord
+cuitlahac
+Ajka14
+samikipen
+ssunry
+lakiche2
+trefoil
+mamile56
+cuitlahac
+Heylord
+samikipen
+ssunry
+ph1988
+Anne-Cé 87
+Milagro123
+LineM88
+Dead-Master
+ph1988
+LineM88
+camelliabramble
+PingPing_love
+Mehdi Askari202127
+ph1988
+LineM88
+camelliabramble
+Anulka2311
+LineM88
+PingPing_love
+LineM88
+Iwoonaz
+vishal41
+camelliabramble
+ph1988
+LineM88
+
+-----
+Q1/Q2/Q3 quantile of time: 
+1.6, 3.0, 5.0

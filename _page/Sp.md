@@ -10,7 +10,8 @@ layout: default
 ### Region standings
 
 
-🥇Japan(825) 🥈China(200) 🥉Hong Kong(175)
+🥇Japan(825) 🥈Hong Kong(250) 🥉China(210)
+
 
 
 
@@ -27,6 +28,28 @@ layout: default
 
 
 ### Tournament details
+
+
+#### [Season 6](https://boardgamearena.com/tournament?id=352940)
+- Date: 03/31/2025 - 05/20/2025
+- Number of players: 96
+- Top origins of players: France 16% United States of America 15% Poland 10% Canada 5% Japan 5%
+- Abandoned tables (reached duration limit): 15%
+- Cancelled tables (player left or got kicked): 5%
+- Q1/Q2/Q3 of player's Elo rating: 117/187/274
+- Q1/Q2/Q3 of table duration (days): 1.6/3.0/5.0
+- Winners(meta event points): am_demonhunter(100); JQE(75); arno c r(50); Kunijeel(50); 228930665(10); Feisty Flamingo(10); Ardys61(10); Alden88(10)
+
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 6_Elo_20250528185722.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px; margin-top:-15px"/>
+</div>
+<div>
+ <img src="/wpoc/assets/images/tournament/t_SplendorWestern Pacific Ocean Cup • Season 6_Duration_20250528212218.png" width="300" style="display: block; margin-left: 30px; margin-bottom: 5px;"/>
+</div>
+<p>&nbsp;</p>
+
+
+
 
 #### [Season 5](https://en.boardgamearena.com/tournament?id=344680)
 - Date: 01/27/2025 - 03/15/2025
